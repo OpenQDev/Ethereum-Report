@@ -10,11 +10,13 @@ import RankInsights from "./RankInsights";
 import TeamsActivityChart from "./TeamsActivityChart";
 import TeamsAndUsersActivityChart from "./TeamsAndUsersActivityChart";
 import TopDevelopersChart from "./TopDevelopersChart";
+import TopDevelopersByStarsChart from "./TopDevelopersByStarsChart";
 import TopRepositoriesChart from "./TopRepositoriesChart";
 import TopStarredReposChart from "./TopStarredReposChart";
 
 import Data from "../../public/data.json";
 import Top50DevelopersTable from "./Top50DevelopersTable";
+import Top50DevelopersByStarsTable from "./Top50DevelopersByStarsTable";
 import Top50RepositoriesTable from "./Top50RepositoriesTable";
 import Top50StarredRepositoriesTable from "./Top50StarredRepositoriesTable";
 import LanguageDistributionChart from "./LanguageDistributionChart";
@@ -113,6 +115,21 @@ export default function Dashboard() {
           <Top50DevelopersTable
             developers={Data.top100Devs.filter((dev) => dev.login !== "")}
           />
+        </div>
+      </div>
+
+      {/* Top Developers by Stars - Chart and Table side by side on desktop */}
+      <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 lg:items-stretch">
+        <div className="flex flex-col">
+          <TopDevelopersByStarsChart
+            developers={Data.top100DevsByStars}
+            title="Top Developers by Stars"
+            description="Leading developers in the Ethereum ecosystem ranked by total stars across all their GitHub repositories"
+          />
+        </div>
+
+        <div className="flex flex-col">
+          <Top50DevelopersByStarsTable developers={Data.top100DevsByStars} />
         </div>
       </div>
 
