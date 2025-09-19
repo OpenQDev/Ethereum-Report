@@ -89661,6 +89661,408 @@
   },
   "error": null,
   "listEvaluationVersion": "2025-08-20",
+  "top100DevsByStars": [
+    {
+      "github_username": "kriskowal",
+      "total_stars": "15540"
+    },
+    {
+      "github_username": "bkrem",
+      "total_stars": "7671"
+    },
+    {
+      "github_username": "transmissions11",
+      "total_stars": "7402"
+    },
+    {
+      "github_username": "piotrwitek",
+      "total_stars": "5810"
+    },
+    {
+      "github_username": "rvagg",
+      "total_stars": "4415"
+    },
+    {
+      "github_username": "enesozturk",
+      "total_stars": "4023"
+    },
+    {
+      "github_username": "pk910",
+      "total_stars": "3943"
+    },
+    {
+      "github_username": "pcaversaccio",
+      "total_stars": "3414"
+    },
+    {
+      "github_username": "wa0x6e",
+      "total_stars": "3359"
+    },
+    {
+      "github_username": "wighawag",
+      "total_stars": "3260"
+    },
+    {
+      "github_username": "mishushakov",
+      "total_stars": "3106"
+    },
+    {
+      "github_username": "austintgriffith",
+      "total_stars": "2885"
+    },
+    {
+      "github_username": "pubkey",
+      "total_stars": "2822"
+    },
+    {
+      "github_username": "jxom",
+      "total_stars": "2756"
+    },
+    {
+      "github_username": "refcell",
+      "total_stars": "2661"
+    },
+    {
+      "github_username": "winder",
+      "total_stars": "2156"
+    },
+    {
+      "github_username": "naugtur",
+      "total_stars": "1940"
+    },
+    {
+      "github_username": "naddison36",
+      "total_stars": "1790"
+    },
+    {
+      "github_username": "mds1",
+      "total_stars": "1737"
+    },
+    {
+      "github_username": "protolambda",
+      "total_stars": "1698"
+    },
+    {
+      "github_username": "dennis-tra",
+      "total_stars": "1672"
+    },
+    {
+      "github_username": "ravenac95",
+      "total_stars": "1597"
+    },
+    {
+      "github_username": "benface",
+      "total_stars": "1514"
+    },
+    {
+      "github_username": "nagisa",
+      "total_stars": "1483"
+    },
+    {
+      "github_username": "archseer",
+      "total_stars": "1371"
+    },
+    {
+      "github_username": "wslyvh",
+      "total_stars": "1345"
+    },
+    {
+      "github_username": "c9s",
+      "total_stars": "1285"
+    },
+    {
+      "github_username": "smartcontracts",
+      "total_stars": "1228"
+    },
+    {
+      "github_username": "rkalis",
+      "total_stars": "1074"
+    },
+    {
+      "github_username": "aviggiano",
+      "total_stars": "921"
+    },
+    {
+      "github_username": "ralexstokes",
+      "total_stars": "876"
+    },
+    {
+      "github_username": "peterpeterparker",
+      "total_stars": "800"
+    },
+    {
+      "github_username": "doomsower",
+      "total_stars": "595"
+    },
+    {
+      "github_username": "zemse",
+      "total_stars": "593"
+    },
+    {
+      "github_username": "maheshmurthy",
+      "total_stars": "520"
+    },
+    {
+      "github_username": "janicduplessis",
+      "total_stars": "495"
+    },
+    {
+      "github_username": "clabby",
+      "total_stars": "493"
+    },
+    {
+      "github_username": "lispc",
+      "total_stars": "468"
+    },
+    {
+      "github_username": "zimpha",
+      "total_stars": "432"
+    },
+    {
+      "github_username": "naps62",
+      "total_stars": "431"
+    },
+    {
+      "github_username": "kristoferlund",
+      "total_stars": "363"
+    },
+    {
+      "github_username": "frangio",
+      "total_stars": "362"
+    },
+    {
+      "github_username": "vittominacori",
+      "total_stars": "348"
+    },
+    {
+      "github_username": "iainnash",
+      "total_stars": "342"
+    },
+    {
+      "github_username": "li-jia-nan",
+      "total_stars": "335"
+    },
+    {
+      "github_username": "nlordell",
+      "total_stars": "315"
+    },
+    {
+      "github_username": "mario-eth",
+      "total_stars": "300"
+    },
+    {
+      "github_username": "maurelian",
+      "total_stars": "292"
+    },
+    {
+      "github_username": "oveddan",
+      "total_stars": "285"
+    },
+    {
+      "github_username": "ernestognw",
+      "total_stars": "279"
+    },
+    {
+      "github_username": "yagopv",
+      "total_stars": "267"
+    },
+    {
+      "github_username": "ajsutton",
+      "total_stars": "263"
+    },
+    {
+      "github_username": "stephancill",
+      "total_stars": "263"
+    },
+    {
+      "github_username": "0mkara",
+      "total_stars": "254"
+    },
+    {
+      "github_username": "dimkouv",
+      "total_stars": "253"
+    },
+    {
+      "github_username": "dcposch",
+      "total_stars": "249"
+    },
+    {
+      "github_username": "pcw109550",
+      "total_stars": "236"
+    },
+    {
+      "github_username": "hasparus",
+      "total_stars": "229"
+    },
+    {
+      "github_username": "skibitsky",
+      "total_stars": "227"
+    },
+    {
+      "github_username": "fiveoutofnine",
+      "total_stars": "219"
+    },
+    {
+      "github_username": "benjaminion",
+      "total_stars": "214"
+    },
+    {
+      "github_username": "maoueh",
+      "total_stars": "208"
+    },
+    {
+      "github_username": "apoorvlathey",
+      "total_stars": "203"
+    },
+    {
+      "github_username": "michaelsproul",
+      "total_stars": "201"
+    },
+    {
+      "github_username": "lmittmann",
+      "total_stars": "189"
+    },
+    {
+      "github_username": "chuwt",
+      "total_stars": "176"
+    },
+    {
+      "github_username": "kopy-kat",
+      "total_stars": "170"
+    },
+    {
+      "github_username": "bpierre",
+      "total_stars": "160"
+    },
+    {
+      "github_username": "masaun",
+      "total_stars": "155"
+    },
+    {
+      "github_username": "sponnet",
+      "total_stars": "154"
+    },
+    {
+      "github_username": "vplasencia",
+      "total_stars": "148"
+    },
+    {
+      "github_username": "luzzif",
+      "total_stars": "147"
+    },
+    {
+      "github_username": "h4x3rotab",
+      "total_stars": "143"
+    },
+    {
+      "github_username": "partylikeits1983",
+      "total_stars": "143"
+    },
+    {
+      "github_username": "bxpana",
+      "total_stars": "137"
+    },
+    {
+      "github_username": "lightsing",
+      "total_stars": "134"
+    },
+    {
+      "github_username": "cprussin",
+      "total_stars": "131"
+    },
+    {
+      "github_username": "sakulstra",
+      "total_stars": "124"
+    },
+    {
+      "github_username": "ngmisl",
+      "total_stars": "122"
+    },
+    {
+      "github_username": "o-az",
+      "total_stars": "115"
+    },
+    {
+      "github_username": "ericglau",
+      "total_stars": "115"
+    },
+    {
+      "github_username": "bonustrack",
+      "total_stars": "110"
+    },
+    {
+      "github_username": "escottalexander",
+      "total_stars": "107"
+    },
+    {
+      "github_username": "slavik0329",
+      "total_stars": "106"
+    },
+    {
+      "github_username": "codyborn",
+      "total_stars": "104"
+    },
+    {
+      "github_username": "ferranbt",
+      "total_stars": "103"
+    },
+    {
+      "github_username": "d10r",
+      "total_stars": "101"
+    },
+    {
+      "github_username": "marvinmarnold",
+      "total_stars": "100"
+    },
+    {
+      "github_username": "getong",
+      "total_stars": "97"
+    },
+    {
+      "github_username": "kyriediculous",
+      "total_stars": "97"
+    },
+    {
+      "github_username": "bkchr",
+      "total_stars": "93"
+    },
+    {
+      "github_username": "rauljordan",
+      "total_stars": "87"
+    },
+    {
+      "github_username": "adraffy",
+      "total_stars": "87"
+    },
+    {
+      "github_username": "seetadev",
+      "total_stars": "86"
+    },
+    {
+      "github_username": "raulk",
+      "total_stars": "85"
+    },
+    {
+      "github_username": "gvelez17",
+      "total_stars": "84"
+    },
+    {
+      "github_username": "critesjosh",
+      "total_stars": "82"
+    },
+    {
+      "github_username": "abarmat",
+      "total_stars": "81"
+    },
+    {
+      "github_username": "sambacha",
+      "total_stars": "79"
+    },
+    {
+      "github_username": "nachomazzara",
+      "total_stars": "78"
+    }
+  ],
   "top100Devs": [
     {
       "internal_id": 1424643,
