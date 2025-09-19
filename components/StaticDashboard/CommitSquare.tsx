@@ -39,7 +39,7 @@ export default function CommitSquare({
   return (
     <div className="group flex">
       <div
-        className={`${large ? "h-6 w-6" : "h-4 w-4"} ${bgColor} rounded-sm`}
+        className={`${large ? "h-3.5 w-3.5" : "h-3 w-3"} ${bgColor} rounded-[2px]`}
       ></div>
       {tooltip && (
         <div className="relative opacity-0 group-hover:opacity-100 transition-opacity duration-200 pointer-events-none">

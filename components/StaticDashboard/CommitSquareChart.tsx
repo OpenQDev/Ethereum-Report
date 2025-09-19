@@ -65,8 +65,8 @@ export default function CommitSquaresChart({
     return repoUrl;
   };
 
-  // Limit to top 50 on mobile, 300 on desktop
-  const displayLimit = isMobile ? 50 : 300;
+  // Limit to top 75 on mobile, 500 on desktop
+  const displayLimit = isMobile ? 75 : 500;
   const repoList = Object.keys(commitSquares).slice(0, displayLimit);
   const totalRepos = Object.keys(commitSquares).length;
 
@@ -122,7 +122,7 @@ export default function CommitSquaresChart({
                         return (
                           <div
                             key={month}
-                            className="text-center w-8 flex-shrink-0"
+                            className="text-center w-6 flex-shrink-0"
                           >
                             {monthName} {yearShort}
                           </div>
@@ -131,13 +131,13 @@ export default function CommitSquaresChart({
                     </div>
 
                     {/* Commit squares for all 12 months */}
-                    <div className="flex gap-1 min-w-max">
+                    <div className="flex gap-0.5 min-w-max">
                       {mobileMonths.map((month, monthIndex) => {
                         const shiftedMonth = mobileShiftedMonths[monthIndex];
                         return (
                           <div
                             key={`${repo}-${month}`}
-                            className="flex justify-center w-8 flex-shrink-0"
+                            className="flex justify-center w-6 flex-shrink-0"
                           >
                             <CommitSquare
                               commitsForCombo={
@@ -172,13 +172,13 @@ export default function CommitSquaresChart({
             <CardTitle>Team Activity Ranking</CardTitle>
             <CardDescription>
               Over the past 12 months{" "}
-              {repoCount > 300 && <span>(Top 300 Teams)</span>}
+              {repoCount > 500 && <span>(Top 500 Teams)</span>}
             </CardDescription>
           </div>
         </CardHeader>
 
         <>
-          <div id="scrollPart" className="max-h-[600px] overflow-y-auto">
+          <div id="scrollPart" className="max-h-[700px] overflow-y-auto">
             <table className="w-full">
               <thead>
                 <tr className="sticky top-0 bg-white dark:bg-gray-900 h-16">
@@ -196,7 +196,7 @@ export default function CommitSquaresChart({
                     const yearShort = year.slice(-2);
 
                     return (
-                      <th className="pb-3 text-center w-16 px-2" key={month}>
+                      <th className="pb-2 text-center w-12 px-1" key={month}>
                         <div className="text-xs text-gray-600 dark:text-gray-400 font-medium">
                           {monthName} {yearShort}
                         </div>
@@ -212,7 +212,7 @@ export default function CommitSquaresChart({
                       key={repo}
                       className="hover:bg-gray-50 dark:hover:bg-gray-800/50 transition-colors"
                     >
-                      <td className="w-[300px] text-sm text-gray-700 dark:text-gray-300  font-medium px-6 py-4">
+                      <td className="w-[280px] text-xs text-gray-700 dark:text-gray-300  font-medium px-4 py-2">
                         <span className="text-xs text-gray-500 dark:text-gray-400 mr-2">
                           #{index + 1}
                         </span>
@@ -223,7 +223,7 @@ export default function CommitSquaresChart({
                         return (
                           <td
                             key={`${repo}-${originalMonth}`}
-                            className="px-3 py-4 text-center"
+                            className="px-1 py-2 text-center"
                           >
                             <div className="flex justify-center">
                               <CommitSquare
