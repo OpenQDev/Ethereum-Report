@@ -24,7 +24,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="en" className="dark">
       <head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </head>
@@ -32,7 +32,7 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         <div className="px-4 md:px-6 lg:px-8 flex flex-col gap-4 md:gap-6 lg:gap-8 py-4 md:py-6 lg:py-8 min-h-screen">
-          <h1 className="text-xl md:text-2xl lg:text-3xl font-bold text-gray-900 sm:truncate sm:tracking-tight">
+          <h1 className="text-xl md:text-2xl lg:text-3xl font-bold sm:truncate sm:tracking-tight">
             Ethereum Ecosystem
           </h1>
           {children}
