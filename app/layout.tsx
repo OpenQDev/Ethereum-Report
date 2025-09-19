@@ -17,6 +17,32 @@ export const metadata: Metadata = {
   title: "Opensauced - Ethereum ecosystem developer metrics",
   description:
     "Comprehensive dashboard showing Ethereum ecosystem statistics and insights",
+  keywords: [
+    "Ethereum",
+    "developer metrics",
+    "blockchain",
+    "ecosystem",
+    "statistics",
+    "dashboard",
+    "opensauced",
+    "cryptocurrency",
+    "web3",
+    "development analytics"
+  ],
+  authors: [{ name: "Opensauced" }],
+  creator: "Opensauced",
+  publisher: "Opensauced",
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-video-preview': -1,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
+  },
   icons: {
     icon: [
       { url: '/favicon-16x16.png', sizes: '16x16', type: 'image/png' },
@@ -27,6 +53,34 @@ export const metadata: Metadata = {
       { url: '/apple-touch-icon.png', sizes: '180x180', type: 'image/png' },
     ],
   },
+  openGraph: {
+    type: 'website',
+    locale: 'en_US',
+    url: 'https://ethereum-metrics.opensauced.pizza',
+    title: 'Opensauced - Ethereum ecosystem developer metrics',
+    description: 'Comprehensive dashboard showing Ethereum ecosystem statistics and insights',
+    siteName: 'Opensauced Ethereum Metrics',
+    images: [
+      {
+        url: '/social_thumbnail.png',
+        width: 1200,
+        height: 630,
+        alt: 'Opensauced Ethereum ecosystem developer metrics dashboard',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Opensauced - Ethereum ecosystem developer metrics',
+    description: 'Comprehensive dashboard showing Ethereum ecosystem statistics and insights',
+    site: '@opensauced',
+    creator: '@opensauced',
+    images: ['/social_thumbnail.png'],
+  },
+  alternates: {
+    canonical: 'https://ethereum-metrics.opensauced.pizza',
+  },
+  category: 'technology',
 };
 
 export default function RootLayout({
