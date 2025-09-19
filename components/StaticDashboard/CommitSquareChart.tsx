@@ -172,7 +172,7 @@ export default function CommitSquaresChart({
             <CardTitle>Team Activity Ranking</CardTitle>
             <CardDescription>
               Over the past 12 months{" "}
-              {repoCount > 500 && <span>(Top 500 Teams)</span>}
+              {repoCount > 500 && <span>(Top 300 Teams)</span>}
             </CardDescription>
           </div>
         </CardHeader>

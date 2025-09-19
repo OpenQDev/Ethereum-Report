@@ -15,8 +15,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Opensauced - Ethereum ecosystem developer metrics",
-  description:
-    "Comprehensive dashboard showing Ethereum ecosystem statistics and insights",
+  description: "Comprehensive dashboard showing Ethereum ecosystem statistics and insights",
   keywords: [
     "Ethereum",
     "developer metrics",
