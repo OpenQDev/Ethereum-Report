@@ -124,7 +124,7 @@ export function DependenciesBarChart({
             </div>
           </CardHeader>
           <CardContent className="px-4 pt-4">
-            <div className="space-y-3 max-h-[400px] overflow-y-auto overscroll-y-contain dependencies-scroll">
+            <div className="space-y-3 max-h-[300px] overflow-y-auto overscroll-y-contain dependencies-scroll">
               {chartData.map((item, index) => {
                 const maxValue = Math.max(...chartData.map((d) => d.projects));
                 const percentage = (item.projects / maxValue) * 100;
@@ -178,7 +178,7 @@ export function DependenciesBarChart({
           <div className="overflow-x-auto overscroll-x-contain touch-pan-x">
             <ChartContainer
               config={chartConfig}
-              className="aspect-auto h-[400px]"
+              className="aspect-auto h-[300px]"
               style={{ width: `${chartWidth}px` }}
             >
               <BarChart accessibilityLayer data={chartData} width={chartWidth}>
