@@ -233,22 +233,29 @@ export default function TeamsActivityChart({
                       <ChartTooltipContent
                         labelFormatter={(value) => value}
                         indicator="dot"
+                        className="[&_span.font-medium]:ml-2"
                       />
                     }
                   />
                   <Area
                     yAxisId="right"
                     dataKey="commits"
-                    type="monotone"
+                    type="linear"
                     fill="url(#fillCommits)"
                     stroke="var(--color-commits)"
+                    strokeWidth={2}
+                    dot={{ fill: "var(--color-commits)", strokeWidth: 2, r: 4 }}
+                    activeDot={{ r: 6 }}
                   />
                   <Area
                     yAxisId="left"
                     dataKey="teams"
-                    type="monotone"
+                    type="linear"
                     fill="url(#fillTeams)"
                     stroke="var(--color-teams)"
+                    strokeWidth={2}
+                    dot={{ fill: "var(--color-teams)", strokeWidth: 2, r: 4 }}
+                    activeDot={{ r: 6 }}
                   />
                   <ChartLegend
                     content={<ChartLegendContent />}

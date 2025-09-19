@@ -135,16 +135,16 @@ export function DependenciesBarChart({
                     className="space-y-1"
                   >
                     <div className="flex items-center justify-between text-sm">
-                      <span className="font-medium text-gray-900 dark:text-gray-100 truncate flex-1 mr-2">
+                      <span className="font-medium text-foreground truncate flex-1 mr-2">
                         #{index + 1} {item.dependency_name}
                       </span>
-                      <span className="text-gray-600 dark:text-gray-400 text-xs">
+                      <span className="text-muted-foreground text-xs">
                         {item.projects >= 1000
                           ? `${(item.projects / 1000).toFixed(0)}k`
                           : item.projects}
                       </span>
                     </div>
-                    <div className="w-full bg-gray-200 dark:bg-gray-700 rounded-full h-2">
+                    <div className="w-full bg-muted rounded-full h-2">
                       <div
                         className="h-2 rounded-full transition-all duration-300"
                         style={{

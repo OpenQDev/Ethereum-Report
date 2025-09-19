@@ -47,22 +47,25 @@ export default function UsersMap({
         </div>
       </CardHeader>
       <div className="flex-1 p-6 overflow-hidden">
-        <MapContainer
-          center={[latitude, longitude]}
-          zoom={1.3}
-          minZoom={1.3}
-          maxBounds={[
-            [-90, -180], // Southwest coordinates
-            [90, 180], // Northeast coordinates
-          ]}
-          ref={mapRef}
-          style={{ height: "100%", width: "100%" }}
-          className="rounded-lg"
-        >
-          <TileLayer
-            attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-            url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-          />
+        <div className="relative h-full w-full">
+          <MapContainer
+            center={[latitude, longitude]}
+            zoom={1.3}
+            minZoom={1.3}
+            maxBounds={[
+              [-90, -180], // Southwest coordinates
+              [90, 180], // Northeast coordinates
+            ]}
+            ref={mapRef}
+            style={{ height: "100%", width: "100%" }}
+            className="rounded-lg"
+          >
+            <TileLayer
+              attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+              url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+              opacity={0.7}
+            />
+            <div className="absolute inset-0 bg-primary/5 dark:bg-primary/10 pointer-events-none rounded-lg z-[400]" />
           <MarkerClusterGroup chunkedLoading>
             {usersLocations.map((result, index) => {
               if (!result.lat || !result.long) return null;
@@ -84,6 +87,7 @@ export default function UsersMap({
             })}
           </MarkerClusterGroup>
         </MapContainer>
+        </div>
       </div>
     </Card>
   );

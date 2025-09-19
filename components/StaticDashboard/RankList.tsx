@@ -61,7 +61,7 @@ export default function RankList({
                         key={login}
                         className={cn(
                           "transition-colors duration-200",
-                          "hover:bg-gray-50 dark:hover:bg-gray-800" // Add background on hover
+                          "hover:bg-muted/50" // Add background on hover
                         )}
                       >
                         <TableCell>
@@ -74,7 +74,7 @@ export default function RankList({
                             href={`https://github.com/${login}`}
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-200 flex items-center gap-2"
+                            className="text-muted-foreground hover:text-foreground flex items-center gap-2"
                           >
                             <svg
                               width="16"

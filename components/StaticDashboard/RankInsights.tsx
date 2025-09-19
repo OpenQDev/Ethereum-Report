@@ -35,27 +35,27 @@ const RankInsights = () => {
       {/* Main metrics row */}
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-6 mb-6">
         <DashboardCard
-          leadText="Current Active Devs"
+          leadText="Tracked in the entire dataset"
           metricName="Current Active Devs"
           leads={allActiveDevs.toString()}
           iconType="Users"
         />
 
         <DashboardCard
-          leadText="Total Users"
+          leadText="Tracked in the entire dataset"
           metricName="Total Users"
           leads={totalUsersAnalyzed.toString()}
           iconType="Users"
         />
 
         <DashboardCard
-          leadText="Total Repos"
+          leadText="Tracked in the entire dataset"
           metricName="Total Repos"
           leads={totalReposProcessed.toString()}
           iconType="Repository"
         />
         <DashboardCard
-          leadText="Total Commits"
+          leadText="Tracked in the entire dataset"
           metricName="Total Commits"
           leads={totalCommitsAnalyzed.toString()}
           iconType="Commit"

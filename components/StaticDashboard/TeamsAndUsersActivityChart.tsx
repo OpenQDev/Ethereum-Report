@@ -42,8 +42,8 @@ function prepareChartData(
         type: "line",
         label: "Commits",
         data: totalCommits,
-        borderColor: "hsla(248, 83%, 58%, 0.75)",
-        backgroundColor: "hsla(248, 83%, 58%, 0.75)",
+        borderColor: "hsl(221 83% 53%)",
+        backgroundColor: "hsl(221 83% 53%)",
         borderWidth: 1.5,
         pointBorderWidth: 0,
         pointRadius: 0,
@@ -56,8 +56,8 @@ function prepareChartData(
         type: "bar",
         label: "Devs",
         data: totalCommitAuthors,
-        borderColor: "hsl(114, 42%, 50%)",
-        backgroundColor: "hsl(114, 42%, 50%)",
+        borderColor: "hsl(212 95% 68%)",
+        backgroundColor: "hsl(212 95% 68%)",
         borderWidth: 1,
         barPercentage: 0.9,
         yAxisID: "bar-y-axis",
@@ -268,22 +268,29 @@ export default function TeamsAndUsersActivityChart({
                     <ChartTooltipContent
                       labelFormatter={(value) => value}
                       indicator="dot"
+                      className="[&_span.font-medium]:ml-2"
                     />
                   }
                 />
                 <Area
                   yAxisId="right"
                   dataKey="commits"
-                  type="monotone"
+                  type="linear"
                   fill="url(#fillCommits)"
                   stroke="var(--color-commits)"
+                  strokeWidth={2}
+                  dot={{ fill: "var(--color-commits)", strokeWidth: 2, r: 4 }}
+                  activeDot={{ r: 6 }}
                 />
                 <Area
                   yAxisId="left"
                   dataKey="devs"
-                  type="monotone"
+                  type="linear"
                   fill="url(#fillDevs)"
                   stroke="var(--color-devs)"
+                  strokeWidth={2}
+                  dot={{ fill: "var(--color-devs)", strokeWidth: 2, r: 4 }}
+                  activeDot={{ r: 6 }}
                 />
                 <ChartLegend
                   content={<ChartLegendContent />}

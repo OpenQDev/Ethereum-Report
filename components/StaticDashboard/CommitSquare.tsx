@@ -17,21 +17,21 @@ export default function CommitSquare({
     switch (gradient) {
       case 1000:
       case 900:
-        return "bg-green-800";
+        return "bg-blue-900 dark:bg-blue-800";
       case 800:
       case 700:
-        return "bg-green-700";
+        return "bg-blue-800 dark:bg-blue-700";
       case 600:
       case 500:
-        return "bg-green-600";
+        return "bg-blue-700 dark:bg-blue-600";
       case 400:
       case 300:
-        return "bg-green-500";
+        return "bg-blue-600 dark:bg-blue-500";
       case 200:
       case 100:
-        return "bg-green-400";
+        return "bg-blue-500 dark:bg-blue-400";
       default:
-        return "bg-gray-300/50";
+        return "bg-blue-100 dark:bg-blue-950/50";
     }
   };
   const bgColor = color(gradient);
@@ -43,7 +43,7 @@ export default function CommitSquare({
       ></div>
       {tooltip && (
         <div className="relative opacity-0 group-hover:opacity-100 transition-opacity duration-200 pointer-events-none">
-          <div className="absolute -top-6 left-1/2 transform -translate-x-1/2 whitespace-nowrap bg-gray-800 text-white text-xs px-1.5 py-0.5 rounded text-center z-30 max-w-20">
+          <div className="absolute -top-6 left-1/2 transform -translate-x-1/2 whitespace-nowrap bg-card border text-card-foreground text-xs px-1.5 py-0.5 rounded text-center z-30 max-w-20 shadow-lg">
             {commitsForCombo.count}
           </div>
         </div>
