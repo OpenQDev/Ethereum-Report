@@ -111,6 +111,25 @@ export default function RootLayout({
               <span className={`text-sm text-gray-400 -ml-5 ${geistSans.className}`}>
                 Ethereum ecosystem developer metrics
               </span>
+              <div className="flex items-center gap-2 -ml-5 -mt-1">
+                <span className={`text-sm text-gray-500 ${geistSans.className}`}>
+                  Powered by
+                </span>
+                <a
+                  href="https://www.openq.dev"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center hover:opacity-80 transition-opacity"
+                >
+                  <Image
+                    src="/openq-logo.png"
+                    alt="OpenQ Logo"
+                    width={120}
+                    height={120}
+                    className="h-16 w-16 object-contain"
+                  />
+                </a>
+              </div>
             </div>
           </div>
           {children}

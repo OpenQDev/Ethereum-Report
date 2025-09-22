@@ -184,6 +184,17 @@ export default function TeamsAndUsersActivityChart({
                       stopOpacity={0.1}
                     />
                   </linearGradient>
+                  <pattern id="openq-logo" patternUnits="userSpaceOnUse" width="100%" height="100%">
+                    <image
+                      href="/openq-logo.png"
+                      x="50%"
+                      y="50%"
+                      width="100"
+                      height="100"
+                      opacity={0.5}
+                      transform="translate(-50, -50)"
+                    />
+                  </pattern>
                 </defs>
                 <CartesianGrid vertical={false} />
                 <XAxis
@@ -295,6 +306,15 @@ export default function TeamsAndUsersActivityChart({
                 <ChartLegend
                   content={<ChartLegendContent />}
                   wrapperStyle={isMobile ? { fontSize: "12px" } : {}}
+                />
+                <image
+                  href="/openq-logo.png"
+                  x="50%"
+                  y="50%"
+                  width="100"
+                  height="100"
+                  opacity={0.5}
+                  transform="translate(-50, -50)"
                 />
               </AreaChart>
             </ChartContainer>
