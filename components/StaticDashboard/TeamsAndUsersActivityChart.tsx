@@ -184,7 +184,12 @@ export default function TeamsAndUsersActivityChart({
                       stopOpacity={0.1}
                     />
                   </linearGradient>
-                  <pattern id="openq-logo" patternUnits="userSpaceOnUse" width="100%" height="100%">
+                  <pattern
+                    id="openq-logo"
+                    patternUnits="userSpaceOnUse"
+                    width="100%"
+                    height="100%"
+                  >
                     <image
                       href="/openq-logo.png"
                       x="50%"

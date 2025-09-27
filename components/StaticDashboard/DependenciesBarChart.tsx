@@ -181,7 +181,17 @@ export function DependenciesBarChart({
               className="aspect-auto h-[300px]"
               style={{ width: `${chartWidth}px` }}
             >
-              <BarChart accessibilityLayer data={chartData} width={chartWidth}>
+              <BarChart
+                accessibilityLayer
+                data={chartData}
+                width={chartWidth}
+                margin={{
+                  top: 30,
+                  right: 30,
+                  left: 20,
+                  bottom: 20,
+                }}
+              >
                 <CartesianGrid vertical={false} />
                 <XAxis
                   dataKey="dependency_name"
