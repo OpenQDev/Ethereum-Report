@@ -84149,57 +84149,57 @@
     }
   },
   "monthlyRepoStats": {
-    "2025-09": {
-      "totalCommits": 57972,
-      "activeProjects": 1051
-    },
-    "2025-08": {
-      "totalCommits": 214271,
-      "activeProjects": 4994
-    },
-    "2025-03": {
-      "totalCommits": 181190,
-      "activeProjects": 7095
-    },
-    "2025-07": {
-      "totalCommits": 191343,
-      "activeProjects": 6174
-    },
-    "2025-06": {
-      "totalCommits": 151970,
-      "activeProjects": 7810
-    },
-    "2025-02": {
-      "totalCommits": 200974,
-      "activeProjects": 7723
-    },
-    "2025-05": {
-      "totalCommits": 149205,
-      "activeProjects": 6779
-    },
-    "2025-01": {
-      "totalCommits": 298586,
-      "activeProjects": 7766
-    },
-    "2025-04": {
-      "totalCommits": 162431,
-      "activeProjects": 6412
-    },
-    "2024-12": {
-      "totalCommits": 283795,
-      "activeProjects": 8003
-    },
-    "2024-11": {
-      "totalCommits": 268279,
-      "activeProjects": 8666
+    "2024-08": {
+      "totalCommits": 4579,
+      "activeProjects": 1140
     },
     "2024-09": {
-      "totalCommits": 289684,
-      "activeProjects": 10290
+      "totalCommits": 290503,
+      "activeProjects": 11022
     },
     "2024-10": {
-      "totalCommits": 295259,
-      "activeProjects": 10107
+      "totalCommits": 295437,
+      "activeProjects": 10915
+    },
+    "2024-11": {
+      "totalCommits": 266147,
+      "activeProjects": 9288
+    },
+    "2024-12": {
+      "totalCommits": 277178,
+      "activeProjects": 8463
+    },
+    "2025-01": {
+      "totalCommits": 284118,
+      "activeProjects": 8154
+    },
+    "2025-02": {
+      "totalCommits": 201114,
+      "activeProjects": 8120
+    },
+    "2025-03": {
+      "totalCommits": 183596,
+      "activeProjects": 7455
+    },
+    "2025-04": {
+      "totalCommits": 164145,
+      "activeProjects": 6740
+    },
+    "2025-05": {
+      "totalCommits": 153868,
+      "activeProjects": 7405
+    },
+    "2025-06": {
+      "totalCommits": 169852,
+      "activeProjects": 9106
+    },
+    "2025-07": {
+      "totalCommits": 205020,
+      "activeProjects": 7012
+    },
+    "2025-08": {
+      "totalCommits": 223699,
+      "activeProjects": 5575
     }
   },
   "insights": {
