@@ -84088,62 +84088,622 @@
   },
   "monthlyUserStats": {
     "2024-08": {
-      "monthlyTotalCommits": 91419,
-      "monthlyCommittingAuthors": 9105
+      "monthlyTotalCommits": 34187,
+      "monthlyCommittingAuthors": 5711
     },
     "2024-09": {
-      "monthlyTotalCommits": 171379,
-      "monthlyCommittingAuthors": 11845
+      "monthlyTotalCommits": 181748,
+      "monthlyCommittingAuthors": 12314
     },
     "2024-10": {
-      "monthlyTotalCommits": 183515,
-      "monthlyCommittingAuthors": 12038
+      "monthlyTotalCommits": 194105,
+      "monthlyCommittingAuthors": 12609
     },
     "2024-11": {
-      "monthlyTotalCommits": 149195,
-      "monthlyCommittingAuthors": 10766
+      "monthlyTotalCommits": 158058,
+      "monthlyCommittingAuthors": 11278
     },
     "2024-12": {
-      "monthlyTotalCommits": 139084,
-      "monthlyCommittingAuthors": 10180
+      "monthlyTotalCommits": 145542,
+      "monthlyCommittingAuthors": 10610
     },
     "2025-01": {
-      "monthlyTotalCommits": 142572,
-      "monthlyCommittingAuthors": 9919
+      "monthlyTotalCommits": 148745,
+      "monthlyCommittingAuthors": 10324
     },
     "2025-02": {
-      "monthlyTotalCommits": 140141,
-      "monthlyCommittingAuthors": 9678
+      "monthlyTotalCommits": 146605,
+      "monthlyCommittingAuthors": 10154
     },
     "2025-03": {
-      "monthlyTotalCommits": 134420,
-      "monthlyCommittingAuthors": 9148
+      "monthlyTotalCommits": 141575,
+      "monthlyCommittingAuthors": 9606
     },
     "2025-04": {
-      "monthlyTotalCommits": 121894,
-      "monthlyCommittingAuthors": 8249
+      "monthlyTotalCommits": 128349,
+      "monthlyCommittingAuthors": 8696
     },
     "2025-05": {
-      "monthlyTotalCommits": 120498,
-      "monthlyCommittingAuthors": 8307
+      "monthlyTotalCommits": 129163,
+      "monthlyCommittingAuthors": 9006
     },
     "2025-06": {
-      "monthlyTotalCommits": 125422,
-      "monthlyCommittingAuthors": 8909
+      "monthlyTotalCommits": 144660,
+      "monthlyCommittingAuthors": 10159
     },
     "2025-07": {
-      "monthlyTotalCommits": 124738,
-      "monthlyCommittingAuthors": 7660
+      "monthlyTotalCommits": 139249,
+      "monthlyCommittingAuthors": 8503
     },
     "2025-08": {
-      "monthlyTotalCommits": 118186,
-      "monthlyCommittingAuthors": 6338
+      "monthlyTotalCommits": 137183,
+      "monthlyCommittingAuthors": 7021
     },
     "2025-09": {
-      "monthlyTotalCommits": 67697,
-      "monthlyCommittingAuthors": 2504
+      "monthlyTotalCommits": 87472,
+      "monthlyCommittingAuthors": 2847
     },
-    "no_commits-undefined": {
+    "2025-10": {
+      "monthlyTotalCommits": 15,
+      "monthlyCommittingAuthors": 3
+    },
+    "2025-11": {
+      "monthlyTotalCommits": 14,
+      "monthlyCommittingAuthors": 3
+    },
+    "2025-12": {
+      "monthlyTotalCommits": 15,
+      "monthlyCommittingAuthors": 3
+    },
+    "2026-01": {
+      "monthlyTotalCommits": 13,
+      "monthlyCommittingAuthors": 3
+    },
+    "2026-02": {
+      "monthlyTotalCommits": 13,
+      "monthlyCommittingAuthors": 3
+    },
+    "2026-03": {
+      "monthlyTotalCommits": 15,
+      "monthlyCommittingAuthors": 3
+    },
+    "2026-04": {
+      "monthlyTotalCommits": 14,
+      "monthlyCommittingAuthors": 3
+    },
+    "2026-05": {
+      "monthlyTotalCommits": 16,
+      "monthlyCommittingAuthors": 3
+    },
+    "2026-06": {
+      "monthlyTotalCommits": 13,
+      "monthlyCommittingAuthors": 3
+    },
+    "2026-07": {
+      "monthlyTotalCommits": 16,
+      "monthlyCommittingAuthors": 3
+    },
+    "2026-08": {
+      "monthlyTotalCommits": 17,
+      "monthlyCommittingAuthors": 3
+    },
+    "2026-09": {
+      "monthlyTotalCommits": 17,
+      "monthlyCommittingAuthors": 3
+    },
+    "2026-10": {
+      "monthlyTotalCommits": 17,
+      "monthlyCommittingAuthors": 3
+    },
+    "2026-11": {
+      "monthlyTotalCommits": 14,
+      "monthlyCommittingAuthors": 3
+    },
+    "2026-12": {
+      "monthlyTotalCommits": 15,
+      "monthlyCommittingAuthors": 3
+    },
+    "2027-01": {
+      "monthlyTotalCommits": 17,
+      "monthlyCommittingAuthors": 3
+    },
+    "2027-02": {
+      "monthlyTotalCommits": 13,
+      "monthlyCommittingAuthors": 3
+    },
+    "2027-03": {
+      "monthlyTotalCommits": 19,
+      "monthlyCommittingAuthors": 3
+    },
+    "2027-04": {
+      "monthlyTotalCommits": 10,
+      "monthlyCommittingAuthors": 3
+    },
+    "2027-05": {
+      "monthlyTotalCommits": 16,
+      "monthlyCommittingAuthors": 3
+    },
+    "2027-06": {
+      "monthlyTotalCommits": 15,
+      "monthlyCommittingAuthors": 3
+    },
+    "2027-07": {
+      "monthlyTotalCommits": 16,
+      "monthlyCommittingAuthors": 3
+    },
+    "2027-08": {
+      "monthlyTotalCommits": 19,
+      "monthlyCommittingAuthors": 3
+    },
+    "2027-09": {
+      "monthlyTotalCommits": 12,
+      "monthlyCommittingAuthors": 3
+    },
+    "2027-10": {
+      "monthlyTotalCommits": 14,
+      "monthlyCommittingAuthors": 3
+    },
+    "2027-11": {
+      "monthlyTotalCommits": 16,
+      "monthlyCommittingAuthors": 3
+    },
+    "2027-12": {
+      "monthlyTotalCommits": 18,
+      "monthlyCommittingAuthors": 3
+    },
+    "2028-01": {
+      "monthlyTotalCommits": 20,
+      "monthlyCommittingAuthors": 3
+    },
+    "2028-02": {
+      "monthlyTotalCommits": 11,
+      "monthlyCommittingAuthors": 3
+    },
+    "2028-03": {
+      "monthlyTotalCommits": 17,
+      "monthlyCommittingAuthors": 3
+    },
+    "2028-04": {
+      "monthlyTotalCommits": 17,
+      "monthlyCommittingAuthors": 3
+    },
+    "2028-05": {
+      "monthlyTotalCommits": 15,
+      "monthlyCommittingAuthors": 3
+    },
+    "2028-06": {
+      "monthlyTotalCommits": 19,
+      "monthlyCommittingAuthors": 3
+    },
+    "2028-07": {
+      "monthlyTotalCommits": 20,
+      "monthlyCommittingAuthors": 3
+    },
+    "2028-08": {
+      "monthlyTotalCommits": 15,
+      "monthlyCommittingAuthors": 3
+    },
+    "2028-09": {
+      "monthlyTotalCommits": 10,
+      "monthlyCommittingAuthors": 3
+    },
+    "2028-10": {
+      "monthlyTotalCommits": 15,
+      "monthlyCommittingAuthors": 3
+    },
+    "2028-11": {
+      "monthlyTotalCommits": 16,
+      "monthlyCommittingAuthors": 3
+    },
+    "2028-12": {
+      "monthlyTotalCommits": 16,
+      "monthlyCommittingAuthors": 3
+    },
+    "2029-01": {
+      "monthlyTotalCommits": 14,
+      "monthlyCommittingAuthors": 3
+    },
+    "2029-02": {
+      "monthlyTotalCommits": 13,
+      "monthlyCommittingAuthors": 3
+    },
+    "2029-03": {
+      "monthlyTotalCommits": 14,
+      "monthlyCommittingAuthors": 3
+    },
+    "2029-04": {
+      "monthlyTotalCommits": 16,
+      "monthlyCommittingAuthors": 3
+    },
+    "2029-05": {
+      "monthlyTotalCommits": 11,
+      "monthlyCommittingAuthors": 3
+    },
+    "2029-06": {
+      "monthlyTotalCommits": 16,
+      "monthlyCommittingAuthors": 3
+    },
+    "2029-07": {
+      "monthlyTotalCommits": 12,
+      "monthlyCommittingAuthors": 3
+    },
+    "2029-08": {
+      "monthlyTotalCommits": 14,
+      "monthlyCommittingAuthors": 3
+    },
+    "2029-09": {
+      "monthlyTotalCommits": 15,
+      "monthlyCommittingAuthors": 3
+    },
+    "2029-10": {
+      "monthlyTotalCommits": 19,
+      "monthlyCommittingAuthors": 3
+    },
+    "2029-11": {
+      "monthlyTotalCommits": 12,
+      "monthlyCommittingAuthors": 3
+    },
+    "2029-12": {
+      "monthlyTotalCommits": 19,
+      "monthlyCommittingAuthors": 3
+    },
+    "2030-01": {
+      "monthlyTotalCommits": 14,
+      "monthlyCommittingAuthors": 3
+    },
+    "2030-02": {
+      "monthlyTotalCommits": 13,
+      "monthlyCommittingAuthors": 3
+    },
+    "2030-03": {
+      "monthlyTotalCommits": 16,
+      "monthlyCommittingAuthors": 3
+    },
+    "2030-04": {
+      "monthlyTotalCommits": 18,
+      "monthlyCommittingAuthors": 3
+    },
+    "2030-05": {
+      "monthlyTotalCommits": 15,
+      "monthlyCommittingAuthors": 3
+    },
+    "2030-06": {
+      "monthlyTotalCommits": 14,
+      "monthlyCommittingAuthors": 3
+    },
+    "2030-07": {
+      "monthlyTotalCommits": 17,
+      "monthlyCommittingAuthors": 3
+    },
+    "2030-08": {
+      "monthlyTotalCommits": 12,
+      "monthlyCommittingAuthors": 3
+    },
+    "2030-09": {
+      "monthlyTotalCommits": 16,
+      "monthlyCommittingAuthors": 3
+    },
+    "2030-10": {
+      "monthlyTotalCommits": 12,
+      "monthlyCommittingAuthors": 3
+    },
+    "2030-11": {
+      "monthlyTotalCommits": 16,
+      "monthlyCommittingAuthors": 3
+    },
+    "2030-12": {
+      "monthlyTotalCommits": 11,
+      "monthlyCommittingAuthors": 3
+    },
+    "2031-01": {
+      "monthlyTotalCommits": 17,
+      "monthlyCommittingAuthors": 3
+    },
+    "2031-02": {
+      "monthlyTotalCommits": 12,
+      "monthlyCommittingAuthors": 3
+    },
+    "2031-03": {
+      "monthlyTotalCommits": 12,
+      "monthlyCommittingAuthors": 3
+    },
+    "2031-04": {
+      "monthlyTotalCommits": 18,
+      "monthlyCommittingAuthors": 3
+    },
+    "2031-05": {
+      "monthlyTotalCommits": 15,
+      "monthlyCommittingAuthors": 3
+    },
+    "2031-06": {
+      "monthlyTotalCommits": 14,
+      "monthlyCommittingAuthors": 3
+    },
+    "2031-07": {
+      "monthlyTotalCommits": 11,
+      "monthlyCommittingAuthors": 3
+    },
+    "2031-08": {
+      "monthlyTotalCommits": 20,
+      "monthlyCommittingAuthors": 3
+    },
+    "2031-09": {
+      "monthlyTotalCommits": 11,
+      "monthlyCommittingAuthors": 3
+    },
+    "2031-10": {
+      "monthlyTotalCommits": 14,
+      "monthlyCommittingAuthors": 3
+    },
+    "2031-11": {
+      "monthlyTotalCommits": 18,
+      "monthlyCommittingAuthors": 3
+    },
+    "2031-12": {
+      "monthlyTotalCommits": 17,
+      "monthlyCommittingAuthors": 3
+    },
+    "2032-01": {
+      "monthlyTotalCommits": 22,
+      "monthlyCommittingAuthors": 3
+    },
+    "2032-02": {
+      "monthlyTotalCommits": 13,
+      "monthlyCommittingAuthors": 3
+    },
+    "2032-03": {
+      "monthlyTotalCommits": 14,
+      "monthlyCommittingAuthors": 3
+    },
+    "2032-04": {
+      "monthlyTotalCommits": 15,
+      "monthlyCommittingAuthors": 3
+    },
+    "2032-05": {
+      "monthlyTotalCommits": 15,
+      "monthlyCommittingAuthors": 3
+    },
+    "2032-06": {
+      "monthlyTotalCommits": 15,
+      "monthlyCommittingAuthors": 3
+    },
+    "2032-07": {
+      "monthlyTotalCommits": 17,
+      "monthlyCommittingAuthors": 3
+    },
+    "2032-08": {
+      "monthlyTotalCommits": 13,
+      "monthlyCommittingAuthors": 3
+    },
+    "2032-09": {
+      "monthlyTotalCommits": 14,
+      "monthlyCommittingAuthors": 3
+    },
+    "2032-10": {
+      "monthlyTotalCommits": 15,
+      "monthlyCommittingAuthors": 3
+    },
+    "2032-11": {
+      "monthlyTotalCommits": 16,
+      "monthlyCommittingAuthors": 3
+    },
+    "2032-12": {
+      "monthlyTotalCommits": 15,
+      "monthlyCommittingAuthors": 3
+    },
+    "2033-01": {
+      "monthlyTotalCommits": 14,
+      "monthlyCommittingAuthors": 3
+    },
+    "2033-02": {
+      "monthlyTotalCommits": 13,
+      "monthlyCommittingAuthors": 3
+    },
+    "2033-03": {
+      "monthlyTotalCommits": 11,
+      "monthlyCommittingAuthors": 3
+    },
+    "2033-04": {
+      "monthlyTotalCommits": 17,
+      "monthlyCommittingAuthors": 3
+    },
+    "2033-05": {
+      "monthlyTotalCommits": 13,
+      "monthlyCommittingAuthors": 3
+    },
+    "2033-06": {
+      "monthlyTotalCommits": 17,
+      "monthlyCommittingAuthors": 3
+    },
+    "2033-07": {
+      "monthlyTotalCommits": 16,
+      "monthlyCommittingAuthors": 3
+    },
+    "2033-08": {
+      "monthlyTotalCommits": 10,
+      "monthlyCommittingAuthors": 3
+    },
+    "2033-09": {
+      "monthlyTotalCommits": 15,
+      "monthlyCommittingAuthors": 3
+    },
+    "2033-10": {
+      "monthlyTotalCommits": 15,
+      "monthlyCommittingAuthors": 3
+    },
+    "2033-11": {
+      "monthlyTotalCommits": 12,
+      "monthlyCommittingAuthors": 3
+    },
+    "2033-12": {
+      "monthlyTotalCommits": 12,
+      "monthlyCommittingAuthors": 3
+    },
+    "2034-01": {
+      "monthlyTotalCommits": 14,
+      "monthlyCommittingAuthors": 3
+    },
+    "2034-02": {
+      "monthlyTotalCommits": 11,
+      "monthlyCommittingAuthors": 3
+    },
+    "2034-03": {
+      "monthlyTotalCommits": 16,
+      "monthlyCommittingAuthors": 3
+    },
+    "2034-04": {
+      "monthlyTotalCommits": 13,
+      "monthlyCommittingAuthors": 3
+    },
+    "2034-05": {
+      "monthlyTotalCommits": 14,
+      "monthlyCommittingAuthors": 3
+    },
+    "2034-06": {
+      "monthlyTotalCommits": 11,
+      "monthlyCommittingAuthors": 3
+    },
+    "2034-07": {
+      "monthlyTotalCommits": 14,
+      "monthlyCommittingAuthors": 3
+    },
+    "2034-08": {
+      "monthlyTotalCommits": 9,
+      "monthlyCommittingAuthors": 2
+    },
+    "2034-09": {
+      "monthlyTotalCommits": 8,
+      "monthlyCommittingAuthors": 2
+    },
+    "2034-10": {
+      "monthlyTotalCommits": 12,
+      "monthlyCommittingAuthors": 2
+    },
+    "2034-11": {
+      "monthlyTotalCommits": 8,
+      "monthlyCommittingAuthors": 2
+    },
+    "2034-12": {
+      "monthlyTotalCommits": 9,
+      "monthlyCommittingAuthors": 2
+    },
+    "2035-01": {
+      "monthlyTotalCommits": 10,
+      "monthlyCommittingAuthors": 2
+    },
+    "2035-02": {
+      "monthlyTotalCommits": 5,
+      "monthlyCommittingAuthors": 1
+    },
+    "2035-03": {
+      "monthlyTotalCommits": 4,
+      "monthlyCommittingAuthors": 1
+    },
+    "2035-04": {
+      "monthlyTotalCommits": 3,
+      "monthlyCommittingAuthors": 1
+    },
+    "2035-05": {
+      "monthlyTotalCommits": 2,
+      "monthlyCommittingAuthors": 1
+    },
+    "2035-06": {
+      "monthlyTotalCommits": 3,
+      "monthlyCommittingAuthors": 1
+    },
+    "2035-07": {
+      "monthlyTotalCommits": 5,
+      "monthlyCommittingAuthors": 1
+    },
+    "2035-08": {
+      "monthlyTotalCommits": 5,
+      "monthlyCommittingAuthors": 1
+    },
+    "2035-09": {
+      "monthlyTotalCommits": 4,
+      "monthlyCommittingAuthors": 1
+    },
+    "2035-10": {
+      "monthlyTotalCommits": 4,
+      "monthlyCommittingAuthors": 1
+    },
+    "2035-11": {
+      "monthlyTotalCommits": 3,
+      "monthlyCommittingAuthors": 1
+    },
+    "2035-12": {
+      "monthlyTotalCommits": 3,
+      "monthlyCommittingAuthors": 1
+    },
+    "2036-01": {
+      "monthlyTotalCommits": 2,
+      "monthlyCommittingAuthors": 1
+    },
+    "2036-02": {
+      "monthlyTotalCommits": 5,
+      "monthlyCommittingAuthors": 1
+    },
+    "2036-03": {
+      "monthlyTotalCommits": 3,
+      "monthlyCommittingAuthors": 1
+    },
+    "2036-04": {
+      "monthlyTotalCommits": 4,
+      "monthlyCommittingAuthors": 1
+    },
+    "2036-05": {
+      "monthlyTotalCommits": 3,
+      "monthlyCommittingAuthors": 1
+    },
+    "2036-06": {
+      "monthlyTotalCommits": 3,
+      "monthlyCommittingAuthors": 1
+    },
+    "2036-07": {
+      "monthlyTotalCommits": 5,
+      "monthlyCommittingAuthors": 1
+    },
+    "2036-08": {
+      "monthlyTotalCommits": 4,
+      "monthlyCommittingAuthors": 1
+    },
+    "2036-09": {
+      "monthlyTotalCommits": 4,
+      "monthlyCommittingAuthors": 1
+    },
+    "2036-10": {
+      "monthlyTotalCommits": 4,
+      "monthlyCommittingAuthors": 1
+    },
+    "2036-11": {
+      "monthlyTotalCommits": 3,
+      "monthlyCommittingAuthors": 1
+    },
+    "2036-12": {
+      "monthlyTotalCommits": 3,
+      "monthlyCommittingAuthors": 1
+    },
+    "2037-01": {
+      "monthlyTotalCommits": 4,
+      "monthlyCommittingAuthors": 1
+    },
+    "2037-02": {
+      "monthlyTotalCommits": 3,
+      "monthlyCommittingAuthors": 1
+    },
+    "2037-03": {
+      "monthlyTotalCommits": 3,
+      "monthlyCommittingAuthors": 1
+    },
+    "2037-04": {
+      "monthlyTotalCommits": 3,
+      "monthlyCommittingAuthors": 1
+    },
+    "2037-05": {
+      "monthlyTotalCommits": 3,
+      "monthlyCommittingAuthors": 1
+    },
+    "no_commits": {
       "monthlyTotalCommits": 0,
       "monthlyCommittingAuthors": 0
     }
