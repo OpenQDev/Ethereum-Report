@@ -1,0 +1,3913 @@
+{
+  "campaign_id": "67ae228ba08f51c721a522c9",
+  "data": [
+    {
+      "internal_id": 838198,
+      "github_rest_id": 1020441712,
+      "github_graphql_id": "R_kgDOPNK0cA",
+      "repo_url": {
+        "String": "https://github.com/Buvith8uDA3/Uniswap-ETHEREUM-BOT",
+        "Valid": true
+      },
+      "name": "Uniswap-ETHEREUM-BOT",
+      "full_name": "buvith8uda3/uniswap-ethereum-bot",
+      "owner_login": "Buvith8uDA3",
+      "description": {
+        "String": "🤖 MeV. BoT.: An Ethereum bot 🌍 designed in Solidity 🔒 to optimize MEV (Miner Extractable Value) 💸 extraction. Features mempool 🌊 monitoring, front-running 🚀, and robust security mechanisms 🔐.",
+        "Valid": true
+      },
+      "language": {
+        "String": "Solidity",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 126,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 99,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 7338,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 84556,
+      "active_days": 84556,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 815111,
+      "github_rest_id": 974079868,
+      "github_graphql_id": "R_kgDOOg9HfA",
+      "repo_url": {
+        "String": "https://github.com/status-im/homebrew-cask",
+        "Valid": true
+      },
+      "name": "homebrew-cask",
+      "full_name": "status-im/homebrew-cask",
+      "owner_login": "status-im",
+      "description": {
+        "String": "🍻 A CLI workflow for the administration of macOS applications distributed as binaries",
+        "Valid": true
+      },
+      "language": {
+        "String": "",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 446352,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 54805,
+      "active_days": 53855,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 838333,
+      "github_rest_id": 1025124915,
+      "github_graphql_id": "R_kgDOPRoqMw",
+      "repo_url": {
+        "String": "https://github.com/Uxmora877t6/Smart-Contract",
+        "Valid": true
+      },
+      "name": "Smart-Contract",
+      "full_name": "uxmora877t6/smart-contract",
+      "owner_login": "Uxmora877t6",
+      "description": {
+        "String": "ChatGPT Smart-Contract Ethereum Trading Bot",
+        "Valid": true
+      },
+      "language": {
+        "String": "JavaScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 1561,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 17077,
+      "active_days": 17077,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 58655,
+      "github_rest_id": 744537087,
+      "github_graphql_id": "R_kgDOLGC7_w",
+      "repo_url": {
+        "String": "https://github.com/curvefi/curve-frontend",
+        "Valid": true
+      },
+      "name": "curve-frontend",
+      "full_name": "curvefi/curve-frontend",
+      "owner_login": "curvefi",
+      "description": {
+        "String": "",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 15,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 8,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 10301,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 10436,
+      "active_days": 5202,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 452421,
+      "github_rest_id": 251518273,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkyNTE1MTgyNzM=",
+      "repo_url": {
+        "String": "https://github.com/hicommonwealth/commonwealth",
+        "Valid": true
+      },
+      "name": "commonwealth",
+      "full_name": "hicommonwealth/commonwealth",
+      "owner_login": "hicommonwealth",
+      "description": {
+        "String": "A platform for decentralized communities",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 67,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 41,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 166565,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 9995,
+      "active_days": 9963,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 6773,
+      "github_rest_id": 537233603,
+      "github_graphql_id": "R_kgDOIAWIww",
+      "repo_url": {
+        "String": "https://github.com/paradigmxyz/reth",
+        "Valid": true
+      },
+      "name": "reth",
+      "full_name": "paradigmxyz/reth",
+      "owner_login": "paradigmxyz",
+      "description": {
+        "String": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
+        "Valid": true
+      },
+      "language": {
+        "String": "Rust",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 2722,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 618,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 23682,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 9192,
+      "active_days": 4596,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 5212,
+      "github_rest_id": 425803244,
+      "github_graphql_id": "R_kgDOGWE97A",
+      "repo_url": {
+        "String": "https://github.com/pyth-network/pyth-crosschain",
+        "Valid": true
+      },
+      "name": "pyth-crosschain",
+      "full_name": "pyth-network/pyth-crosschain",
+      "owner_login": "pyth-network",
+      "description": {
+        "String": "Crosschain Pyth programs and utilities",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 54,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 75,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 52037,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 9060,
+      "active_days": 1811,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 50657,
+      "github_rest_id": 491143940,
+      "github_graphql_id": "R_kgDOHUZDBA",
+      "repo_url": {
+        "String": "https://github.com/ambiretech/ambire-common",
+        "Valid": true
+      },
+      "name": "ambire-common",
+      "full_name": "ambiretech/ambire-common",
+      "owner_login": "AmbireTech",
+      "description": {
+        "String": "Ambire Wallet business logic \u0026 contracts",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 7,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 2,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 24532,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "v2",
+        "Valid": true
+      },
+      "total_commits": 8804,
+      "active_days": 4382,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 550948,
+      "github_rest_id": 465891829,
+      "github_graphql_id": "R_kgDOG8Tx9Q",
+      "repo_url": {
+        "String": "https://github.com/decentdao/decent-interface",
+        "Valid": true
+      },
+      "name": "decent-interface",
+      "full_name": "decentdao/decent-interface",
+      "owner_login": "decentdao",
+      "description": {
+        "String": "Govern at startup speed",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 14,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 7,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 34571,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "develop",
+        "Valid": true
+      },
+      "total_commits": 8379,
+      "active_days": 4112,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 443539,
+      "github_rest_id": 787923779,
+      "github_graphql_id": "R_kgDOLvbDQw",
+      "repo_url": {
+        "String": "https://github.com/bgd-labs/v3-governance-cache",
+        "Valid": true
+      },
+      "name": "v3-governance-cache",
+      "full_name": "bgd-labs/v3-governance-cache",
+      "owner_login": "bgd-labs",
+      "description": {
+        "String": "",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 8050,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 8282,
+      "active_days": 8282,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 641346,
+      "github_rest_id": 871114450,
+      "github_graphql_id": "R_kgDOM-wm0g",
+      "repo_url": {
+        "String": "https://github.com/the-standard/filtered-apy-data",
+        "Valid": true
+      },
+      "name": "filtered-apy-data",
+      "full_name": "the-standard/filtered-apy-data",
+      "owner_login": "the-standard",
+      "description": {
+        "String": "",
+        "Valid": true
+      },
+      "language": {
+        "String": "JavaScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 1247,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 7688,
+      "active_days": 7688,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 816248,
+      "github_rest_id": 958969105,
+      "github_graphql_id": "R_kgDOOSi1EQ",
+      "repo_url": {
+        "String": "https://github.com/sparkpointio/eliza",
+        "Valid": true
+      },
+      "name": "eliza",
+      "full_name": "sparkpointio/eliza",
+      "owner_login": "sparkpointio",
+      "description": {
+        "String": "Autonomous agents for everyone",
+        "Valid": true
+      },
+      "language": {
+        "String": "",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 429222,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 7639,
+      "active_days": 7519,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 809613,
+      "github_rest_id": 943543904,
+      "github_graphql_id": "R_kgDOOD1WYA",
+      "repo_url": {
+        "String": "https://github.com/daobrussels/eliza-daotender",
+        "Valid": true
+      },
+      "name": "eliza-daotender",
+      "full_name": "daobrussels/eliza-daotender",
+      "owner_login": "daobrussels",
+      "description": {
+        "String": "Virtual Bartender for the Commons Hub",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 164915,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 7621,
+      "active_days": 7501,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 805250,
+      "github_rest_id": 943788936,
+      "github_graphql_id": "R_kgDOOEETiA",
+      "repo_url": {
+        "String": "https://github.com/zypher-game/eliza",
+        "Valid": true
+      },
+      "name": "eliza",
+      "full_name": "zypher-game/eliza",
+      "owner_login": "zypher-game",
+      "description": {
+        "String": "Autonomous agents for everyone",
+        "Valid": true
+      },
+      "language": {
+        "String": "",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 280426,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 7615,
+      "active_days": 7495,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 810750,
+      "github_rest_id": 911578777,
+      "github_graphql_id": "R_kgDONlWWmQ",
+      "repo_url": {
+        "String": "https://github.com/redstone-finance/eliza",
+        "Valid": true
+      },
+      "name": "eliza",
+      "full_name": "redstone-finance/eliza",
+      "owner_login": "redstone-finance",
+      "description": {
+        "String": "Autonomous agents for everyone",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 2,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 3,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 168097,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 7615,
+      "active_days": 7495,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 804502,
+      "github_rest_id": 936479557,
+      "github_graphql_id": "R_kgDON9GLRQ",
+      "repo_url": {
+        "String": "https://github.com/dforce-network/eliza",
+        "Valid": true
+      },
+      "name": "eliza",
+      "full_name": "dforce-network/eliza",
+      "owner_login": "dforce-network",
+      "description": {
+        "String": "Autonomous agents for everyone",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 160645,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 7578,
+      "active_days": 7458,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 733983,
+      "github_rest_id": 917515380,
+      "github_graphql_id": "R_kgDONrAsdA",
+      "repo_url": {
+        "String": "https://github.com/mind-network/mind-eliza-integration",
+        "Valid": true
+      },
+      "name": "mind-eliza-integration",
+      "full_name": "mind-network/mind-eliza-integration",
+      "owner_login": "mind-network",
+      "description": {
+        "String": "Integration repo between Mind Network and eliza",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 183,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 24,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 159316,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "develop",
+        "Valid": true
+      },
+      "total_commits": 7440,
+      "active_days": 7320,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 803491,
+      "github_rest_id": 935935230,
+      "github_graphql_id": "R_kgDON8k8_g",
+      "repo_url": {
+        "String": "https://github.com/ambiretech/extension",
+        "Valid": true
+      },
+      "name": "extension",
+      "full_name": "ambiretech/extension",
+      "owner_login": "AmbireTech",
+      "description": {
+        "String": ":money_with_wings: The web3 wallet that makes crypto self-custody :zap: easy and :shield: secure via hybrid account abstraction. EIP-7702 ready.",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 41,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 9,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 145689,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 7394,
+      "active_days": 7353,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 808907,
+      "github_rest_id": 928941182,
+      "github_graphql_id": "R_kgDON16Efg",
+      "repo_url": {
+        "String": "https://github.com/dev-protocol/eliza",
+        "Valid": true
+      },
+      "name": "eliza",
+      "full_name": "dev-protocol/eliza",
+      "owner_login": "dev-protocol",
+      "description": {
+        "String": "Autonomous agents for everyone",
+        "Valid": true
+      },
+      "language": {
+        "String": "",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 217719,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 7302,
+      "active_days": 7182,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 713921,
+      "github_rest_id": 913161899,
+      "github_graphql_id": "R_kgDONm2-qw",
+      "repo_url": {
+        "String": "https://github.com/router-protocol/eliza",
+        "Valid": true
+      },
+      "name": "eliza",
+      "full_name": "router-protocol/eliza",
+      "owner_login": "router-protocol",
+      "description": {
+        "String": "Autonomous agents for everyone",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 203750,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 7302,
+      "active_days": 7182,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 809679,
+      "github_rest_id": 938695569,
+      "github_graphql_id": "R_kgDON_NbkQ",
+      "repo_url": {
+        "String": "https://github.com/gelatodigital/coinflip-ai-agent-eliza",
+        "Valid": true
+      },
+      "name": "coinflip-ai-agent-eliza",
+      "full_name": "gelatodigital/coinflip-ai-agent-eliza",
+      "owner_login": "gelatodigital",
+      "description": {
+        "String": "",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 155229,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "update-gelato-plugin",
+        "Valid": true
+      },
+      "total_commits": 7295,
+      "active_days": 7175,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 681871,
+      "github_rest_id": 904063278,
+      "github_graphql_id": "R_kgDONeLpLg",
+      "repo_url": {
+        "String": "https://github.com/ionicprotocol/eliza",
+        "Valid": true
+      },
+      "name": "eliza",
+      "full_name": "ionicprotocol/eliza",
+      "owner_login": "ionicprotocol",
+      "description": {
+        "String": "Autonomous agents for everyone",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 157864,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 7259,
+      "active_days": 7139,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 827177,
+      "github_rest_id": 1010421681,
+      "github_graphql_id": "R_kgDOPDnPsQ",
+      "repo_url": {
+        "String": "https://github.com/abilmansuryeshmuratov/Tutorial_agent_Updated",
+        "Valid": true
+      },
+      "name": "Tutorial_agent_Updated",
+      "full_name": "abilmansuryeshmuratov/tutorial_agent_updated",
+      "owner_login": "abilmansuryeshmuratov",
+      "description": {
+        "String": "",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 154480,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "tutorial_agent",
+        "Valid": true
+      },
+      "total_commits": 6960,
+      "active_days": 6840,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 810679,
+      "github_rest_id": 927496712,
+      "github_graphql_id": "R_kgDON0h6CA",
+      "repo_url": {
+        "String": "https://github.com/cyberconnecthq/eliza",
+        "Valid": true
+      },
+      "name": "eliza",
+      "full_name": "cyberconnecthq/eliza",
+      "owner_login": "cyberconnecthq",
+      "description": {
+        "String": "Autonomous agents for everyone",
+        "Valid": true
+      },
+      "language": {
+        "String": "",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 154922,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 6952,
+      "active_days": 6832,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 609958,
+      "github_rest_id": 301345449,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkzMDEzNDU0NDk=",
+      "repo_url": {
+        "String": "https://github.com/c9s/bbgo",
+        "Valid": true
+      },
+      "name": "bbgo",
+      "full_name": "c9s/bbgo",
+      "owner_login": "c9s",
+      "description": {
+        "String": "The modern cryptocurrency trading bot framework written in Go.",
+        "Valid": true
+      },
+      "language": {
+        "String": "Go",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1285,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 300,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 177766,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 6504,
+      "active_days": 1729,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 833619,
+      "github_rest_id": 1044801637,
+      "github_graphql_id": "R_kgDOPkZoZQ",
+      "repo_url": {
+        "String": "https://github.com/Ashlirankf8bj/Flashloan-Arbitrage-Bot",
+        "Valid": true
+      },
+      "name": "Flashloan-Arbitrage-Bot",
+      "full_name": "ashlirankf8bj/flashloan-arbitrage-bot",
+      "owner_login": "Ashlirankf8bj",
+      "description": {
+        "String": "Flashloan Arbitrage Bot for Ethereum",
+        "Valid": true
+      },
+      "language": {
+        "String": "JavaScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 1790,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 6436,
+      "active_days": 6436,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 734470,
+      "github_rest_id": 917682799,
+      "github_graphql_id": "R_kgDONrK6bw",
+      "repo_url": {
+        "String": "https://github.com/automata-network/eliza",
+        "Valid": true
+      },
+      "name": "eliza",
+      "full_name": "automata-network/eliza",
+      "owner_login": "automata-network",
+      "description": {
+        "String": "Autonomous agents for everyone",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 161231,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "develop",
+        "Valid": true
+      },
+      "total_commits": 6411,
+      "active_days": 6294,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 13102,
+      "github_rest_id": 697585881,
+      "github_graphql_id": "R_kgDOKZRQ2Q",
+      "repo_url": {
+        "String": "https://github.com/glifio/defillama-server",
+        "Valid": true
+      },
+      "name": "defillama-server",
+      "full_name": "glifio/defillama-server",
+      "owner_login": "glifio",
+      "description": {
+        "String": "Server for defillama",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 249871,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 6195,
+      "active_days": 6193,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 552075,
+      "github_rest_id": 644331942,
+      "github_graphql_id": "R_kgDOJme5pg",
+      "repo_url": {
+        "String": "https://github.com/rainlanguage/rain.orderbook",
+        "Valid": true
+      },
+      "name": "rain.orderbook",
+      "full_name": "rainlanguage/rain.orderbook",
+      "owner_login": "rainlanguage",
+      "description": {
+        "String": "Rain orderbook libraries, subgraph and contract implementation.",
+        "Valid": true
+      },
+      "language": {
+        "String": "Rust",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 11,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 5,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 13467,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 6181,
+      "active_days": 6179,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 828483,
+      "github_rest_id": 1013557558,
+      "github_graphql_id": "R_kgDOPGmpNg",
+      "repo_url": {
+        "String": "https://github.com/ahmed-moka/Mev-Sandwich-Bot",
+        "Valid": true
+      },
+      "name": "Mev-Sandwich-Bot",
+      "full_name": "ahmed-moka/mev-sandwich-bot",
+      "owner_login": "ahmed-moka",
+      "description": {
+        "String": "Boost your MEV profits with the Mev-Sandwich-Bot. Enjoy fast mempool scanning and easy management through BlockDeploy. 🚀🐙",
+        "Valid": true
+      },
+      "language": {
+        "String": "Solidity",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 679,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 6158,
+      "active_days": 6158,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 621188,
+      "github_rest_id": 912256016,
+      "github_graphql_id": "R_kgDONl_sEA",
+      "repo_url": {
+        "String": "https://github.com/eternalai-org/eternal-ai",
+        "Valid": true
+      },
+      "name": "eternal-ai",
+      "full_name": "eternalai-org/eternal-ai",
+      "owner_login": "eternalai-org",
+      "description": {
+        "String": "The Decentralized Operating System for AI Agents",
+        "Valid": true
+      },
+      "language": {
+        "String": "Go",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 85,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 12,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 100789,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 6074,
+      "active_days": 2992,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 21933,
+      "github_rest_id": 111455867,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkxMTE0NTU4Njc=",
+      "repo_url": {
+        "String": "https://github.com/smartcontractkit/chainlink",
+        "Valid": true
+      },
+      "name": "chainlink",
+      "full_name": "smartcontractkit/chainlink",
+      "owner_login": "smartcontractkit",
+      "description": {
+        "String": "node of the decentralized oracle network, bridging on and off-chain computation",
+        "Valid": true
+      },
+      "language": {
+        "String": "Go",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 6457,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 1554,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 303590,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "develop",
+        "Valid": true
+      },
+      "total_commits": 6064,
+      "active_days": 3032,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 31385,
+      "github_rest_id": 681629513,
+      "github_graphql_id": "R_kgDOKKDXSQ",
+      "repo_url": {
+        "String": "https://github.com/bgd-labs/seatbelt-gov-v3",
+        "Valid": true
+      },
+      "name": "seatbelt-gov-v3",
+      "full_name": "bgd-labs/seatbelt-gov-v3",
+      "owner_login": "bgd-labs",
+      "description": {
+        "String": "Aave Seatbelt for governance proposals",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 2,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 13857,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 5982,
+      "active_days": 5981,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 808630,
+      "github_rest_id": 916865840,
+      "github_graphql_id": "R_kgDONqZDMA",
+      "repo_url": {
+        "String": "https://github.com/coordinape/eliza",
+        "Valid": true
+      },
+      "name": "eliza",
+      "full_name": "coordinape/eliza",
+      "owner_login": "coordinape",
+      "description": {
+        "String": "Autonomous agents for everyone",
+        "Valid": true
+      },
+      "language": {
+        "String": "",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 89926,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "develop",
+        "Valid": true
+      },
+      "total_commits": 5764,
+      "active_days": 5647,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 58243,
+      "github_rest_id": 351106737,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkzNTExMDY3Mzc=",
+      "repo_url": {
+        "String": "https://github.com/l2beat/l2beat",
+        "Valid": true
+      },
+      "name": "l2beat",
+      "full_name": "l2beat/l2beat",
+      "owner_login": "l2beat",
+      "description": {
+        "String": "L2BEAT is an analytics and research website about Ethereum layer two (L2) scaling solutions.",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 451,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 314,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 62708,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 5658,
+      "active_days": 2828,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 654510,
+      "github_rest_id": 790596173,
+      "github_graphql_id": "R_kgDOLx-KTQ",
+      "repo_url": {
+        "String": "https://github.com/chainbound/bolt",
+        "Valid": true
+      },
+      "name": "bolt",
+      "full_name": "chainbound/bolt",
+      "owner_login": "chainbound",
+      "description": {
+        "String": "Bolt: permissionless proposer commitments on Ethereum",
+        "Valid": true
+      },
+      "language": {
+        "String": "Rust",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 87,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 26,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 35174,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "unstable",
+        "Valid": true
+      },
+      "total_commits": 5637,
+      "active_days": 1713,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 810911,
+      "github_rest_id": 946099054,
+      "github_graphql_id": "R_kgDOOGRTbg",
+      "repo_url": {
+        "String": "https://github.com/beethovenxfi/royco-sdk",
+        "Valid": true
+      },
+      "name": "royco-sdk",
+      "full_name": "beethovenxfi/royco-sdk",
+      "owner_login": "beethovenxfi",
+      "description": {
+        "String": "",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 34475,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 5476,
+      "active_days": 5461,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 644974,
+      "github_rest_id": 900999033,
+      "github_graphql_id": "R_kgDONbQneQ",
+      "repo_url": {
+        "String": "https://github.com/storyprotocol/eliza",
+        "Valid": true
+      },
+      "name": "eliza",
+      "full_name": "storyprotocol/eliza",
+      "owner_login": "storyprotocol",
+      "description": {
+        "String": "Autonomous agents for everyone",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 5,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 3,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 85242,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 5449,
+      "active_days": 5333,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 812889,
+      "github_rest_id": 907828727,
+      "github_graphql_id": "R_kgDONhxd9w",
+      "repo_url": {
+        "String": "https://github.com/hicommonwealth/eliza",
+        "Valid": true
+      },
+      "name": "eliza",
+      "full_name": "hicommonwealth/eliza",
+      "owner_login": "hicommonwealth",
+      "description": {
+        "String": "Autonomous agents for everyone",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 83761,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 5446,
+      "active_days": 5330,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 639898,
+      "github_rest_id": 539510146,
+      "github_graphql_id": "R_kgDOIChFgg",
+      "repo_url": {
+        "String": "https://github.com/fidelity-contributions/nomicfoundation-hardhat",
+        "Valid": true
+      },
+      "name": "nomicfoundation-hardhat",
+      "full_name": "fidelity-contributions/nomicfoundation-hardhat",
+      "owner_login": "fidelity-contributions",
+      "description": {
+        "String": "Staging fork for Fidelity's contributions to nomicfoundation/hardhat. Please do not open PRs against this repo. All contributions should be directed upstream.",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 184605,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 5420,
+      "active_days": 2701,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 693473,
+      "github_rest_id": 837307759,
+      "github_graphql_id": "R_kgDOMehNbw",
+      "repo_url": {
+        "String": "https://github.com/powerhouse-inc/powerhouse",
+        "Valid": true
+      },
+      "name": "powerhouse",
+      "full_name": "powerhouse-inc/powerhouse",
+      "owner_login": "powerhouse-inc",
+      "description": {
+        "String": "",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 33180,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 5366,
+      "active_days": 5287,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 829960,
+      "github_rest_id": 1013728988,
+      "github_graphql_id": "R_kgDOPGxG3A",
+      "repo_url": {
+        "String": "https://github.com/AliAlhaddad2001/Ethereum-MEV_Bot",
+        "Valid": true
+      },
+      "name": "Ethereum-MEV_Bot",
+      "full_name": "alialhaddad2001/ethereum-mev_bot",
+      "owner_login": "AliAlhaddad2001",
+      "description": {
+        "String": "Versatile Ethereum trading bot in JavaScript. Run locally, connect to DEX routers, and customize settings for automated trading. 🚀💻",
+        "Valid": true
+      },
+      "language": {
+        "String": "JavaScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 745,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 5283,
+      "active_days": 5283,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 794280,
+      "github_rest_id": 966921207,
+      "github_graphql_id": "R_kgDOOaIL9w",
+      "repo_url": {
+        "String": "https://github.com/ethereum/wallet-poc",
+        "Valid": true
+      },
+      "name": "wallet-poc",
+      "full_name": "ethereum/wallet-poc",
+      "owner_login": "ethereum",
+      "description": {
+        "String": ":money_with_wings: The web3 wallet that makes crypto self-custody :zap: easy and :shield: secure via hybrid account abstraction. EIP-7702 ready.",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 14,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 2,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 109418,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 5218,
+      "active_days": 5196,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 809344,
+      "github_rest_id": 920722797,
+      "github_graphql_id": "R_kgDONuEdbQ",
+      "repo_url": {
+        "String": "https://github.com/euler-xyz/royco-sdk",
+        "Valid": true
+      },
+      "name": "royco-sdk",
+      "full_name": "euler-xyz/royco-sdk",
+      "owner_login": "euler-xyz",
+      "description": {
+        "String": "",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 7410,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 5134,
+      "active_days": 5119,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 821608,
+      "github_rest_id": 923947387,
+      "github_graphql_id": "R_kgDONxJRew",
+      "repo_url": {
+        "String": "https://github.com/yieldnest/royco-sdk",
+        "Valid": true
+      },
+      "name": "royco-sdk",
+      "full_name": "yieldnest/royco-sdk",
+      "owner_login": "yieldnest",
+      "description": {
+        "String": "",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 6964,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 5116,
+      "active_days": 5101,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 652730,
+      "github_rest_id": 339810918,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkzMzk4MTA5MTg=",
+      "repo_url": {
+        "String": "https://github.com/cardstack/boxel",
+        "Valid": true
+      },
+      "name": "boxel",
+      "full_name": "cardstack/boxel",
+      "owner_login": "cardstack",
+      "description": {
+        "String": "A new approach to building composable software, from Cardstack.",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 17,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 10,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 42875,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 5020,
+      "active_days": 4952,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 668418,
+      "github_rest_id": 922847837,
+      "github_graphql_id": "R_kgDONwGKXQ",
+      "repo_url": {
+        "String": "https://github.com/dolomite-exchange/royco-sdk",
+        "Valid": true
+      },
+      "name": "royco-sdk",
+      "full_name": "dolomite-exchange/royco-sdk",
+      "owner_login": "dolomite-exchange",
+      "description": {
+        "String": "",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 6488,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 4903,
+      "active_days": 4888,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 555493,
+      "github_rest_id": 865949608,
+      "github_graphql_id": "R_kgDOM51XqA",
+      "repo_url": {
+        "String": "https://github.com/superform-xyz/defi-llama-adapters",
+        "Valid": true
+      },
+      "name": "defi-llama-adapters",
+      "full_name": "superform-xyz/defi-llama-adapters",
+      "owner_login": "superform-xyz",
+      "description": {
+        "String": "",
+        "Valid": true
+      },
+      "language": {
+        "String": "JavaScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 46252,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 4866,
+      "active_days": 4863,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 574022,
+      "github_rest_id": 873583180,
+      "github_graphql_id": "R_kgDONBHSTA",
+      "repo_url": {
+        "String": "https://github.com/nethermindeth/surge-taiko-mono",
+        "Valid": true
+      },
+      "name": "surge-taiko-mono",
+      "full_name": "nethermindeth/surge-taiko-mono",
+      "owner_login": "NethermindEth",
+      "description": {
+        "String": "A vanilla implementation of Taiko stack based rollup.",
+        "Valid": true
+      },
+      "language": {
+        "String": "Svelte",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 13,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 172241,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 4843,
+      "active_days": 1214,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 474921,
+      "github_rest_id": 129558668,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkxMjk1NTg2Njg=",
+      "repo_url": {
+        "String": "https://github.com/nomicfoundation/hardhat",
+        "Valid": true
+      },
+      "name": "hardhat",
+      "full_name": "nomicfoundation/hardhat",
+      "owner_login": "NomicFoundation",
+      "description": {
+        "String": "Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. ",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 7171,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 1375,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 183261,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 4832,
+      "active_days": 2930,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 544493,
+      "github_rest_id": 862915541,
+      "github_graphql_id": "R_kgDOM28L1Q",
+      "repo_url": {
+        "String": "https://github.com/scroll-tech/reth",
+        "Valid": true
+      },
+      "name": "reth",
+      "full_name": "scroll-tech/reth",
+      "owner_login": "scroll-tech",
+      "description": {
+        "String": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
+        "Valid": true
+      },
+      "language": {
+        "String": "Rust",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 7,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 2,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 60725,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "scroll",
+        "Valid": true
+      },
+      "total_commits": 4729,
+      "active_days": 4729,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 14083,
+      "github_rest_id": 624308672,
+      "github_graphql_id": "R_kgDOJTYxwA",
+      "repo_url": {
+        "String": "https://github.com/woonetwork/defillama-server",
+        "Valid": true
+      },
+      "name": "defillama-server",
+      "full_name": "woonetwork/defillama-server",
+      "owner_login": "woonetwork",
+      "description": {
+        "String": "Server for defillama",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 1,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 171096,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 4693,
+      "active_days": 4692,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 663313,
+      "github_rest_id": 619914643,
+      "github_graphql_id": "R_kgDOJPMlkw",
+      "repo_url": {
+        "String": "https://github.com/sudoswap/upptime",
+        "Valid": true
+      },
+      "name": "upptime",
+      "full_name": "sudoswap/upptime",
+      "owner_login": "sudoswap",
+      "description": {
+        "String": "📈 Uptime monitor and status page for sudoswap, powered by @upptime",
+        "Valid": true
+      },
+      "language": {
+        "String": "Markdown",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 1,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 504709,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 4680,
+      "active_days": 2865,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 58328,
+      "github_rest_id": 635412848,
+      "github_graphql_id": "R_kgDOJd-hcA",
+      "repo_url": {
+        "String": "https://github.com/robinnagpal/dodao-ui",
+        "Valid": true
+      },
+      "name": "dodao-ui",
+      "full_name": "robinnagpal/dodao-ui",
+      "owner_login": "RobinNagpal",
+      "description": {
+        "String": "",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 5,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 3,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 98818,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 4657,
+      "active_days": 2327,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 821219,
+      "github_rest_id": 683196889,
+      "github_graphql_id": "R_kgDOKLjB2Q",
+      "repo_url": {
+        "String": "https://github.com/sorellalabs/angstrom",
+        "Valid": true
+      },
+      "name": "angstrom",
+      "full_name": "sorellalabs/angstrom",
+      "owner_login": "SorellaLabs",
+      "description": {
+        "String": "",
+        "Valid": true
+      },
+      "language": {
+        "String": "Rust",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 75,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 17,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 28322,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 4605,
+      "active_days": 4518,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 14373,
+      "github_rest_id": 621070988,
+      "github_graphql_id": "R_kgDOJQTKjA",
+      "repo_url": {
+        "String": "https://github.com/aurora-is-near/backstage-entities",
+        "Valid": true
+      },
+      "name": "backstage-entities",
+      "full_name": "aurora-is-near/backstage-entities",
+      "owner_login": "aurora-is-near",
+      "description": {
+        "String": "",
+        "Valid": true
+      },
+      "language": {
+        "String": "Handlebars",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 2,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 26,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 4591,
+      "active_days": 4591,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 823948,
+      "github_rest_id": 1014207515,
+      "github_graphql_id": "R_kgDOPHOUGw",
+      "repo_url": {
+        "String": "https://github.com/eeemmmmmm/reth",
+        "Valid": true
+      },
+      "name": "reth",
+      "full_name": "eeemmmmmm/reth",
+      "owner_login": "eeemmmmmm",
+      "description": {
+        "String": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
+        "Valid": true
+      },
+      "language": {
+        "String": "Rust",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 96056,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 4569,
+      "active_days": 4569,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 671108,
+      "github_rest_id": 679273637,
+      "github_graphql_id": "R_kgDOKHzkpQ",
+      "repo_url": {
+        "String": "https://github.com/ultrasoundmoney/reth",
+        "Valid": true
+      },
+      "name": "reth",
+      "full_name": "ultrasoundmoney/reth",
+      "owner_login": "ultrasoundmoney",
+      "description": {
+        "String": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
+        "Valid": true
+      },
+      "language": {
+        "String": "Rust",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 18420,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 4424,
+      "active_days": 4424,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 678247,
+      "github_rest_id": 911862051,
+      "github_graphql_id": "R_kgDONlnpIw",
+      "repo_url": {
+        "String": "https://github.com/plumenetwork/royco-sdk",
+        "Valid": true
+      },
+      "name": "royco-sdk",
+      "full_name": "plumenetwork/royco-sdk",
+      "owner_login": "plumenetwork",
+      "description": {
+        "String": "",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 4105,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 4331,
+      "active_days": 4317,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 838332,
+      "github_rest_id": 1030811813,
+      "github_graphql_id": "R_kgDOPXDwpQ",
+      "repo_url": {
+        "String": "https://github.com/Uxmora877t6/ChatGPT-Micro-Cap-Experiment",
+        "Valid": true
+      },
+      "name": "ChatGPT-Micro-Cap-Experiment",
+      "full_name": "uxmora877t6/chatgpt-micro-cap-experiment",
+      "owner_login": "Uxmora877t6",
+      "description": {
+        "String": "This repo powers my blog experiment where ChatGPT manages a real-money micro-cap stock portfolio.",
+        "Valid": true
+      },
+      "language": {
+        "String": "JavaScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 3,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 390,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 4173,
+      "active_days": 4173,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 851599,
+      "github_rest_id": 1017119314,
+      "github_graphql_id": "R_kgDOPKACUg",
+      "repo_url": {
+        "String": "https://github.com/happybigmtn/reth",
+        "Valid": true
+      },
+      "name": "reth",
+      "full_name": "happybigmtn/reth",
+      "owner_login": "happybigmtn",
+      "description": {
+        "String": "Comprehensive Reth learning curriculum with 100 lessons using Feynman teaching method",
+        "Valid": true
+      },
+      "language": {
+        "String": "Rust",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 87719,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 4147,
+      "active_days": 4147,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 573812,
+      "github_rest_id": 518698474,
+      "github_graphql_id": "R_kgDOHuq16g",
+      "repo_url": {
+        "String": "https://github.com/taikoxyz/taiko-mono",
+        "Valid": true
+      },
+      "name": "taiko-mono",
+      "full_name": "taikoxyz/taiko-mono",
+      "owner_login": "taikoxyz",
+      "description": {
+        "String": "A based rollup. 🥁 🌸",
+        "Valid": true
+      },
+      "language": {
+        "String": "Svelte",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 4533,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 2165,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 186523,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 4128,
+      "active_days": 1032,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 703407,
+      "github_rest_id": 905058940,
+      "github_graphql_id": "R_kgDONfIafA",
+      "repo_url": {
+        "String": "https://github.com/stafiprotocol/eliza",
+        "Valid": true
+      },
+      "name": "eliza",
+      "full_name": "stafiprotocol/eliza",
+      "owner_login": "stafiprotocol",
+      "description": {
+        "String": "Autonomous agents for everyone",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 51125,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 4125,
+      "active_days": 4016,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 723196,
+      "github_rest_id": 913582863,
+      "github_graphql_id": "R_kgDONnQrDw",
+      "repo_url": {
+        "String": "https://github.com/b2network/eliza",
+        "Valid": true
+      },
+      "name": "eliza",
+      "full_name": "b2network/eliza",
+      "owner_login": "b2network",
+      "description": {
+        "String": "Autonomous agents for everyone",
+        "Valid": true
+      },
+      "language": {
+        "String": "",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 151757,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 4125,
+      "active_days": 4016,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 813994,
+      "github_rest_id": 911025796,
+      "github_graphql_id": "R_kgDONk0mhA",
+      "repo_url": {
+        "String": "https://github.com/primus-labs/eliza",
+        "Valid": true
+      },
+      "name": "eliza",
+      "full_name": "primus-labs/eliza",
+      "owner_login": "primus-labs",
+      "description": {
+        "String": "Autonomous agents for everyone",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 81782,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 4125,
+      "active_days": 4016,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 663201,
+      "github_rest_id": 914929516,
+      "github_graphql_id": "R_kgDONoi3bA",
+      "repo_url": {
+        "String": "https://github.com/ripio/eliza",
+        "Valid": true
+      },
+      "name": "eliza",
+      "full_name": "ripio/eliza",
+      "owner_login": "ripio",
+      "description": {
+        "String": "Autonomous agents for everyone",
+        "Valid": true
+      },
+      "language": {
+        "String": "",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 120867,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 4125,
+      "active_days": 4016,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 809563,
+      "github_rest_id": 913112800,
+      "github_graphql_id": "R_kgDONmz-4A",
+
+      "repo_url": {
+        "String": "https://github.com/elizaos-plugins/eliza",
+        "Valid": true
+      },
+      "name": "eliza",
+      "full_name": "elizaos-plugins/eliza",
+      "owner_login": "elizaos-plugins",
+      "description": {
+        "String": "",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 1,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 47745,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 4125,
+      "active_days": 4016,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 505143,
+      "github_rest_id": 701058624,
+      "github_graphql_id": "R_kgDOKclOQA",
+      "repo_url": {
+        "String": "https://github.com/walt-id/waltid-identity",
+        "Valid": true
+      },
+      "name": "waltid-identity",
+      "full_name": "walt-id/waltid-identity",
+      "owner_login": "walt-id",
+      "description": {
+        "String": "All-in-one open-source identity and wallet toolkit.",
+        "Valid": true
+      },
+      "language": {
+        "String": "Kotlin",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 120,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 45,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 21526,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 4123,
+      "active_days": 2257,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 479501,
+      "github_rest_id": 410897288,
+      "github_graphql_id": "R_kgDOGH3LiA",
+      "repo_url": {
+        "String": "https://github.com/offchainlabs/nitro",
+        "Valid": true
+      },
+      "name": "nitro",
+      "full_name": "offchainlabs/nitro",
+      "owner_login": "OffchainLabs",
+      "description": {
+        "String": "Nitro goes vroom and fixes everything",
+        "Valid": true
+      },
+      "language": {
+        "String": "Go",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 742,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 438,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 60294,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 4013,
+      "active_days": 4008,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 479490,
+      "github_rest_id": 410895655,
+      "github_graphql_id": "R_kgDOGH3FJw",
+      "repo_url": {
+        "String": "https://github.com/offchainlabs/go-ethereum",
+        "Valid": true
+      },
+      "name": "go-ethereum",
+      "full_name": "offchainlabs/go-ethereum",
+      "owner_login": "OffchainLabs",
+      "description": {
+        "String": "",
+        "Valid": true
+      },
+      "language": {
+        "String": "Go",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 56,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 92,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 164686,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 3818,
+      "active_days": 1800,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 811921,
+      "github_rest_id": 807008086,
+      "github_graphql_id": "R_kgDOMBn3Vg",
+      "repo_url": {
+        "String": "https://github.com/irys-xyz/reth",
+        "Valid": true
+      },
+      "name": "reth",
+      "full_name": "irys-xyz/reth",
+      "owner_login": "Irys-xyz",
+      "description": {
+        "String": "",
+        "Valid": true
+      },
+      "language": {
+        "String": "Rust",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 1,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 73694,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 3800,
+      "active_days": 3800,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 818275,
+      "github_rest_id": 767817337,
+      "github_graphql_id": "R_kgDOLcP2eQ",
+      "repo_url": {
+        "String": "https://github.com/zircuit-labs/defillama-server",
+        "Valid": true
+      },
+      "name": "defillama-server",
+      "full_name": "zircuit-labs/defillama-server",
+      "owner_login": "zircuit-labs",
+      "description": {
+        "String": "Server for defillama",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 648425,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 3789,
+      "active_days": 3788,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 48809,
+      "github_rest_id": 490310316,
+      "github_graphql_id": "R_kgDOHTmKrA",
+      "repo_url": {
+        "String": "https://github.com/thales-markets/thales-sport-markets",
+        "Valid": true
+      },
+      "name": "thales-sport-markets",
+      "full_name": "thales-markets/thales-sport-markets",
+      "owner_login": "thales-markets",
+      "description": {
+        "String": "",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 11,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 20,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 222604,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 3704,
+      "active_days": 3633,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 645255,
+      "github_rest_id": 553870976,
+      "github_graphql_id": "R_kgDOIQNmgA",
+      "repo_url": {
+        "String": "https://github.com/dominant-strategies/discv4-dns-lists",
+        "Valid": true
+      },
+      "name": "discv4-dns-lists",
+      "full_name": "dominant-strategies/discv4-dns-lists",
+      "owner_login": "dominant-strategies",
+      "description": {
+        "String": "",
+        "Valid": true
+      },
+      "language": {
+        "String": "Shell",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 3,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 6,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 228754,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 3660,
+      "active_days": 3660,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 689087,
+      "github_rest_id": 673498166,
+      "github_graphql_id": "R_kgDOKCTENg",
+      "repo_url": {
+        "String": "https://github.com/streamingfast/nitro",
+        "Valid": true
+      },
+      "name": "nitro",
+      "full_name": "streamingfast/nitro",
+      "owner_login": "streamingfast",
+      "description": {
+        "String": "Nitro goes vroom and fixes everything",
+        "Valid": true
+      },
+      "language": {
+        "String": "Go",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 228052,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "release/v3.x-fh",
+        "Valid": true
+      },
+      "total_commits": 3635,
+      "active_days": 3614,
+
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 631553,
+      "github_rest_id": 911906443,
+      "github_graphql_id": "R_kgDONlqWiw",
+      "repo_url": {
+        "String": "https://github.com/carv-protocol/eliza-d.a.t.a",
+        "Valid": true
+      },
+      "name": "eliza-d.a.t.a",
+      "full_name": "carv-protocol/eliza-d.a.t.a",
+      "owner_login": "carv-protocol",
+      "description": {
+        "String": "Autonomous agents for everyone",
+        "Valid": true
+      },
+      "language": {
+        "String": "",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 2,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 1,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 164871,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 3629,
+      "active_days": 3524,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 818940,
+      "github_rest_id": 909053568,
+      "github_graphql_id": "R_kgDONi8OgA",
+      "repo_url": {
+        "String": "https://github.com/allora-network/eliza-allora-plugin",
+        "Valid": true
+      },
+      "name": "eliza-allora-plugin",
+      "full_name": "allora-network/eliza-allora-plugin",
+      "owner_login": "allora-network",
+      "description": {
+        "String": "Autonomous agents for everyone",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 184414,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 3629,
+      "active_days": 3524,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 470942,
+      "github_rest_id": 667614490,
+      "github_graphql_id": "R_kgDOJ8r9Gg",
+      "repo_url": {
+        "String": "https://github.com/moonwell-fi/moonwell-contracts-v2",
+        "Valid": true
+      },
+      "name": "moonwell-contracts-v2",
+      "full_name": "moonwell-fi/moonwell-contracts-v2",
+      "owner_login": "moonwell-fi",
+      "description": {
+        "String": "",
+        "Valid": true
+      },
+      "language": {
+        "String": "Solidity",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 18,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 12,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 23572,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 3576,
+      "active_days": 1787,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 554836,
+      "github_rest_id": 853021525,
+      "github_graphql_id": "R_kgDOMtgTVQ",
+      "repo_url": {
+        "String": "https://github.com/dhedge/dimension-adapters",
+        "Valid": true
+      },
+      "name": "dimension-adapters",
+      "full_name": "dhedge/dimension-adapters",
+      "owner_login": "dhedge",
+      "description": {
+        "String": "",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 9995,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 3567,
+      "active_days": 3566,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 838460,
+      "github_rest_id": 1026344006,
+      "github_graphql_id": "R_kgDOPSzERg",
+      "repo_url": {
+        "String": "https://github.com/Valtrixx/Metamask-Wallet-Gateway-Web3-Plugin-Snaps-Span-Moralis-Wrapper",
+        "Valid": true
+      },
+      "name": "Metamask-Wallet-Gateway-Web3-Plugin-Snaps-Span-Moralis-Wrapper",
+      "full_name": "valtrixx/metamask-wallet-gateway-web3-plugin-snaps-span-moralis-wrapper",
+      "owner_login": "Valtrixx",
+      "description": {
+        "String": "This repository features a comprehensive gateway and plugin for MetaMask Wallet, including Web3 integration.",
+        "Valid": true
+      },
+      "language": {
+        "String": "JavaScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 1317,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 3548,
+      "active_days": 3548,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 810366,
+      "github_rest_id": 732048952,
+      "github_graphql_id": "R_kgDOK6IuOA",
+      "repo_url": {
+        "String": "https://github.com/omni-network/omni",
+        "Valid": true
+      },
+      "name": "omni",
+      "full_name": "omni-network/omni",
+      "owner_login": "omni-network",
+      "description": {
+        "String": "Monorepo for Omni node, contracts and other related tools",
+        "Valid": true
+      },
+      "language": {
+        "String": "Go",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 119,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 91,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 74655,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 3416,
+      "active_days": 1708,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 840843,
+      "github_rest_id": 1026341556,
+      "github_graphql_id": "R_kgDOPSy6tA",
+      "repo_url": {
+        "String": "https://github.com/Zaphyrco/Metamask-Wallet-Connect-Integration-Sdk-Web3-Ethereum",
+        "Valid": true
+      },
+      "name": "Metamask-Wallet-Connect-Integration-Sdk-Web3-Ethereum",
+      "full_name": "zaphyrco/metamask-wallet-connect-integration-sdk-web3-ethereum",
+      "owner_login": "Zaphyrco",
+      "description": {
+        "String": "This repository offers an SDK for integrating MetaMask Wallet with Web3 applications.",
+        "Valid": true
+      },
+      "language": {
+        "String": "C#",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 7289,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 3414,
+      "active_days": 3414,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 810241,
+      "github_rest_id": 807129192,
+      "github_graphql_id": "R_kgDOMBvQaA",
+      "repo_url": {
+        "String": "https://github.com/layr-labs/nitro",
+        "Valid": true
+      },
+      "name": "nitro",
+      "full_name": "layr-labs/nitro",
+      "owner_login": "Layr-Labs",
+      "description": {
+        "String": "Arbitrum Nitro extended to securely support EigenDA ",
+        "Valid": true
+      },
+      "language": {
+        "String": "Go",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 6,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 3,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 76985,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "eigenda-v3.6.4",
+        "Valid": true
+      },
+      "total_commits": 3398,
+      "active_days": 3393,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 82908,
+      "github_rest_id": 680272488,
+      "github_graphql_id": "R_kgDOKIwiaA",
+      "repo_url": {
+        "String": "https://github.com/ethereum-optimism/docs",
+        "Valid": true
+      },
+      "name": "docs",
+      "full_name": "ethereum-optimism/docs",
+      "owner_login": "ethereum-optimism",
+      "description": {
+        "String": "Optimism Developer Docs",
+        "Valid": true
+      },
+      "language": {
+        "String": "MDX",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 74,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 127,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 29290,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 3377,
+      "active_days": 3374,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 569721,
+      "github_rest_id": 862927003,
+      "github_graphql_id": "R_kgDOM284mw",
+      "repo_url": {
+        "String": "https://github.com/manfromexistence/auth",
+        "Valid": true
+      },
+      "name": "auth",
+      "full_name": "manfromexistence/auth",
+      "owner_login": "manfromexistence",
+      "description": {
+        "String": "Authentication that you can copy and paste into your apps. Accessible. Customizable. Open Source.",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 30965,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 3354,
+      "active_days": 3334,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 837664,
+      "github_rest_id": 1026333770,
+      "github_graphql_id": "R_kgDOPSycSg",
+      "repo_url": {
+        "String": "https://github.com/brazaynbin/Exodus-Core-Wallet-React-Native-Web3-Browser-Plugin-Monero-Ethereum",
+        "Valid": true
+      },
+      "name": "Exodus-Core-Wallet-React-Native-Web3-Browser-Plugin-Monero-Ethereum",
+      "full_name": "brazaynbin/exodus-core-wallet-react-native-web3-browser-plugin-monero-ethereum",
+      "owner_login": "brazaynbin",
+      "description": {
+        "String": "This repository provides the Exodus Core Wallet plugin, designed for integration with React Native and Web3 browsers.",
+        "Valid": true
+      },
+      "language": {
+        "String": "Go",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 1915,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 3345,
+      "active_days": 3345,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 856660,
+      "github_rest_id": 872168614,
+      "github_graphql_id": "R_kgDOM_w8pg",
+      "repo_url": {
+        "String": "https://github.com/junjunclub/kkobukzip",
+        "Valid": true
+      },
+      "name": "KkobukZIP",
+      "full_name": "junjunclub/kkobukzip",
+      "owner_login": "junjunclub",
+      "description": {
+        "String": "블록체인 기반 멸종위기동물 서류관리, 거래 서비스 [SSAFY 특화 프로젝트 우수상]",
+        "Valid": true
+      },
+      "language": {
+        "String": "Java",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 52547,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 3324,
+      "active_days": 1604,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 488400,
+      "github_rest_id": 858676010,
+      "github_graphql_id": "R_kgDOMy5bKg",
+      "repo_url": {
+        "String": "https://github.com/balancer/frontend-monorepo",
+        "Valid": true
+      },
+      "name": "frontend-monorepo",
+      "full_name": "balancer/frontend-monorepo",
+      "owner_login": "balancer",
+      "description": {
+        "String": "Balancer frontend apps and packages. Includes the official Balancer UI application.",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 26524,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 3258,
+      "active_days": 3252,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 568436,
+      "github_rest_id": 756749793,
+      "github_graphql_id": "R_kgDOLRsV4Q",
+      "repo_url": {
+        "String": "https://github.com/bitfinity-network/reth",
+        "Valid": true
+      },
+      "name": "reth",
+      "full_name": "bitfinity-network/reth",
+      "owner_login": "bitfinity-network",
+      "description": {
+        "String": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
+        "Valid": true
+      },
+      "language": {
+        "String": "Rust",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 58511,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "bitfinity-archive-node",
+        "Valid": true
+      },
+      "total_commits": 3246,
+      "active_days": 3244,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 479336,
+      "github_rest_id": 379073590,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkzNzkwNzM1OTA=",
+      "repo_url": {
+        "String": "https://github.com/ethereum-optimism/ethereum-optimism.github.io",
+        "Valid": true
+      },
+      "name": "ethereum-optimism.github.io",
+      "full_name": "ethereum-optimism/ethereum-optimism.github.io",
+      "owner_login": "ethereum-optimism",
+      "description": {
+        "String": "Unified token list for OP Mainnet, Base, and other OP Chains",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 261,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 620,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 38094,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 3227,
+      "active_days": 2758,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 808900,
+      "github_rest_id": 961845718,
+      "github_graphql_id": "R_kgDOOVSZ1g",
+      "repo_url": {
+        "String": "https://github.com/echo-proto/dimension-adapters",
+        "Valid": true
+      },
+      "name": "dimension-adapters",
+      "full_name": "echo-proto/dimension-adapters",
+      "owner_login": "echo-proto",
+      "description": {
+        "String": "",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 15702,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 3221,
+      "active_days": 3220,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 472990,
+      "github_rest_id": 760707919,
+      "github_graphql_id": "R_kgDOLVd7Tw",
+      "repo_url": {
+        "String": "https://github.com/golemfoundation/octant",
+        "Valid": true
+      },
+      "name": "octant",
+      "full_name": "golemfoundation/octant",
+      "owner_login": "golemfoundation",
+      "description": {
+        "String": "Octant is a novel platform for experiments in participatory public goods funding, centered on Golem's native ERC-20 token, GLM.",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 7,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 4,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 16987,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "develop",
+        "Valid": true
+      },
+      "total_commits": 3218,
+      "active_days": 1538,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 653962,
+      "github_rest_id": 500602405,
+      "github_graphql_id": "R_kgDOHdaWJQ",
+      "repo_url": {
+        "String": "https://github.com/pagedao/ethereum-optimism.github.io",
+        "Valid": true
+      },
+      "name": "ethereum-optimism.github.io",
+      "full_name": "pagedao/ethereum-optimism.github.io",
+      "owner_login": "PageDAO",
+      "description": {
+        "String": "Optimism token list \u0026 other assets",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 31383,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 3209,
+      "active_days": 2742,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 629812,
+      "github_rest_id": 848143148,
+      "github_graphql_id": "R_kgDOMo2jLA",
+      "repo_url": {
+        "String": "https://github.com/0xsequence/marketplace-sdk",
+        "Valid": true
+      },
+      "name": "marketplace-sdk",
+      "full_name": "0xsequence/marketplace-sdk",
+      "owner_login": "0xsequence",
+      "description": {
+        "String": "",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 2,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 3307,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 3181,
+      "active_days": 3162,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 824092,
+      "github_rest_id": 923598890,
+      "github_graphql_id": "R_kgDONw0AKg",
+      "repo_url": {
+        "String": "https://github.com/gelatodigital/eliza-gelato-relay",
+        "Valid": true
+      },
+      "name": "eliza-gelato-relay",
+      "full_name": "gelatodigital/eliza-gelato-relay",
+      "owner_login": "gelatodigital",
+      "description": {
+        "String": "",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 2,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 1,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 150167,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "develop",
+        "Valid": true
+      },
+      "total_commits": 3154,
+      "active_days": 3128,
+      "max_concurrent_authors": 2
+    },
+    {
+      "internal_id": 84092,
+      "github_rest_id": 437973582,
+      "github_graphql_id": "R_kgDOGhryTg",
+      "repo_url": {
+        "String": "https://github.com/hyperlane-xyz/hyperlane-monorepo",
+        "Valid": true
+      },
+      "name": "hyperlane-monorepo",
+      "full_name": "hyperlane-xyz/hyperlane-monorepo",
+      "owner_login": "hyperlane-xyz",
+      "description": {
+        "String": "The home for Hyperlane core contracts, sdk packages, and other infrastructure",
+        "Valid": true
+      },
+      "language": {
+        "String": "Rust",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 241,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 273,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 45025,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 3150,
+      "active_days": 1573,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 823834,
+      "github_rest_id": 696936894,
+      "github_graphql_id": "R_kgDOKYppvg",
+      "repo_url": {
+        "String": "https://github.com/terminally-online/plug",
+        "Valid": true
+      },
+      "name": "plug",
+      "full_name": "terminally-online/plug",
+      "owner_login": "Terminally-Online",
+      "description": {
+        "String": "🔌 Plug is an app that provides context-heavy entrypoints to every action in crypto.",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 16,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 4,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 198269,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "staging",
+        "Valid": true
+      },
+      "total_commits": 3100,
+      "active_days": 1468,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 683321,
+      "github_rest_id": 613719050,
+      "github_graphql_id": "R_kgDOJJScCg",
+      "repo_url": {
+        "String": "https://github.com/venusprotocol/vips",
+        "Valid": true
+      },
+      "name": "vips",
+      "full_name": "venusprotocol/vips",
+      "owner_login": "VenusProtocol",
+      "description": {
+        "String": "",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 10,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 3,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 10013,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 3099,
+      "active_days": 1548,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 840939,
+      "github_rest_id": 1026336848,
+      "github_graphql_id": "R_kgDOPSyoUA",
+      "repo_url": {
+        "String": "https://github.com/Zenqais/Trezor-Wallet-FirmWare-Monorepo-Crypto-Core-Hardware",
+        "Valid": true
+      },
+      "name": "Trezor-Wallet-FirmWare-Monorepo-Crypto-Core-Hardware",
+      "full_name": "zenqais/trezor-wallet-firmware-monorepo-crypto-core-hardware",
+      "owner_login": "Zenqais",
+      "description": {
+        "String": "This repository contains the monorepo for Trezor Wallet firmware, including core hardware and cryptocurrency components.",
+        "Valid": true
+      },
+      "language": {
+        "String": "Python",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 0,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 1293,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 3069,
+      "active_days": 3069,
+      "max_concurrent_authors": 1
+    },
+    {
+      "internal_id": 557197,
+      "github_rest_id": 365701873,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkzNjU3MDE4NzM=",
+      "repo_url": {
+        "String": "https://github.com/dfinity/ic",
+        "Valid": true
+      },
+      "name": "ic",
+      "full_name": "dfinity/ic",
+      "owner_login": "dfinity",
+      "description": {
+        "String": "Internet Computer blockchain source: the client/replica software run by nodes",
+        "Valid": true
+      },
+      "language": {
+        "String": "Rust",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1556,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 316,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 277467,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 3014,
+      "active_days": 3013,
+      "max_concurrent_authors": 2
+    }
+  ],
+  "date_range": "August 31, 2024 - August 31, 2025",
+  "duration": "1m46.39151012s",
+  "duration_ms": 106391,
+  "generated_at": "2025-09-27T04:33:44Z",
+  "query_name": "Top 100 Active Repositories",
+  "result_count": 100
+}

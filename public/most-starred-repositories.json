@@ -1,0 +1,3711 @@
+{
+  "campaign_id": "67ae228ba08f51c721a522c9",
+  "data": [
+    {
+      "internal_id": 15568,
+      "github_rest_id": 85077558,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnk4NTA3NzU1OA==",
+      "repo_url": {
+        "String": "https://github.com/kamranahmedse/developer-roadmap",
+        "Valid": true
+      },
+      "name": "developer-roadmap",
+      "full_name": "kamranahmedse/developer-roadmap",
+      "owner_login": "kamranahmedse",
+      "description": {
+        "String": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 266880,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 36220,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 2587725,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 731
+    },
+    {
+      "internal_id": 806468,
+      "github_rest_id": 596115135,
+      "github_graphql_id": "R_kgDOI4f-vw",
+      "repo_url": {
+        "String": "https://github.com/base/node",
+        "Valid": true
+      },
+      "name": "node",
+      "full_name": "base/node",
+      "owner_login": "base",
+      "description": {
+        "String": "Everything required to run your own Base node",
+        "Valid": true
+      },
+      "language": {
+        "String": "Go",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 68455,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 2742,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 2794,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 68
+    },
+    {
+      "internal_id": 480069,
+      "github_rest_id": 15452919,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkxNTQ1MjkxOQ==",
+      "repo_url": {
+        "String": "https://github.com/ethereum/go-ethereum",
+        "Valid": true
+      },
+      "name": "go-ethereum",
+      "full_name": "ethereum/go-ethereum",
+      "owner_login": "ethereum",
+      "description": {
+        "String": "Go implementation of the Ethereum protocol",
+        "Valid": true
+      },
+      "language": {
+        "String": "Go",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 47255,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 20003,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 214927,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 1744
+    },
+    {
+      "internal_id": 83951,
+      "github_rest_id": 402860175,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnk0MDI4NjAxNzU=",
+      "repo_url": {
+        "String": "https://github.com/fuellabs/fuels-ts",
+        "Valid": true
+      },
+      "name": "fuels-ts",
+      "full_name": "fuellabs/fuels-ts",
+      "owner_login": "FuelLabs",
+      "description": {
+        "String": "Fuel Network Typescript SDK",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 44371,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 1324,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 23682,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 371
+    },
+    {
+      "internal_id": 544267,
+      "github_rest_id": 5239185,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnk1MjM5MTg1",
+      "repo_url": {
+        "String": "https://github.com/slab/quill",
+        "Valid": true
+      },
+      "name": "quill",
+      "full_name": "slab/quill",
+      "owner_login": "slab",
+      "description": {
+        "String": "Quill is a modern WYSIWYG editor built for compatibility and extensibility",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 43610,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 3385,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 18282,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 14
+    },
+    {
+      "internal_id": 14254,
+      "github_rest_id": 64700934,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnk2NDcwMDkzNA==",
+      "repo_url": {
+        "String": "https://github.com/openzeppelin/openzeppelin-contracts",
+        "Valid": true
+      },
+      "name": "openzeppelin-contracts",
+      "full_name": "openzeppelin/openzeppelin-contracts",
+      "owner_login": "OpenZeppelin",
+      "description": {
+        "String": "OpenZeppelin Contracts is a library for secure smart contract development.",
+        "Valid": true
+      },
+      "language": {
+        "String": "JavaScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 23554,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 11828,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 39099,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 246
+    },
+    {
+      "internal_id": 19967,
+      "github_rest_id": 471728341,
+      "github_graphql_id": "R_kgDOHB4A1Q",
+      "repo_url": {
+        "String": "https://github.com/heyxyz/hey",
+        "Valid": true
+      },
+      "name": "hey",
+      "full_name": "heyxyz/hey",
+      "owner_login": "heyxyz",
+      "description": {
+        "String": "Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 22205,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 1418,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 46911,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 708
+    },
+    {
+      "internal_id": 436733,
+      "github_rest_id": 321530801,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkzMjE1MzA4MDE=",
+      "repo_url": {
+        "String": "https://github.com/subquery/subql",
+        "Valid": true
+      },
+      "name": "subql",
+      "full_name": "subquery/subql",
+      "owner_login": "subquery",
+      "description": {
+        "String": "SubQuery is an Open, Flexible, Fast and Universal data indexing framework for web3. Our mission is to help developers create the decentralised products of the future.",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 19076,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 327,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 84375,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 273
+    },
+    {
+      "internal_id": 60984,
+      "github_rest_id": 24655114,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkyNDY1NTExNA==",
+      "repo_url": {
+        "String": "https://github.com/web3/web3.js",
+        "Valid": true
+      },
+      "name": "web3.js",
+      "full_name": "web3/web3.js",
+      "owner_login": "web3",
+      "description": {
+        "String": "Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and utility functions.",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 18760,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 4828,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 134097,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "4.x",
+        "Valid": true
+      },
+      "total_commits": 136
+    },
+    {
+      "internal_id": 657239,
+      "github_rest_id": 162613268,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkxNjI2MTMyNjg=",
+      "repo_url": {
+        "String": "https://github.com/ethereum-lists/chains",
+        "Valid": true
+      },
+      "name": "chains",
+      "full_name": "ethereum-lists/chains",
+      "owner_login": "ethereum-lists",
+      "description": {
+        "String": "provides metadata for chains",
+        "Valid": true
+      },
+      "language": {
+        "String": "Kotlin",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 9295,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 6971,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 369195,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 526
+    },
+    {
+      "internal_id": 856341,
+      "github_rest_id": 194513266,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkxOTQ1MTMyNjY=",
+      "repo_url": {
+        "String": "https://github.com/voidcosmos/npkill",
+        "Valid": true
+      },
+      "name": "npkill",
+      "full_name": "voidcosmos/npkill",
+      "owner_login": "voidcosmos",
+      "description": {
+        "String": "List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 8837,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 219,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 7844,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 151
+    },
+    {
+      "internal_id": 491377,
+      "github_rest_id": 404320053,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnk0MDQzMjAwNTM=",
+      "repo_url": {
+        "String": "https://github.com/foundry-rs/foundry",
+        "Valid": true
+      },
+      "name": "foundry",
+      "full_name": "foundry-rs/foundry",
+      "owner_login": "foundry-rs",
+      "description": {
+        "String": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+        "Valid": true
+      },
+      "language": {
+        "String": "Rust",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 8163,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 1695,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 42765,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 2322
+    },
+    {
+      "internal_id": 492376,
+      "github_rest_id": 63465664,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnk2MzQ2NTY2NA==",
+      "repo_url": {
+        "String": "https://github.com/ethers-io/ethers.js",
+        "Valid": true
+      },
+      "name": "ethers.js",
+      "full_name": "ethers-io/ethers.js",
+      "owner_login": "ethers-io",
+      "description": {
+        "String": "Complete Ethereum library and wallet implementation in JavaScript.",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 7907,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 1834,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 155984,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 96
+    },
+    {
+      "internal_id": 660380,
+      "github_rest_id": 14735429,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkxNDczNTQyOQ==",
+      "repo_url": {
+        "String": "https://github.com/capstone-engine/capstone",
+        "Valid": true
+      },
+      "name": "capstone",
+      "full_name": "capstone-engine/capstone",
+      "owner_login": "capstone-engine",
+      "description": {
+        "String": "Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webassembly, XCore and X86.",
+        "Valid": true
+      },
+      "language": {
+        "String": "C",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 7796,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 1577,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 64271,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "next",
+        "Valid": true
+      },
+      "total_commits": 144
+    },
+    {
+      "internal_id": 811987,
+      "github_rest_id": 659205972,
+      "github_graphql_id": "R_kgDOJ0qvVA",
+      "repo_url": {
+        "String": "https://github.com/kroma-network/tachyon",
+        "Valid": true
+      },
+      "name": "tachyon",
+      "full_name": "kroma-network/tachyon",
+      "owner_login": "kroma-network",
+      "description": {
+        "String": "Modular ZK(Zero Knowledge) backend accelerated by GPU",
+        "Valid": true
+      },
+      "language": {
+        "String": "C++",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 7759,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 233,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 26912,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 207
+    },
+    {
+      "internal_id": 474921,
+      "github_rest_id": 129558668,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkxMjk1NTg2Njg=",
+      "repo_url": {
+        "String": "https://github.com/nomicfoundation/hardhat",
+        "Valid": true
+      },
+      "name": "hardhat",
+      "full_name": "nomicfoundation/hardhat",
+      "owner_login": "NomicFoundation",
+      "description": {
+        "String": "Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. ",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 7171,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 1375,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 183261,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 4832
+    },
+    {
+      "internal_id": 21933,
+      "github_rest_id": 111455867,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkxMTE0NTU4Njc=",
+      "repo_url": {
+        "String": "https://github.com/smartcontractkit/chainlink",
+        "Valid": true
+      },
+      "name": "chainlink",
+      "full_name": "smartcontractkit/chainlink",
+      "owner_login": "smartcontractkit",
+      "description": {
+        "String": "node of the decentralized oracle network, bridging on and off-chain computation",
+        "Valid": true
+      },
+      "language": {
+        "String": "Go",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 6457,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 1554,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 303590,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "develop",
+        "Valid": true
+      },
+      "total_commits": 6064
+    },
+    {
+      "internal_id": 479368,
+      "github_rest_id": 238797860,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkyMzg3OTc4NjA=",
+      "repo_url": {
+        "String": "https://github.com/ethereum-optimism/optimism",
+        "Valid": true
+      },
+      "name": "optimism",
+      "full_name": "ethereum-optimism/optimism",
+      "owner_login": "ethereum-optimism",
+      "description": {
+        "String": "Optimism is Ethereum, scaled.",
+        "Valid": true
+      },
+      "language": {
+        "String": "Go",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 5555,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 3211,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 312182,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "develop",
+        "Valid": true
+      },
+      "total_commits": 1565
+    },
+    {
+      "internal_id": 668075,
+      "github_rest_id": 147583941,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkxNDc1ODM5NDE=",
+      "repo_url": {
+        "String": "https://github.com/crytic/slither",
+        "Valid": true
+      },
+      "name": "slither",
+      "full_name": "crytic/slither",
+      "owner_login": "crytic",
+      "description": {
+        "String": "Static Analyzer for Solidity and Vyper",
+        "Valid": true
+      },
+      "language": {
+        "String": "Python",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 5510,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 996,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 70321,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 19
+    },
+    {
+      "internal_id": 49622,
+      "github_rest_id": 430942608,
+      "github_graphql_id": "R_kgDOGa-pkA",
+      "repo_url": {
+        "String": "https://github.com/wevm/wagmi",
+        "Valid": true
+      },
+      "name": "wagmi",
+      "full_name": "wevm/wagmi",
+      "owner_login": "wevm",
+      "description": {
+        "String": "React Hooks for Ethereum",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 5424,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 844,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 22434,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 269
+    },
+    {
+      "internal_id": 480739,
+      "github_rest_id": 156949882,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkxNTY5NDk4ODI=",
+      "repo_url": {
+        "String": "https://github.com/matter-labs/awesome-zero-knowledge-proofs",
+        "Valid": true
+      },
+      "name": "awesome-zero-knowledge-proofs",
+      "full_name": "matter-labs/awesome-zero-knowledge-proofs",
+      "owner_login": "matter-labs",
+      "description": {
+        "String": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
+        "Valid": true
+      },
+      "language": {
+        "String": "",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 5217,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 838,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 192,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 1
+    },
+    {
+      "internal_id": 82826,
+      "github_rest_id": 67328052,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnk2NzMyODA1Mg==",
+      "repo_url": {
+        "String": "https://github.com/hyperledger/web3j",
+        "Valid": true
+      },
+      "name": "web3j",
+      "full_name": "hyperledger/web3j",
+      "owner_login": "hyperledger",
+      "description": {
+        "String": "Lightweight Java and Android library for integration with Ethereum clients",
+        "Valid": true
+      },
+      "language": {
+        "String": "Java",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 5023,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 1665,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 10444,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 26
+    },
+    {
+      "internal_id": 662893,
+      "github_rest_id": 73461676,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnk3MzQ2MTY3Ng==",
+      "repo_url": {
+        "String": "https://github.com/vyperlang/vyper",
+        "Valid": true
+      },
+      "name": "vyper",
+      "full_name": "vyperlang/vyper",
+      "owner_login": "vyperlang",
+      "description": {
+        "String": "Pythonic Smart Contract Language for the EVM",
+        "Valid": true
+      },
+      "language": {
+        "String": "Python",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 4984,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 832,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 12588,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 254
+    },
+    {
+      "internal_id": 480226,
+      "github_rest_id": 56251096,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnk1NjI1MTA5Ng==",
+      "repo_url": {
+        "String": "https://github.com/ethereum/web3.py",
+        "Valid": true
+      },
+      "name": "web3.py",
+      "full_name": "ethereum/web3.py",
+      "owner_login": "ethereum",
+      "description": {
+        "String": "A python interface for interacting with the Ethereum blockchain and ecosystem.",
+        "Valid": true
+      },
+      "language": {
+        "String": "Python",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 4967,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 1692,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 29808,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 266
+    },
+    {
+      "internal_id": 21477,
+      "github_rest_id": 108706901,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkxMDg3MDY5MDE=",
+      "repo_url": {
+        "String": "https://github.com/uniswap/interface",
+        "Valid": true
+      },
+      "name": "interface",
+      "full_name": "uniswap/interface",
+      "owner_login": "Uniswap",
+      "description": {
+        "String": "🦄 Open source interfaces for the Uniswap protocol",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 4603,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 4648,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 249725,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 419
+    },
+    {
+      "internal_id": 573812,
+      "github_rest_id": 518698474,
+      "github_graphql_id": "R_kgDOHuq16g",
+      "repo_url": {
+        "String": "https://github.com/taikoxyz/taiko-mono",
+        "Valid": true
+      },
+      "name": "taiko-mono",
+      "full_name": "taikoxyz/taiko-mono",
+      "owner_login": "taikoxyz",
+      "description": {
+        "String": "A based rollup. 🥁 🌸",
+        "Valid": true
+      },
+      "language": {
+        "String": "Svelte",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 4533,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 2165,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 186523,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 4128
+    },
+    {
+      "internal_id": 37506,
+      "github_rest_id": 529595912,
+      "github_graphql_id": "R_kgDOH5D-CA",
+      "repo_url": {
+        "String": "https://github.com/tapexyz/tape",
+        "Valid": true
+      },
+      "name": "tape",
+      "full_name": "tapexyz/tape",
+      "owner_login": "tapexyz",
+      "description": {
+        "String": "Talk, Amplify, Post, Explore. Decentralized social media platform.",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 4348,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 288,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 27396,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 400
+    },
+    {
+      "internal_id": 236,
+      "github_rest_id": 375027355,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkzNzUwMjczNTU=",
+      "repo_url": {
+        "String": "https://github.com/dapp-learning-dao/dapp-learning",
+        "Valid": true
+      },
+      "name": "Dapp-Learning",
+      "full_name": "dapp-learning-dao/dapp-learning",
+      "owner_login": "Dapp-Learning-DAO",
+      "description": {
+        "String": "Dapp learning project for developers at all stages. Becoming and cultivating sovereign individuals. Nonprofit organization.",
+        "Valid": true
+      },
+      "language": {
+        "String": "Solidity",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 4300,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 1142,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 189881,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 1003
+    },
+    {
+      "internal_id": 788425,
+      "github_rest_id": 440958215,
+      "github_graphql_id": "R_kgDOGkh9Bw",
+      "repo_url": {
+        "String": "https://github.com/adrianhajdin/project_web3.0",
+        "Valid": true
+      },
+      "name": "project_web3.0",
+      "full_name": "adrianhajdin/project_web3.0",
+      "owner_login": "adrianhajdin",
+      "description": {
+        "String": "This is a code repository for the corresponding video tutorial. In this video, we're going to build a Web 3.0 React Solidity Blockchain Application",
+        "Valid": true
+      },
+      "language": {
+        "String": "JavaScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 4193,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 1173,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 122,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 1
+    },
+    {
+      "internal_id": 453005,
+      "github_rest_id": 472505393,
+      "github_graphql_id": "R_kgDOHCncMQ",
+      "repo_url": {
+        "String": "https://github.com/pk910/powfaucet",
+        "Valid": true
+      },
+      "name": "PoWFaucet",
+      "full_name": "pk910/powfaucet",
+      "owner_login": "pk910",
+      "description": {
+        "String": "Modularized faucet for EVM chains with different protection methods (Captcha, Mining, IP, Mainnet Balance, Gitcoin Passport and more)",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 3943,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 1486,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 23035,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 125
+    },
+    {
+      "internal_id": 489283,
+      "github_rest_id": 176777353,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkxNzY3NzczNTM=",
+      "repo_url": {
+        "String": "https://github.com/rainbow-me/rainbow",
+        "Valid": true
+      },
+      "name": "rainbow",
+      "full_name": "rainbow-me/rainbow",
+      "owner_login": "rainbow-me",
+      "description": {
+        "String": "🌈‒ the Ethereum wallet that lives in your pocket ",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 3901,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 607,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 218519,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "develop",
+        "Valid": true
+      },
+      "total_commits": 480
+    },
+    {
+      "internal_id": 107456,
+      "github_rest_id": 387031101,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkzODcwMzExMDE=",
+      "repo_url": {
+        "String": "https://github.com/transmissions11/solmate",
+        "Valid": true
+      },
+      "name": "solmate",
+      "full_name": "transmissions11/solmate",
+      "owner_login": "transmissions11",
+      "description": {
+        "String": "Modern, opinionated, and gas optimized building blocks for smart contract development.",
+        "Valid": true
+      },
+      "language": {
+        "String": "Solidity",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 3800,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 634,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 810,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 5
+    },
+    {
+      "internal_id": 683095,
+      "github_rest_id": 81612762,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnk4MTYxMjc2Mg==",
+      "repo_url": {
+        "String": "https://github.com/trailofbits/manticore",
+        "Valid": true
+      },
+      "name": "manticore",
+      "full_name": "trailofbits/manticore",
+      "owner_login": "trailofbits",
+      "description": {
+        "String": "Symbolic execution tool",
+        "Valid": true
+      },
+      "language": {
+        "String": "Python",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 3721,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 479,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 45602,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 1
+    },
+    {
+      "internal_id": 479965,
+      "github_rest_id": 149554797,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkxNDk1NTQ3OTc=",
+      "repo_url": {
+        "String": "https://github.com/ethereum/consensus-specs",
+        "Valid": true
+      },
+      "name": "consensus-specs",
+      "full_name": "ethereum/consensus-specs",
+      "owner_login": "ethereum",
+      "description": {
+        "String": "Ethereum Proof-of-Stake Consensus Specifications",
+        "Valid": true
+      },
+      "language": {
+        "String": "Python",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 3532,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 958,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 22788,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "dev",
+        "Valid": true
+      },
+      "total_commits": 443
+    },
+    {
+      "internal_id": 488965,
+      "github_rest_id": 117156031,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkxMTcxNTYwMzE=",
+      "repo_url": {
+        "String": "https://github.com/prysmaticlabs/prysm",
+        "Valid": true
+      },
+      "name": "prysm",
+      "full_name": "prysmaticlabs/prysm",
+      "owner_login": "prysmaticlabs",
+      "description": {
+        "String": "Go implementation of Ethereum proof of stake",
+        "Valid": true
+      },
+      "language": {
+        "String": "Go",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 3456,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 985,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 231758,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "develop",
+        "Valid": true
+      },
+      "total_commits": 633
+    },
+    {
+      "internal_id": 83915,
+      "github_rest_id": 404312816,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnk0MDQzMTI4MTY=",
+      "repo_url": {
+        "String": "https://github.com/guildxyz/guild.xyz",
+        "Valid": true
+      },
+      "name": "guild.xyz",
+      "full_name": "guildxyz/guild.xyz",
+      "owner_login": "guildxyz",
+      "description": {
+        "String": "A tool for token-curated communities.",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 3242,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 391,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 91598,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 301
+    },
+    {
+      "internal_id": 854965,
+      "github_rest_id": 665488952,
+      "github_graphql_id": "R_kgDOJ6qOOA",
+      "repo_url": {
+        "String": "https://github.com/tangsengdaodao/tangsengdaodaoserver",
+        "Valid": true
+      },
+      "name": "TangSengDaoDaoServer",
+      "full_name": "tangsengdaodao/tangsengdaodaoserver",
+      "owner_login": "TangSengDaoDao",
+      "description": {
+        "String": "高颜值 IM 即时通讯,聊天",
+        "Valid": true
+      },
+      "language": {
+        "String": "Go",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 3081,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 460,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 147419,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 100
+    },
+    {
+      "internal_id": 824235,
+      "github_rest_id": 265775217,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkyNjU3NzUyMTc=",
+      "repo_url": {
+        "String": "https://github.com/bnb-chain/bsc",
+        "Valid": true
+      },
+      "name": "bsc",
+      "full_name": "bnb-chain/bsc",
+      "owner_login": "bnb-chain",
+      "description": {
+        "String": "A BNB Smart Chain client based on the go-ethereum fork",
+        "Valid": true
+      },
+      "language": {
+        "String": "Go",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 3073,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 1741,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 235982,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 70
+    },
+    {
+      "internal_id": 475082,
+      "github_rest_id": 601974648,
+      "github_graphql_id": "R_kgDOI-FneA",
+      "repo_url": {
+        "String": "https://github.com/matter-labs/zksync-era",
+        "Valid": true
+      },
+      "name": "zksync-era",
+      "full_name": "matter-labs/zksync-era",
+      "owner_login": "matter-labs",
+      "description": {
+        "String": "zkSync era",
+        "Valid": true
+      },
+      "language": {
+        "String": "Rust",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 3072,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 2059,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 111466,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 2046
+    },
+    {
+      "internal_id": 704746,
+      "github_rest_id": 128089774,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkxMjgwODk3NzQ=",
+      "repo_url": {
+        "String": "https://github.com/storj/storj",
+        "Valid": true
+      },
+      "name": "storj",
+      "full_name": "storj/storj",
+      "owner_login": "storj",
+      "description": {
+        "String": "Ongoing Storj v3 development. Decentralized cloud object storage that is affordable, easy to use, private, and secure.",
+        "Valid": true
+      },
+      "language": {
+        "String": "Go",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 3063,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 409,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 162971,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 1629
+    },
+    {
+      "internal_id": 473794,
+      "github_rest_id": 139952333,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkxMzk5NTIzMzM=",
+      "repo_url": {
+        "String": "https://github.com/sigp/lighthouse",
+        "Valid": true
+      },
+      "name": "lighthouse",
+      "full_name": "sigp/lighthouse",
+      "owner_login": "sigp",
+      "description": {
+        "String": "Ethereum consensus client in Rust",
+        "Valid": true
+      },
+      "language": {
+        "String": "Rust",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 2881,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 724,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 130572,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "stable",
+        "Valid": true
+      },
+      "total_commits": 988
+    },
+    {
+      "internal_id": 440873,
+      "github_rest_id": 130174051,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkxMzAxNzQwNTE=",
+      "repo_url": {
+        "String": "https://github.com/graphprotocol/graph-node",
+        "Valid": true
+      },
+      "name": "graph-node",
+      "full_name": "graphprotocol/graph-node",
+      "owner_login": "graphprotocol",
+      "description": {
+        "String": "Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL",
+        "Valid": true
+      },
+      "language": {
+        "String": "Rust",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 2876,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 950,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 333040,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 381
+    },
+    {
+      "internal_id": 4967,
+      "github_rest_id": 305234033,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkzMDUyMzQwMzM=",
+      "repo_url": {
+        "String": "https://github.com/hop-protocol/hop",
+        "Valid": true
+      },
+      "name": "hop",
+      "full_name": "hop-protocol/hop",
+      "owner_login": "hop-protocol",
+      "description": {
+        "String": "🐰 Hop Protocol v1 monorepo",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 2805,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 192,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 68895,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "develop",
+        "Valid": true
+      },
+      "total_commits": 191
+    },
+    {
+      "internal_id": 6773,
+      "github_rest_id": 537233603,
+      "github_graphql_id": "R_kgDOIAWIww",
+      "repo_url": {
+        "String": "https://github.com/paradigmxyz/reth",
+        "Valid": true
+      },
+      "name": "reth",
+      "full_name": "paradigmxyz/reth",
+      "owner_login": "paradigmxyz",
+      "description": {
+        "String": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
+        "Valid": true
+      },
+      "language": {
+        "String": "Rust",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 2722,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 618,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 23682,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 9192
+    },
+    {
+      "internal_id": 58739,
+      "github_rest_id": 155913585,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkxNTU5MTM1ODU=",
+      "repo_url": {
+        "String": "https://github.com/eth-brownie/brownie",
+        "Valid": true
+      },
+      "name": "brownie",
+      "full_name": "eth-brownie/brownie",
+      "owner_login": "eth-brownie",
+      "description": {
+        "String": "A Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.",
+        "Valid": true
+      },
+      "language": {
+        "String": "Python",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 2592,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 545,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 7382,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 406
+    },
+    {
+      "internal_id": 753235,
+      "github_rest_id": 313976994,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkzMTM5NzY5OTQ=",
+      "repo_url": {
+        "String": "https://github.com/flashbots/pm",
+        "Valid": true
+      },
+      "name": "pm",
+      "full_name": "flashbots/pm",
+      "owner_login": "flashbots",
+      "description": {
+        "String": "Everything there is to know about Flashbots",
+        "Valid": true
+      },
+      "language": {
+        "String": "",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 2575,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 294,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 1126,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 2
+    },
+    {
+      "internal_id": 473961,
+      "github_rest_id": 38885825,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkzODg4NTgyNQ==",
+      "repo_url": {
+        "String": "https://github.com/ethereumjs/ethereumjs-monorepo",
+        "Valid": true
+      },
+      "name": "ethereumjs-monorepo",
+      "full_name": "ethereumjs/ethereumjs-monorepo",
+      "owner_login": "ethereumjs",
+      "description": {
+        "String": "Monorepo for the Ethereum VM TypeScript Implementation",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 2570,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 747,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 88985,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 296
+    },
+    {
+      "internal_id": 495389,
+      "github_rest_id": 266602341,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkyNjY2MDIzNDE=",
+      "repo_url": {
+        "String": "https://github.com/gakonst/ethers-rs",
+        "Valid": true
+      },
+      "name": "ethers-rs",
+      "full_name": "gakonst/ethers-rs",
+      "owner_login": "gakonst",
+      "description": {
+        "String": "Complete Ethereum \u0026 Celo library and wallet implementation in Rust. https://docs.rs/ethers",
+        "Valid": true
+      },
+      "language": {
+        "String": "Rust",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 2491,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 796,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 9879,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 1
+    },
+    {
+      "internal_id": 5430,
+      "github_rest_id": 170738310,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkxNzA3MzgzMTA=",
+      "repo_url": {
+        "String": "https://github.com/trustwallet/wallet-core",
+        "Valid": true
+      },
+      "name": "wallet-core",
+      "full_name": "trustwallet/wallet-core",
+      "owner_login": "trustwallet",
+      "description": {
+        "String": "Cross-platform, cross-blockchain wallet library.",
+        "Valid": true
+      },
+      "language": {
+        "String": "C++",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 2490,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 1547,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 28455,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 132
+    },
+    {
+      "internal_id": 451897,
+      "github_rest_id": 248697283,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkyNDg2OTcyODM=",
+      "repo_url": {
+        "String": "https://github.com/ethereum/remix-project",
+        "Valid": true
+      },
+      "name": "remix-project",
+      "full_name": "ethereum/remix-project",
+      "owner_login": "ethereum",
+      "description": {
+        "String": "Remix is a browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions.",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 2401,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 910,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 233754,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 1537
+    },
+    {
+      "internal_id": 723112,
+      "github_rest_id": 392810918,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkzOTI4MTA5MTg=",
+      "repo_url": {
+        "String": "https://github.com/dominant-strategies/go-quai",
+        "Valid": true
+      },
+      "name": "go-quai",
+      "full_name": "dominant-strategies/go-quai",
+      "owner_login": "dominant-strategies",
+      "description": {
+        "String": "Official Go Implementation of the Quai Network",
+        "Valid": true
+      },
+      "language": {
+        "String": "Go",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 2394,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 483,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 148809,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 479
+    },
+    {
+      "internal_id": 619377,
+      "github_rest_id": 114459569,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkxMTQ0NTk1Njk=",
+      "repo_url": {
+        "String": "https://github.com/bmoscon/cryptofeed",
+        "Valid": true
+      },
+      "name": "cryptofeed",
+      "full_name": "bmoscon/cryptofeed",
+      "owner_login": "bmoscon",
+      "description": {
+        "String": "Cryptocurrency Exchange Websocket Data Feed Handler",
+        "Valid": true
+      },
+      "language": {
+        "String": "Python",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 2320,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 696,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 121307,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 23
+    },
+    {
+      "internal_id": 66970,
+      "github_rest_id": 392610935,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkzOTI2MTA5MzU=",
+      "repo_url": {
+        "String": "https://github.com/rainbow-me/rainbowkit",
+        "Valid": true
+      },
+      "name": "rainbowkit",
+      "full_name": "rainbow-me/rainbowkit",
+      "owner_login": "rainbow-me",
+      "description": {
+        "String": "The best way to connect a wallet 🌈 🧰",
+        "Valid": true
+      },
+      "language": {
+        "String": "MDX",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 2316,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 577,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 20921,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 149
+    },
+    {
+      "internal_id": 644761,
+      "github_rest_id": 233102473,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkyMzMxMDI0NzM=",
+      "repo_url": {
+        "String": "https://github.com/crytic/building-secure-contracts",
+        "Valid": true
+      },
+      "name": "building-secure-contracts",
+      "full_name": "crytic/building-secure-contracts",
+      "owner_login": "crytic",
+      "description": {
+        "String": "Guidelines and training material to write secure smart contracts",
+        "Valid": true
+      },
+      "language": {
+        "String": "Solidity",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 2300,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 366,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 7003,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 70
+    },
+    {
+      "internal_id": 480138,
+      "github_rest_id": 77478378,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnk3NzQ3ODM3OA==",
+      "repo_url": {
+        "String": "https://github.com/ethereum/py-evm",
+        "Valid": true
+      },
+      "name": "py-evm",
+      "full_name": "ethereum/py-evm",
+      "owner_login": "ethereum",
+      "description": {
+        "String": "A Python implementation of the Ethereum Virtual Machine",
+        "Valid": true
+      },
+      "language": {
+        "String": "Python",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 2258,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 649,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 17369,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 55
+    },
+    {
+      "internal_id": 480159,
+      "github_rest_id": 59065830,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnk1OTA2NTgzMA==",
+      "repo_url": {
+        "String": "https://github.com/ethereum/remix-ide",
+        "Valid": true
+      },
+      "name": "remix-ide",
+      "full_name": "ethereum/remix-ide",
+      "owner_login": "ethereum",
+      "description": {
+        "String": "Documentation for Remix IDE",
+        "Valid": true
+      },
+      "language": {
+        "String": "",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 2255,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 1107,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 78512,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 14
+    },
+    {
+      "internal_id": 807340,
+      "github_rest_id": 491724326,
+      "github_graphql_id": "R_kgDOHU8eJg",
+      "repo_url": {
+        "String": "https://github.com/farcasterxyz/protocol",
+        "Valid": true
+      },
+      "name": "protocol",
+      "full_name": "farcasterxyz/protocol",
+      "owner_login": "farcasterxyz",
+      "description": {
+        "String": "Specification of the Farcaster Protocol",
+        "Valid": true
+      },
+      "language": {
+        "String": "",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 2141,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 316,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 782,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 11
+    },
+    {
+      "internal_id": 492374,
+      "github_rest_id": 137069125,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkxMzcwNjkxMjU=",
+      "repo_url": {
+        "String": "https://github.com/dapphub/dapptools",
+        "Valid": true
+      },
+      "name": "dapptools",
+      "full_name": "dapphub/dapptools",
+      "owner_login": "dapphub",
+      "description": {
+        "String": "Dapp, Seth, Hevm, and more",
+        "Valid": true
+      },
+      "language": {
+        "String": "Haskell",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 2089,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 325,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 8873,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 2
+    },
+    {
+      "internal_id": 32278,
+      "github_rest_id": 516564547,
+      "github_graphql_id": "R_kgDOHsomQw",
+      "repo_url": {
+        "String": "https://github.com/wevm/viem",
+        "Valid": true
+      },
+      "name": "viem",
+      "full_name": "wevm/viem",
+      "owner_login": "wevm",
+      "description": {
+        "String": "TypeScript Interface for Ethereum",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1982,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 451,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 323724,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 1033
+    },
+    {
+      "internal_id": 9032,
+      "github_rest_id": 246387644,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkyNDYzODc2NDQ=",
+      "repo_url": {
+        "String": "https://github.com/ava-labs/avalanchego",
+        "Valid": true
+      },
+      "name": "avalanchego",
+      "full_name": "ava-labs/avalanchego",
+      "owner_login": "ava-labs",
+      "description": {
+        "String": "Go implementation of an Avalanche node.",
+        "Valid": true
+      },
+      "language": {
+        "String": "Go",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1982,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 630,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 114052,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 549
+    },
+    {
+      "internal_id": 648478,
+      "github_rest_id": 170797156,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkxNzA3OTcxNTY=",
+      "repo_url": {
+        "String": "https://github.com/reactive/data-client",
+        "Valid": true
+      },
+      "name": "data-client",
+      "full_name": "reactive/data-client",
+      "owner_login": "reactive",
+      "description": {
+        "String": "Async State Management without the Management. REST, GraphQL, SSE, Websockets",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1970,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 94,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 339566,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 169
+    },
+    {
+      "internal_id": 710881,
+      "github_rest_id": 523436104,
+      "github_graphql_id": "R_kgDOHzMASA",
+      "repo_url": {
+        "String": "https://github.com/a16z/helios",
+        "Valid": true
+      },
+      "name": "helios",
+      "full_name": "a16z/helios",
+      "owner_login": "a16z",
+      "description": {
+        "String": "A fast, secure, and portable multichain light client for Ethereum",
+        "Valid": true
+      },
+      "language": {
+        "String": "Rust",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1948,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 342,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 2423,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 316
+    },
+    {
+      "internal_id": 58155,
+      "github_rest_id": 277660991,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkyNzc2NjA5OTE=",
+      "repo_url": {
+        "String": "https://github.com/paulrberg/hardhat-template",
+        "Valid": true
+      },
+      "name": "hardhat-template",
+      "full_name": "paulrberg/hardhat-template",
+      "owner_login": "PaulRBerg",
+      "description": {
+        "String": "Hardhat-based template for developing Solidity smart contracts",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1915,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 555,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 8944,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 8
+    },
+    {
+      "internal_id": 26389,
+      "github_rest_id": 289845062,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkyODk4NDUwNjI=",
+      "repo_url": {
+        "String": "https://github.com/sushiswap/sushiswap",
+        "Valid": true
+      },
+      "name": "sushiswap",
+      "full_name": "sushiswap/sushiswap",
+      "owner_login": "sushiswap",
+      "description": {
+        "String": "Sushi 2.0 🍣",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1878,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 1525,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 215261,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 384
+    },
+    {
+      "internal_id": 521477,
+      "github_rest_id": 674559306,
+      "github_graphql_id": "R_kgDOKDT1Sg",
+      "repo_url": {
+        "String": "https://github.com/paritytech/polkadot-sdk",
+        "Valid": true
+      },
+      "name": "polkadot-sdk",
+      "full_name": "paritytech/polkadot-sdk",
+      "owner_login": "paritytech",
+      "description": {
+        "String": "The Parity Polkadot Blockchain SDK",
+        "Valid": true
+      },
+      "language": {
+        "String": "Rust",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1840,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 668,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 651455,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 1100
+    },
+    {
+      "internal_id": 727620,
+      "github_rest_id": 144108814,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkxNDQxMDg4MTQ=",
+      "repo_url": {
+        "String": "https://github.com/iden3/snarkjs",
+        "Valid": true
+      },
+      "name": "snarkjs",
+      "full_name": "iden3/snarkjs",
+      "owner_login": "iden3",
+      "description": {
+        "String": "zkSNARK implementation in JavaScript \u0026 WASM",
+        "Valid": true
+      },
+      "language": {
+        "String": "JavaScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1839,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 448,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 143695,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 12
+    },
+    {
+      "internal_id": 480174,
+      "github_rest_id": 42808596,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnk0MjgwODU5Ng==",
+      "repo_url": {
+        "String": "https://github.com/ethereum/research",
+        "Valid": true
+      },
+      "name": "research",
+      "full_name": "ethereum/research",
+      "owner_login": "ethereum",
+      "description": {
+        "String": "",
+        "Valid": true
+      },
+      "language": {
+        "String": "Python",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1788,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 585,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 37706,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 18
+    },
+    {
+      "internal_id": 15730,
+      "github_rest_id": 102186072,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkxMDIxODYwNzI=",
+      "repo_url": {
+        "String": "https://github.com/safe-global/safe-smart-account",
+        "Valid": true
+      },
+      "name": "safe-smart-account",
+      "full_name": "safe-global/safe-smart-account",
+      "owner_login": "safe-global",
+      "description": {
+        "String": "Safe allows secure management of blockchain assets. ",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1701,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 818,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 8119,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 250
+    },
+    {
+      "internal_id": 13625,
+      "github_rest_id": 430749584,
+      "github_graphql_id": "R_kgDOGay3kA",
+      "repo_url": {
+        "String": "https://github.com/onekeyhq/app-monorepo",
+        "Valid": true
+      },
+      "name": "app-monorepo",
+      "full_name": "onekeyhq/app-monorepo",
+      "owner_login": "OneKeyHQ",
+      "description": {
+        "String": "Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions.",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1694,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 316,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 255622,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "onekey",
+        "Valid": true
+      },
+      "total_commits": 751
+    },
+    {
+      "internal_id": 480233,
+      "github_rest_id": 18354202,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkxODM1NDIwMg==",
+      "repo_url": {
+        "String": "https://github.com/ethereum/yellowpaper",
+        "Valid": true
+      },
+      "name": "yellowpaper",
+      "full_name": "ethereum/yellowpaper",
+      "owner_login": "ethereum",
+      "description": {
+        "String": "The \"Yellow Paper\": Ethereum's formal specification",
+        "Valid": true
+      },
+      "language": {
+        "String": "TeX",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1644,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 511,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 3916,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 4
+    },
+    {
+      "internal_id": 660038,
+      "github_rest_id": 451509672,
+      "github_graphql_id": "R_kgDOGul9qA",
+      "repo_url": {
+        "String": "https://github.com/eth-infinitism/account-abstraction",
+        "Valid": true
+      },
+      "name": "account-abstraction",
+      "full_name": "eth-infinitism/account-abstraction",
+      "owner_login": "eth-infinitism",
+      "description": {
+        "String": "",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1607,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 686,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 3210,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "develop",
+        "Valid": true
+      },
+      "total_commits": 50
+    },
+    {
+      "internal_id": 480056,
+      "github_rest_id": 201584176,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkyMDE1ODQxNzY=",
+      "repo_url": {
+        "String": "https://github.com/ethereum/fe",
+        "Valid": true
+      },
+      "name": "fe",
+      "full_name": "ethereum/fe",
+      "owner_login": "ethereum",
+      "description": {
+        "String": "Emerging smart contract language for the Ethereum blockchain.",
+        "Valid": true
+      },
+      "language": {
+        "String": "Rust",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1602,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 182,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 13689,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 59
+    },
+    {
+      "internal_id": 475089,
+      "github_rest_id": 411607920,
+      "github_graphql_id": "R_kgDOGIijcA",
+      "repo_url": {
+        "String": "https://github.com/bluealloy/revm",
+        "Valid": true
+      },
+      "name": "revm",
+      "full_name": "bluealloy/revm",
+      "owner_login": "bluealloy",
+      "description": {
+        "String": "Rust implementation of the Ethereum Virtual Machine.",
+        "Valid": true
+      },
+      "language": {
+        "String": "Rust",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1581,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 518,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 13179,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 638
+    },
+    {
+      "internal_id": 480124,
+      "github_rest_id": 69717712,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnk2OTcxNzcxMg==",
+      "repo_url": {
+        "String": "https://github.com/ethereum/pm",
+        "Valid": true
+      },
+      "name": "pm",
+      "full_name": "ethereum/pm",
+      "owner_login": "ethereum",
+      "description": {
+        "String": "Project Management: Meeting notes and agenda items",
+        "Valid": true
+      },
+      "language": {
+        "String": "Python",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1576,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 321,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 6933,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 1591
+    },
+    {
+      "internal_id": 557197,
+      "github_rest_id": 365701873,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkzNjU3MDE4NzM=",
+      "repo_url": {
+        "String": "https://github.com/dfinity/ic",
+        "Valid": true
+      },
+      "name": "ic",
+      "full_name": "dfinity/ic",
+      "owner_login": "dfinity",
+      "description": {
+        "String": "Internet Computer blockchain source: the client/replica software run by nodes",
+        "Valid": true
+      },
+      "language": {
+        "String": "Rust",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1556,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 316,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 277467,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 3014
+    },
+    {
+      "internal_id": 655210,
+      "github_rest_id": 204571899,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkyMDQ1NzE4OTk=",
+      "repo_url": {
+        "String": "https://github.com/storj/drpc",
+        "Valid": true
+      },
+      "name": "drpc",
+      "full_name": "storj/drpc",
+      "owner_login": "storj",
+      "description": {
+        "String": "drpc is a lightweight, drop-in replacement for gRPC",
+        "Valid": true
+      },
+      "language": {
+        "String": "Go",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1526,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 51,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 794,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 3
+    },
+    {
+      "internal_id": 30018,
+      "github_rest_id": 365367120,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkzNjUzNjcxMjA=",
+      "repo_url": {
+        "String": "https://github.com/sunflower-land/sunflower-land",
+        "Valid": true
+      },
+      "name": "sunflower-land",
+      "full_name": "sunflower-land/sunflower-land",
+      "owner_login": "sunflower-land",
+      "description": {
+        "String": "",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1517,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 568,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 141338,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 2869
+    },
+    {
+      "internal_id": 443067,
+      "github_rest_id": 178806582,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkxNzg4MDY1ODI=",
+      "repo_url": {
+        "String": "https://github.com/dimensiondev/maskbook",
+        "Valid": true
+      },
+      "name": "Maskbook",
+      "full_name": "dimensiondev/maskbook",
+      "owner_login": "DimensionDev",
+      "description": {
+        "String": "The portal to the new, open Internet. ([I:b])",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1501,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 309,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 172398,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "develop",
+        "Valid": true
+      },
+      "total_commits": 303
+    },
+    {
+      "internal_id": 483778,
+      "github_rest_id": 206414745,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkyMDY0MTQ3NDU=",
+      "repo_url": {
+        "String": "https://github.com/hyperledger/besu",
+        "Valid": true
+      },
+      "name": "besu",
+      "full_name": "hyperledger/besu",
+      "owner_login": "hyperledger",
+      "description": {
+        "String": "An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client https://wiki.hyperledger.org/display/besu",
+        "Valid": true
+      },
+      "language": {
+        "String": "Java",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1483,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 809,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 85155,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 1606
+    },
+    {
+      "internal_id": 725865,
+      "github_rest_id": 77491041,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnk3NzQ5MTA0MQ==",
+      "repo_url": {
+        "String": "https://github.com/tomusdrw/rust-web3",
+        "Valid": true
+      },
+      "name": "rust-web3",
+      "full_name": "tomusdrw/rust-web3",
+      "owner_login": "tomusdrw",
+      "description": {
+        "String": "Ethereum JSON-RPC multi-transport client. Rust implementation of web3 library.  ENS address: rust-web3.eth",
+        "Valid": true
+      },
+      "language": {
+        "String": "Rust",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1481,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 470,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 2287,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 5
+    },
+    {
+      "internal_id": 823956,
+      "github_rest_id": 134344706,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkxMzQzNDQ3MDY=",
+      "repo_url": {
+        "String": "https://github.com/harmony-one/harmony",
+        "Valid": true
+      },
+      "name": "harmony",
+      "full_name": "harmony-one/harmony",
+      "owner_login": "harmony-one",
+      "description": {
+        "String": "The core protocol of harmony",
+        "Valid": true
+      },
+      "language": {
+        "String": "Go",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1465,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 293,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 33199,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 3
+    },
+    {
+      "internal_id": 494002,
+      "github_rest_id": 234530887,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkyMzQ1MzA4ODc=",
+      "repo_url": {
+        "String": "https://github.com/ethersphere/bee",
+        "Valid": true
+      },
+      "name": "bee",
+      "full_name": "ethersphere/bee",
+      "owner_login": "ethersphere",
+      "description": {
+        "String": "Bee is a Swarm client implemented in Go. It’s the basic building block for the Swarm network: a private; decentralized; and self-sustaining network for permissionless publishing and access to your (application) data.",
+        "Valid": true
+      },
+      "language": {
+        "String": "Go",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1454,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 337,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 101619,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 162
+    },
+    {
+      "internal_id": 480189,
+      "github_rest_id": 55413578,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnk1NTQxMzU3OA==",
+      "repo_url": {
+        "String": "https://github.com/ethereum/solc-js",
+        "Valid": true
+      },
+      "name": "solc-js",
+      "full_name": "ethereum/solc-js",
+      "owner_login": "ethereum",
+      "description": {
+        "String": "Javascript bindings for the Solidity compiler",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1449,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 470,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 713,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 11
+    },
+    {
+      "internal_id": 726669,
+      "github_rest_id": 180590388,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkxODA1OTAzODg=",
+      "repo_url": {
+        "String": "https://github.com/trezor/trezor-firmware",
+        "Valid": true
+      },
+      "name": "trezor-firmware",
+      "full_name": "trezor/trezor-firmware",
+      "owner_login": "trezor",
+      "description": {
+        "String": ":lock: Trezor Firmware Monorepo",
+        "Valid": true
+      },
+      "language": {
+        "String": "C",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1437,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 680,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 226192,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 1169
+    },
+    {
+      "internal_id": 16536,
+      "github_rest_id": 282684311,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkyODI2ODQzMTE=",
+      "repo_url": {
+        "String": "https://github.com/wormhole-foundation/wormhole",
+        "Valid": true
+      },
+      "name": "wormhole",
+      "full_name": "wormhole-foundation/wormhole",
+      "owner_login": "wormhole-foundation",
+      "description": {
+        "String": "A reference implementation for the Wormhole blockchain interoperability protocol.",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1437,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 552,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 162185,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 727
+    },
+    {
+      "internal_id": 84822,
+      "github_rest_id": 184357431,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkxODQzNTc0MzE=",
+      "repo_url": {
+        "String": "https://github.com/coinbase/coinbase-wallet-sdk",
+        "Valid": true
+      },
+      "name": "coinbase-wallet-sdk",
+      "full_name": "coinbase/coinbase-wallet-sdk",
+      "owner_login": "coinbase",
+      "description": {
+        "String": "An open protocol that lets users connect their mobile wallets to your DApp",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1401,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 520,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 25493,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 160
+    },
+    {
+      "internal_id": 806768,
+      "github_rest_id": 610961354,
+      "github_graphql_id": "R_kgDOJGqHyg",
+      "repo_url": {
+        "String": "https://github.com/base/brand-kit",
+        "Valid": true
+      },
+      "name": "brand-kit",
+      "full_name": "base/brand-kit",
+      "owner_login": "base",
+      "description": {
+        "String": "Brand guide and logos for the Base brand. Built on the Superchain.",
+        "Valid": true
+      },
+      "language": {
+        "String": "",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1374,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 409,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 83118,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 7
+    },
+    {
+      "internal_id": 51232,
+      "github_rest_id": 438402257,
+      "github_graphql_id": "R_kgDOGiF80Q",
+      "repo_url": {
+        "String": "https://github.com/dethcrypto/dethcode",
+        "Valid": true
+      },
+      "name": "dethcode",
+      "full_name": "dethcrypto/dethcode",
+      "owner_login": "dethcrypto",
+      "description": {
+        "String": "View source of deployed Ethereum contracts in VSCode",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1322,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 97,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 591,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 3
+    },
+    {
+      "internal_id": 436192,
+      "github_rest_id": 356248265,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkzNTYyNDgyNjU=",
+      "repo_url": {
+        "String": "https://github.com/rabbyhub/rabby",
+        "Valid": true
+      },
+      "name": "Rabby",
+      "full_name": "rabbyhub/rabby",
+      "owner_login": "RabbyHub",
+      "description": {
+        "String": "The game-changing wallet for Ethereum and all EVM chains",
+        "Valid": true
+      },
+      "language": {
+        "String": "TypeScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1319,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 370,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 104389,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "develop",
+        "Valid": true
+      },
+      "total_commits": 553
+    },
+    {
+      "internal_id": 782,
+      "github_rest_id": 600295047,
+      "github_graphql_id": "R_kgDOI8fGhw",
+      "repo_url": {
+        "String": "https://github.com/zhangzhuosjtu/web3bugs",
+        "Valid": true
+      },
+      "name": "Web3Bugs",
+      "full_name": "zhangzhuosjtu/web3bugs",
+      "owner_login": "ZhangZhuoSJTU",
+      "description": {
+        "String": "Demystifying Exploitable Bugs in Smart Contracts",
+        "Valid": true
+      },
+      "language": {
+        "String": "Solidity",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1299,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 171,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 152784,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 4
+    },
+    {
+      "internal_id": 58198,
+      "github_rest_id": 200152386,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkyMDAxNTIzODY=",
+      "repo_url": {
+        "String": "https://github.com/electric-capital/crypto-ecosystems",
+        "Valid": true
+      },
+      "name": "crypto-ecosystems",
+      "full_name": "electric-capital/crypto-ecosystems",
+      "owner_login": "electric-capital",
+      "description": {
+        "String": "A taxonomy for open source cryptocurrency, blockchain, and decentralized ecosystems",
+        "Valid": true
+      },
+      "language": {
+        "String": "Rust",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1293,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 1095,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 45731,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 1351
+    },
+    {
+      "internal_id": 609958,
+      "github_rest_id": 301345449,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkzMDEzNDU0NDk=",
+      "repo_url": {
+        "String": "https://github.com/c9s/bbgo",
+        "Valid": true
+      },
+      "name": "bbgo",
+      "full_name": "c9s/bbgo",
+      "owner_login": "c9s",
+      "description": {
+        "String": "The modern cryptocurrency trading bot framework written in Go.",
+        "Valid": true
+      },
+      "language": {
+        "String": "Go",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1285,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 300,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 177766,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 6504
+    },
+    {
+      "internal_id": 585028,
+      "github_rest_id": 163517929,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkxNjM1MTc5Mjk=",
+      "repo_url": {
+        "String": "https://github.com/hyperledger-solang/solang",
+        "Valid": true
+      },
+      "name": "solang",
+      "full_name": "hyperledger-solang/solang",
+      "owner_login": "hyperledger-solang",
+      "description": {
+        "String": "Solidity Compiler for Solana and Polkadot",
+        "Valid": true
+      },
+      "language": {
+        "String": "Rust",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1274,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 217,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 18682,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 47
+    },
+    {
+      "internal_id": 687685,
+      "github_rest_id": 113136685,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkxMTMxMzY2ODU=",
+      "repo_url": {
+        "String": "https://github.com/rust-ethereum/evm",
+        "Valid": true
+      },
+      "name": "evm",
+      "full_name": "rust-ethereum/evm",
+      "owner_login": "rust-ethereum",
+      "description": {
+        "String": "Pure Rust implementation of Ethereum Virtual Machine",
+        "Valid": true
+      },
+      "language": {
+        "String": "Rust",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1223,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 384,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 7180,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "master",
+        "Valid": true
+      },
+      "total_commits": 51
+    },
+    {
+      "internal_id": 665142,
+      "github_rest_id": 429165235,
+      "github_graphql_id": "R_kgDOGZSKsw",
+      "repo_url": {
+        "String": "https://github.com/flashbots/mev-boost",
+        "Valid": true
+      },
+      "name": "mev-boost",
+      "full_name": "flashbots/mev-boost",
+      "owner_login": "flashbots",
+      "description": {
+        "String": "MEV-Boost allows Ethereum validators to source high-MEV blocks from a competitive builder marketplace",
+        "Valid": true
+      },
+      "language": {
+        "String": "Go",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1223,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 226,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 2857,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "develop",
+        "Valid": true
+      },
+      "total_commits": 43
+    },
+    {
+      "internal_id": 648417,
+      "github_rest_id": 727489129,
+      "github_graphql_id": "R_kgDOK1yaaQ",
+      "repo_url": {
+        "String": "https://github.com/succinctlabs/sp1",
+        "Valid": true
+      },
+      "name": "sp1",
+      "full_name": "succinctlabs/sp1",
+      "owner_login": "succinctlabs",
+      "description": {
+        "String": "The fastest, most feature-complete zkVM for developers.",
+        "Valid": true
+      },
+      "language": {
+        "String": "Rust",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1217,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 432,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 441352,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "dev",
+        "Valid": true
+      },
+      "total_commits": 1576
+    },
+    {
+      "internal_id": 474445,
+      "github_rest_id": 112581082,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkxMTI1ODEwODI=",
+      "repo_url": {
+        "String": "https://github.com/synthetixio/synthetix",
+        "Valid": true
+      },
+      "name": "synthetix",
+      "full_name": "synthetixio/synthetix",
+      "owner_login": "Synthetixio",
+      "description": {
+        "String": "Synthetix Solidity smart contracts",
+        "Valid": true
+      },
+      "language": {
+        "String": "JavaScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1197,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 594,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 122517,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "develop",
+        "Valid": true
+      },
+      "total_commits": 37
+    },
+    {
+      "internal_id": 761693,
+      "github_rest_id": 821763161,
+      "github_graphql_id": "R_kgDOMPscWQ",
+      "repo_url": {
+        "String": "https://github.com/brahmgan/ganchain-v2",
+        "Valid": true
+      },
+      "name": "ganchain-v2",
+      "full_name": "brahmgan/ganchain-v2",
+      "owner_login": "brahmGAN",
+      "description": {
+        "String": "This is the rust and substrate code for the GAN chain and its nodes.",
+        "Valid": true
+      },
+      "language": {
+        "String": "Rust",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1171,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 78,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 19529,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 18
+    },
+    {
+      "internal_id": 49700,
+      "github_rest_id": 350740340,
+      "github_graphql_id": "MDEwOlJlcG9zaXRvcnkzNTA3NDAzNDA=",
+      "repo_url": {
+        "String": "https://github.com/smartcontractkit/hardhat-starter-kit",
+        "Valid": true
+      },
+      "name": "hardhat-starter-kit",
+      "full_name": "smartcontractkit/hardhat-starter-kit",
+      "owner_login": "smartcontractkit",
+      "description": {
+        "String": "A repo for boilerplate code for testing, deploying, and shipping chainlink solidity code. ",
+        "Valid": true
+      },
+      "language": {
+        "String": "JavaScript",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1141,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 473,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 67588,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 10
+    },
+    {
+      "internal_id": 635492,
+      "github_rest_id": 574586423,
+      "github_graphql_id": "R_kgDOIj9-Nw",
+      "repo_url": {
+        "String": "https://github.com/taikoxyz/simple-taiko-node",
+        "Valid": true
+      },
+      "name": "simple-taiko-node",
+      "full_name": "taikoxyz/simple-taiko-node",
+      "owner_login": "taikoxyz",
+      "description": {
+        "String": "Start your Taiko node with a single command.  🌐",
+        "Valid": true
+      },
+      "language": {
+        "String": "Shell",
+        "Valid": true
+      },
+      "stargazers_count": {
+        "Int32": 1137,
+        "Valid": true
+      },
+      "forks_count": {
+        "Int32": 834,
+        "Valid": true
+      },
+      "size": {
+        "Int32": 261,
+        "Valid": true
+      },
+      "default_branch": {
+        "String": "main",
+        "Valid": true
+      },
+      "total_commits": 47
+    }
+  ],
+  "date_range": "August 31, 2024 - August 31, 2025",
+  "duration": "2m14.836365042s",
+  "duration_ms": 134836,
+  "generated_at": "2025-09-27T04:35:59Z",
+  "query_name": "Top 100 Most Starred Repositories",
+  "result_count": 100
+}
