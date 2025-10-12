@@ -267,15 +267,15 @@ export default function TopStarredReposChart({
   return (
     <div className="grid grid-cols-1 gap-6">
       {/* Stars Bar Chart */}
-      <Card className="w-full">
+      <Card className="w-full h-[500px] flex flex-col">
         <CardHeader className="flex items-center gap-2 space-y-0 border-b py-3 sm:py-4 sm:flex-row">
           <div className="grid flex-1 gap-1 text-center sm:text-left">
             <CardTitle>{title}</CardTitle>
             <CardDescription>{description}</CardDescription>
           </div>
         </CardHeader>
-        <CardContent>
-          <ChartContainer config={chartConfig} className="h-[400px] w-full">
+        <CardContent className="pb-6 flex-1 flex flex-col">
+          <ChartContainer config={chartConfig} className="h-[420px] w-full">
             <ResponsiveContainer width="100%" height="100%">
               <BarChart
                 data={chartData}

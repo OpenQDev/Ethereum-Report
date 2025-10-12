@@ -63,7 +63,7 @@ export default function Top50StarredRepositoriesTable({
   starredRepositories,
 }: Top50StarredRepositoriesTableProps) {
   return (
-    <Card className="h-full">
+    <Card className="h-[500px] flex flex-col">
       <CardHeader className="flex items-center gap-2 space-y-0 border-b py-3 sm:py-4 sm:flex-row">
         <div className="grid flex-1 gap-1 text-center sm:text-left">
           <CardTitle>Top 50 Starred Repositories</CardTitle>
@@ -72,8 +72,8 @@ export default function Top50StarredRepositoriesTable({
           </CardDescription>
         </div>
       </CardHeader>
-      <CardContent className="pb-6">
-        <div className="h-96 overflow-auto border rounded-md">
+      <CardContent className="pb-6 flex-1 flex flex-col">
+        <div className="h-[420px] overflow-auto border rounded-md">
           <Table>
             <TableHeader className="sticky top-0 bg-background z-10">
               <TableRow>
