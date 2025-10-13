@@ -181,7 +181,7 @@ export default function CommitSquaresChart({
           <div id="scrollPart" className="max-h-[700px] overflow-y-auto">
             <table className="w-full">
               <thead>
-                <tr className="sticky top-0 bg-white dark:bg-gray-900 h-16">
+                <tr className="sticky top-0 bg-white dark:bg-card h-16">
                   <th className="w-[300px] text-left px-6 py-3"></th>
                   {sortedMonths.map((month) => {
                     // Convert YYYY-MM to readable month format like "Aug 25"
