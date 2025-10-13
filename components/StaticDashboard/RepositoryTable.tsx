@@ -143,7 +143,7 @@ export default function RepositoryTable({
                         {repo.description.Valid && (
                           <Tooltip>
                             <TooltipTrigger asChild>
-                              <div className="text-sm text-muted-foreground truncate cursor-help">
+                              <div className="text-sm text-muted-foreground truncate">
                                 {repo.description.String}
                               </div>
                             </TooltipTrigger>
