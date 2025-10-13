@@ -85,7 +85,27 @@ export function ComparisonBarChart({
             />
             <ChartTooltip
               cursor={false}
-              content={<ChartTooltipContent hideLabel />}
+              content={({ active, payload, label }) => {
+                if (!active || !payload || !payload.length) {
+                  return null;
+                }
+                const data = payload[0].payload;
+                return (
+                  <div className="rounded-lg border bg-background p-2 shadow-md">
+                    <div className="grid gap-2">
+                      <div className="flex flex-row items-center gap-2">
+                        <div className="w-3 h-3 bg-blue-600 rounded"></div>
+                        <span className="text-xs text-muted-foreground">
+                          Repositories
+                        </span>
+                        <span className="text-xs text-muted-foreground text-white">
+                          {data.count.toLocaleString()}
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                );
+              }}
             />
 
             <Bar dataKey="count" strokeWidth={2} radius={8}>

@@ -1,21 +1,7 @@
 import React from "react";
-import {
-  Table,
-  TableBody,
-  TableCell,
-  TableHead,
-  TableHeader,
-  TableRow,
-} from "@/components/ui/table";
-import {
-  Card,
-  CardContent,
-  CardDescription,
-  CardHeader,
-  CardTitle,
-} from "@/components/ui/card";
+import RepositoryTable from "./RepositoryTable";
 
-interface Repository {
+interface ScaffoldRepository {
   repo_url: string;
   full_name: string;
   owner_login: string;
@@ -35,73 +21,60 @@ interface Repository {
 }
 
 interface Top50ScaffoldReposTableProps {
-  repositories: Repository[];
+  repositories: ScaffoldRepository[];
 }
 
 const Top50ScaffoldReposTable: React.FC<Top50ScaffoldReposTableProps> = ({
   repositories,
 }) => {
-  const top50 = repositories.slice(0, 50);
+  // Transform Scaffold-ETH data format to match RepositoryTable expected format
+  const transformedRepos = repositories.map((repo, index) => ({
+    internal_id: index,
+    github_rest_id: 0,
+    github_graphql_id: "",
+    repo_url: {
+      String: repo.repo_url,
+      Valid: true,
+    },
+    name: repo.full_name.split("/")[1] || repo.full_name,
+    full_name: repo.full_name,
+    owner_login: repo.owner_login,
+    description: {
+      String: repo.description || "",
+      Valid: !!repo.description,
+    },
+    language: {
+      String: repo.language,
+      Valid: !!repo.language,
+    },
+    stargazers_count: {
+      Int32: repo.stars_count,
+      Valid: true,
+    },
+    forks_count: {
+      Int32: repo.forks_count,
+      Valid: true,
+    },
+    size: {
+      Int32: 0,
+      Valid: false,
+    },
+    default_branch: {
+      String: "",
+      Valid: false,
+    },
+    total_commits: repo.total_commits,
+    active_days: 0,
+    max_concurrent_authors: 0,
+  }));
 
   return (
-    <Card className="h-full flex flex-col">
-      <CardHeader className="flex items-center gap-2 space-y-0 border-b py-3 sm:py-4 sm:flex-row">
-        <div className="grid flex-1 gap-1 text-center sm:text-left">
-          <CardTitle>Top 50 Scaffold-ETH Repositories</CardTitle>
-          <CardDescription>
-            Most active repos in the last 12 months using Scaffold-ETH
-          </CardDescription>
-        </div>
-      </CardHeader>
-      <CardContent className="pb-6 flex-1 flex flex-col">
-        <div className="h-[300px] overflow-auto border rounded-md">
-          <Table>
-            <TableHeader className="sticky top-0 bg-background z-10">
-              <TableRow>
-                <TableHead className="w-[50px]">Rank</TableHead>
-                <TableHead>Repository</TableHead>
-                <TableHead className="text-right">Stars</TableHead>
-                <TableHead className="text-right">Commits</TableHead>
-                <TableHead className="text-right">Active Months</TableHead>
-              </TableRow>
-            </TableHeader>
-            <TableBody>
-              {top50.map((repo, index) => (
-                <TableRow key={repo.full_name}>
-                  <TableCell className="font-medium">{index + 1}</TableCell>
-                  <TableCell>
-                    <div className="space-y-1">
-                      <a
-                        href={repo.repo_url}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="font-medium text-blue-600 hover:text-blue-800 hover:underline"
-                      >
-                        {repo.full_name}
-                      </a>
-                      {repo.description && (
-                        <p className="text-sm text-muted-foreground line-clamp-2">
-                          {repo.description}
-                        </p>
-                      )}
-                    </div>
-                  </TableCell>
-                  <TableCell className="text-right">
-                    {repo.stars_count.toLocaleString()}
-                  </TableCell>
-                  <TableCell className="text-right">
-                    {repo.total_commits.toLocaleString()}
-                  </TableCell>
-                  <TableCell className="text-right">
-                    {repo.months_with_activity}
-                  </TableCell>
-                </TableRow>
-              ))}
-            </TableBody>
-          </Table>
-        </div>
-      </CardContent>
-    </Card>
+    <RepositoryTable
+      repositories={transformedRepos}
+      title="Top 50 Scaffold-ETH Repositories"
+      description="Most active repos in the last 12 months using Scaffold-ETH"
+      showCommits={true}
+    />
   );
 };
 
