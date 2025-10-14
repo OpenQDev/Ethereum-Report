@@ -77,7 +77,7 @@ const DashboardCard = ({
           <CardTitle className="text-sm font-medium">{metricName}</CardTitle>
           {tooltipText && (
             <div className="group flex ml-2 relative">
-              <InfoIcon className="h-4 w-4 text-muted-foreground hover:text-foreground transition-colors cursor-help" />
+              <InfoIcon className="h-4 w-4 text-muted-foreground hover:text-foreground transition-colors" />
               <div className="absolute left-1/2 -translate-x-1/2 bottom-full mb-2 opacity-0 group-hover:opacity-100 transition-opacity duration-200 pointer-events-none z-50">
                 <div className="relative bg-gray-900 text-white px-4 py-3 text-sm rounded-lg shadow-lg w-80 whitespace-normal border border-gray-700 leading-relaxed">
                   {tooltipText.split("\n").map((line, index) => (

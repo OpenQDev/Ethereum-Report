@@ -60,11 +60,13 @@ export default function TeamsActivityChart({
   );
 
   const chartData = React.useMemo(() => {
-    return months.map((month, index) => ({
-      date: month,
-      commits: totalCommits[index] || 0,
-      teams: activeProjects[index] || 0,
-    }));
+    return months
+      .map((month, index) => ({
+        date: month,
+        commits: totalCommits[index] || 0,
+        teams: activeProjects[index] || 0,
+      }))
+      .filter((item) => item.commits > 0 || item.teams > 0); // Filter out months with no data
   }, [months, totalCommits, activeProjects]);
 
   const chartConfig = {
@@ -175,18 +177,14 @@ export default function TeamsActivityChart({
                     tickMargin={8}
                     minTickGap={isMobile ? 32 : 0}
                     tickFormatter={(value) => {
-                      const date = new Date(value + "-01T00:00:00.000Z");
-                      date.setUTCMonth(date.getUTCMonth() + 1);
-                      const nextMonth = date.toISOString().slice(0, 7);
-
                       if (isMobile) {
-                        const monthDate = new Date(nextMonth + "-01");
+                        const monthDate = new Date(value + "-01");
                         return monthDate.toLocaleDateString("en-US", {
                           month: "short",
                           year: "2-digit",
                         });
                       }
-                      return nextMonth;
+                      return value;
                     }}
                     interval={isMobile ? "preserveStartEnd" : 0}
                     angle={isMobile ? -45 : 0}

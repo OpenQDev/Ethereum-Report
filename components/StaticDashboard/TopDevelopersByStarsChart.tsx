@@ -157,11 +157,8 @@ export default function TopDevelopersByStarsChart({
           <CardDescription>{description}</CardDescription>
         </div>
       </CardHeader>
-      <CardContent className="px-4 pt-4 sm:px-6 sm:pt-6">
-        <ChartContainer
-          config={chartConfig}
-          className={`h-[${isMobile ? "400" : "500"}px] w-full`}
-        >
+      <CardContent>
+        <ChartContainer config={chartConfig} className="h-[500px] w-full">
           <ResponsiveContainer width="100%" height="100%">
             <BarChart
               data={chartData}

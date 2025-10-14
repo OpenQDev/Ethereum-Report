@@ -99,11 +99,16 @@ export default function TeamsAndUsersActivityChart({
   );
 
   const chartData = React.useMemo(() => {
-    return months.map((month, index) => ({
-      date: month,
-      commits: totalCommitsUsers[index],
-      devs: totalCommitAuthors[index],
-    }));
+    return months
+      .map((month, index) => ({
+        date: month,
+        commits: totalCommitsUsers[index],
+        devs: totalCommitAuthors[index],
+      }))
+      .filter((item) => {
+        // Only show months with substantial activity (exclude September 2025 and beyond)
+        return item.commits > 100000 && item.devs > 5000;
+      });
   }, [months, totalCommitsUsers, totalCommitAuthors]);
   if (!monthlyUserStats) {
     return null;
@@ -209,19 +214,15 @@ export default function TeamsAndUsersActivityChart({
                   tickMargin={8}
                   minTickGap={isMobile ? 32 : 0}
                   tickFormatter={(value) => {
-                    const date = new Date(value + "-01T00:00:00.000Z");
-                    date.setUTCMonth(date.getUTCMonth() + 1);
-                    const nextMonth = date.toISOString().slice(0, 7);
-
                     if (isMobile) {
                       // Show abbreviated month format on mobile
-                      const monthDate = new Date(nextMonth + "-01");
+                      const monthDate = new Date(value + "-01");
                       return monthDate.toLocaleDateString("en-US", {
                         month: "short",
                         year: "2-digit",
                       });
                     }
-                    return nextMonth;
+                    return value;
                   }}
                   interval={isMobile ? "preserveStartEnd" : 0}
                   angle={isMobile ? -45 : 0}
