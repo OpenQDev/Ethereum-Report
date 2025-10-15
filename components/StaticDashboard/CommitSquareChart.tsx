@@ -1,5 +1,4 @@
 import CommitSquare from "./CommitSquare";
-import Link from "next/link";
 
 import {
   Card,

@@ -167,29 +167,6 @@ export default function Dashboard() {
         </div>
       </div>
 
-      {/* Scaffold-ETH Section */}
-      <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 lg:items-stretch">
-        <div className="flex flex-col">
-          <ComparisonBarChart
-            data={[
-              {
-                name: "Scaffold-ETH",
-                count: Data.solidityAnalysis?.scaffoldConfig?.total || 0,
-                percentage: 100,
-                color: "hsl(var(--chart-1))",
-              },
-            ]}
-            title="Repositories Using Scaffold-ETH"
-            description="Active repos in the last 12 months built with Scaffold-ETH framework"
-          />
-        </div>
-        <div className="flex flex-col">
-          <Top50ScaffoldReposTable
-            repositories={Data.solidityAnalysis?.scaffoldConfig?.repos || []}
-          />
-        </div>
-      </div>
-
       {/* Smart Contract Ecosystem Comparison */}
       <div className="border-t pt-6 mt-8">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 lg:items-stretch">
