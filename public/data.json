@@ -50,43 +50,203 @@
   "topBlockchains": [
     {
       "dependency_name": "Ethereum",
-      "count": 3750
+      "count": 91646
     },
     {
-      "dependency_name": "Internet Computer",
-      "count": 649
-    },
-    {
-      "dependency_name": "Aptos",
-      "count": 413
-    },
-    {
-      "dependency_name": "Polkadot",
-      "count": 365
-    },
-    {
-      "dependency_name": "Gnosis",
-      "count": 240
+      "dependency_name": "Base",
+      "count": 60663
     },
     {
       "dependency_name": "Polygon",
-      "count": 153
+      "count": 41564
     },
     {
-      "dependency_name": "Wormhole",
-      "count": 106
+      "dependency_name": "Status",
+      "count": 38521
     },
     {
       "dependency_name": "IPFS",
-      "count": 104
+      "count": 36258
     },
     {
-      "dependency_name": "Bitcoin",
-      "count": 89
+      "dependency_name": "Dash",
+      "count": 32276
+    },
+    {
+      "dependency_name": "TON",
+      "count": 29053
+    },
+    {
+      "dependency_name": "Flow",
+      "count": 28583
+    },
+    {
+      "dependency_name": "Scroll",
+      "count": 26440
+    },
+    {
+      "dependency_name": "Arbitrum",
+      "count": 25789
+    },
+    {
+      "dependency_name": "Optimism",
+      "count": 24877
+    },
+    {
+      "dependency_name": "Chainlink",
+      "count": 18483
     },
     {
       "dependency_name": "NEAR",
-      "count": 79
+      "count": 18146
+    },
+    {
+      "dependency_name": "Gnosis",
+      "count": 17557
+    },
+    {
+      "dependency_name": "Solana",
+      "count": 14774
+    },
+    {
+      "dependency_name": "Linea",
+      "count": 13061
+    },
+    {
+      "dependency_name": "BNB",
+      "count": 12299
+    },
+    {
+      "dependency_name": "Tron",
+      "count": 11775
+    },
+    {
+      "dependency_name": "Fantom",
+      "count": 11358
+    },
+    {
+      "dependency_name": "Celo",
+      "count": 10695
+    },
+    {
+      "dependency_name": "Avalanche",
+      "count": 8201
+    },
+    {
+      "dependency_name": "Polkadot",
+      "count": 7962
+    },
+    {
+      "dependency_name": "Zksync",
+      "count": 7606
+    },
+    {
+      "dependency_name": "EOS",
+      "count": 7116
+    },
+    {
+      "dependency_name": "Harmony",
+      "count": 6119
+    },
+    {
+      "dependency_name": "XRP",
+      "count": 5564
+    },
+    {
+      "dependency_name": "Starknet",
+      "count": 5503
+    },
+    {
+      "dependency_name": "Moonbeam",
+      "count": 5258
+    },
+    {
+      "dependency_name": "Chia",
+      "count": 5015
+    },
+    {
+      "dependency_name": "Balancer",
+      "count": 4944
+    },
+    {
+      "dependency_name": "Bitcoin",
+      "count": 4860
+    },
+    {
+      "dependency_name": "Aurora",
+      "count": 4599
+    },
+    {
+      "dependency_name": "Cosmos",
+      "count": 4562
+    },
+    {
+      "dependency_name": "Aptos",
+      "count": 4335
+    },
+    {
+      "dependency_name": "Moonriver",
+      "count": 3836
+    },
+    {
+      "dependency_name": "Lightning",
+      "count": 3759
+    },
+    {
+      "dependency_name": "Ethereum",
+      "count": 3754
+    },
+    {
+      "dependency_name": "Heco",
+      "count": 3695
+    },
+    {
+      "dependency_name": "Ergo",
+      "count": 3481
+    },
+    {
+      "dependency_name": "Terra",
+      "count": 3396
+    },
+    {
+      "dependency_name": "Oasis",
+      "count": 3036
+    },
+    {
+      "dependency_name": "Filecoin",
+      "count": 2949
+    },
+    {
+      "dependency_name": "Mantle",
+      "count": 2858
+    },
+    {
+      "dependency_name": "Cronos",
+      "count": 2721
+    },
+    {
+      "dependency_name": "Scaffoldconfig",
+      "count": 2682
+    },
+    {
+      "dependency_name": "Acala",
+      "count": 2352
+    },
+    {
+      "dependency_name": "Fuel",
+      "count": 2346
+    },
+    {
+      "dependency_name": "Boba",
+      "count": 2239
+    },
+    {
+      "dependency_name": "Stellar",
+      "count": 2161
+    },
+    {
+      "dependency_name": "Arweave",
+      "count": 2156
     }
   ],
   "usersLocations": [
