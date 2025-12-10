@@ -15,6 +15,7 @@ import TopRepositoriesChart from "./TopRepositoriesChart";
 import TopStarredReposChart from "./TopStarredReposChart";
 
 import Data from "../../public/data.json";
+import DependencyCounts from "../../public/dependency_counts.json";
 import Top50DevelopersTable from "./Top50DevelopersTable";
 import Top50DevelopersByStarsTable from "./Top50DevelopersByStarsTable";
 import Top50RepositoriesTable from "./Top50RepositoriesTable";
@@ -70,6 +71,20 @@ export default function Dashboard() {
           >
         }
         months={months}
+      />
+      <DependenciesBarChart
+        dependencies={DependencyCounts.sort((a, b) => b.count - a.count).map(
+          (elem) => {
+            return {
+              dependency_name: elem.dependency_name,
+              count: parseInt(elem.count.toString()),
+            };
+          }
+        )}
+        isEcosystemTools={true}
+        title="Top Ecosystem tools"
+        description="Showing the top tools in the Ethereum ecosystem as seen in dependency usage."
+        top={50}
       />
       <DependenciesBarChart
         dependencies={Data.topDependencies.map((elem) => {

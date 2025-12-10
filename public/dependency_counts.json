@@ -1,0 +1,732 @@
+[
+  {
+    "website": "https://mcp.direct",
+    "dependency_name": "@mcpdotdirect/evm-mcp-server",
+    "count": 1
+  },
+  {
+    "website": "https://mcp.direct",
+    "dependency_name": "@mcpdotdirect/starknet-mcp-server",
+    "count": 0
+  },
+  {
+    "website": "https://mcp.direct",
+    "dependency_name": "@mcpdotdirect/create-mcp-server",
+    "count": 0
+  },
+  {
+    "website": "https://mcp.direct",
+    "dependency_name": "@mcpdotdirect/evm-mcp-server",
+    "count": 1
+  },
+  {
+    "website": "https://mhw0.github.io/libethc/installation.html#building-from-source",
+    "dependency_name": "libethc",
+    "count": 0
+  },
+  {
+    "website": "https://github.com/ngmisl/etherml",
+    "dependency_name": "https://github.com/ngmisl/etherml.git",
+    "count": 0
+  },
+  {
+    "website": "https://node.tevm.sh/",
+    "dependency_name": "tevm",
+    "count": 101
+  },
+  {
+    "website": "https://superbeam.gitbook.io/superbeam/getting-started/quickstart",
+    "dependency_name": "superbeam",
+    "count": 2
+  },
+  {
+    "website": "https://www.open-rpc.org",
+    "dependency_name": "openrpc",
+    "count": 18
+  },
+  {
+    "website": "https://www.bloctopus.io/",
+    "dependency_name": "0xbloctopus/tap/blocmcp",
+    "count": 0
+  },
+  {
+    "website": "https://alloy.rs/",
+    "dependency_name": "alloy",
+    "count": 4116
+  },
+  {
+    "website": "https://github.com/eth-brownie/brownie",
+    "dependency_name": "eth-brownie",
+    "count": 156
+  },
+  {
+    "website": "https://pay.daimo.com/",
+    "dependency_name": "@daimo/pay",
+    "count": 96
+  },
+  {
+    "website": "nftscan.com/",
+    "dependency_name": "nftscan-api",
+    "count": 22
+  },
+  {
+    "website": "kurtosis.com",
+    "dependency_name": "kurtosis",
+    "count": 0
+  },
+  {
+    "website": "https://etherspot.fyi",
+    "dependency_name": "https://github.com/etherspot/skandha",
+    "count": 0
+  },
+  {
+    "website": "https://github.com/miguelmota/go-ethereum-hdwallet",
+    "dependency_name": "github.com/miguelmota/go-ethereum-hdwallet",
+    "count": 1562
+  },
+  {
+    "website": "https://github.com/prettier-solidity/prettier-plugin-solidity",
+    "dependency_name": "prettier-plugin-solidity",
+    "count": 26155
+  },
+  {
+    "website": "https://ethdebug.github.io/format/",
+    "dependency_name": "@ethdebug/format",
+    "count": 7
+  },
+  {
+    "website": "https://github.com/Rubilmax/viem-tracer",
+    "dependency_name": "viem-tracer",
+    "count": 19
+  },
+  {
+    "website": "https://github.com/Rubilmax/executooor",
+    "dependency_name": "executooor-viem",
+    "count": 21
+  },
+  {
+    "website": "https://github.com/ethstorage/es-node.git",
+    "dependency_name": "https://github.com/ethstorage/es-node.git",
+    "count": 0
+  },
+  {
+    "website": "https://loop-decoder-web.vercel.app/decode",
+    "dependency_name": "@3loop/transaction-decoder",
+    "count": 7
+  },
+  {
+    "website": "https://solarity.dev/",
+    "dependency_name": "@solarity/solidity-lib",
+    "count": 67
+  },
+  {
+    "website": "https://github.com/keccak256js/keccak256",
+    "dependency_name": "keccak256",
+    "count": 8797
+  },
+  {
+    "website": "https://www.derive.xyz",
+    "dependency_name": "derive_action_signing",
+    "count": 0
+  },
+  {
+    "website": "brahma.fi/",
+    "dependency_name": "brahma-console-kit",
+    "count": 12
+  },
+  {
+    "website": "https://paulmillr.com/noble/",
+    "dependency_name": "@noble/curves",
+    "count": 7732
+  },
+  {
+    "website": "https://paulmillr.com/noble/",
+    "dependency_name": "@noble/ciphers",
+    "count": 3220
+  },
+  {
+    "website": "https://paulmillr.com/noble/",
+    "dependency_name": "@noble/hashes",
+    "count": 11603
+  },
+  {
+    "website": "https://paulmillr.com/noble/",
+    "dependency_name": "@noble/post-quantum",
+    "count": 40
+  },
+  {
+    "website": "https://github.com/meldsun0/utp",
+    "dependency_name": "UDPTransportLayer",
+    "count": 0
+  },
+  {
+    "website": "https://github.com/openfort-xyz/mobile-wallet-protocol-unity-client?tab=readme-ov-file",
+    "dependency_name": "com.openfort.mobile-wallet-protocol: https://github.com/openfort-xyz/mobile-wallet-protocol-unity-client.git?path=com.openfort.mobile-wallet-protocol",
+    "count": 0
+  },
+  {
+    "website": "https://github.com/alchemyplatform/modular-account",
+    "dependency_name": "@erc6900/reference-implementation",
+    "count": 65
+  },
+  {
+    "website": "https://github.com/alchemyplatform/light-account",
+    "dependency_name": "lightaccount",
+    "count": 0
+  },
+  {
+    "website": "https://rath.fi/",
+    "dependency_name": "@rathfi/tachyon",
+    "count": 0
+  },
+  {
+    "website": "https://codetracer.com/",
+    "dependency_name": "https://github.com/metacraft-labs/codetracer.git",
+    "count": 0
+  },
+  {
+    "website": "https://www.npmjs.com/package/evm-rpcs-list",
+    "dependency_name": "evm-rpcs-list",
+    "count": 8
+  },
+  {
+    "website": "https://www.npmjs.com/package/forge-stack-tracer",
+    "dependency_name": "forge-stack-tracer",
+    "count": 0
+  },
+  {
+    "website": "https://www.diffuse.fi/",
+    "dependency_name": "@diffusefi/zktls-ts-cli",
+    "count": 0
+  },
+  {
+    "website": "https://probelab.io",
+    "dependency_name": "https://github.com/probe-lab/tiros",
+    "count": 0
+  },
+  {
+    "website": "https://x.com/ipshipyard",
+    "dependency_name": "ipfs-npm",
+    "count": 0
+  },
+  {
+    "website": "https://github.com/Nethereum/Nethereum",
+    "dependency_name": "Nethereum.Web3",
+    "count": 20
+  },
+  {
+    "website": "https://github.com/ponder-sh/ponder",
+    "dependency_name": "ponder",
+    "count": 490
+  },
+  {
+    "website": "https://github.com/zsystm/solizard",
+    "dependency_name": "github.com/zsystm/solizard/cmd/solizard@latest",
+    "count": 0
+  },
+  {
+    "website": "https://github.com/Markeljan/web3gpt",
+    "dependency_name": "web3gpt",
+    "count": 0
+  },
+  {
+    "website": "https://github.com/gobitfly/eth2-beaconchain-explorer",
+    "dependency_name": "https://github.com/gobitfly/eth2-beaconchain-explorer",
+    "count": 0
+  },
+  {
+    "website": "https://github.com/ethereum/web3.py",
+    "dependency_name": "web3gpt",
+    "count": 0
+  },
+  {
+    "website": "https://github.com/Farcaster-Attestation/op-attest",
+    "dependency_name": "op-attest",
+    "count": 0
+  },
+  {
+    "website": "https://github.com/GNSPS/solidity-bytes-utils",
+    "dependency_name": "solidity-bytes-utils",
+    "count": 2357
+  },
+  {
+    "website": "https://github.com/snapshot-labs/snapshot",
+    "dependency_name": "@snapshot-labs/snapshot.js",
+    "count": 2279
+  },
+  {
+    "website": "https://fe-lang.org/",
+    "dependency_name": "fe_amd64",
+    "count": 0
+  },
+  {
+    "website": "https://github.com/argotorg/sourcify/releases/tag/sourcify-server%403.8.0",
+    "dependency_name": "sourcify-server",
+    "count": 6
+  },
+  {
+    "website": "https://github.com/upnodedev/signer-proxy",
+    "dependency_name": "signer-proxy",
+    "count": 0
+  },
+  {
+    "website": "https://github.com/ApeWorX/silverback",
+    "dependency_name": "silverback",
+    "count": 6
+  },
+  {
+    "website": "https://github.com/upnodedev/uproll-cli",
+    "dependency_name": "uproll",
+    "count": 0
+  },
+  {
+    "website": "https://github.com/probe-lab/hermes",
+    "dependency_name": "github.com/probe-lab/hermes@latest",
+    "count": 0
+  },
+  {
+    "website": "https://github.com/curvegrid/multibaas-sdk-go",
+    "dependency_name": "https://github.com/curvegrid/multibaas-sdk-go",
+    "count": 0
+  },
+  {
+    "website": "https://github.com/Ratimon/redprint-forge",
+    "dependency_name": "redprint-forge",
+    "count": 0
+  },
+  {
+    "website": "https://github.com/libp2p/rust-libp2p",
+    "dependency_name": "libp2p",
+    "count": 5443
+  },
+  {
+    "website": "https://blobscan.github.io/blobscan-helm-charts",
+    "dependency_name": "https://blobscan.github.io/blobscan-helm-charts",
+    "count": 0
+  },
+  {
+    "website": "https://github.com/opstack-kit/opstack-kit",
+    "dependency_name": "opstack-kit",
+    "count": 1
+  },
+  {
+    "website": "https://github.com/libp2p/js-libp2p",
+    "dependency_name": "libp2p",
+    "count": 5443
+  },
+  {
+    "website": "https://github.com/libp2p/go-libp2p",
+    "dependency_name": "github.com/libp2p/go-libp2p",
+    "count": 6402
+  },
+  {
+    "website": "https://github.com/Cyfrin/aderyn",
+    "dependency_name": "@cyfrin/aderyn",
+    "count": 29
+  },
+  {
+    "website": "https://github.com/bluealloy/revm?tab=readme-ov-file",
+    "dependency_name": "revm",
+    "count": 3640
+  },
+  {
+    "website": "https://github.com/wevm/viem",
+    "dependency_name": "viem",
+    "count": 36285
+  },
+  {
+    "website": "https://github.com/Vectorized/solady",
+    "dependency_name": "solady",
+    "count": 2534
+  },
+  {
+    "website": "https://github.com/Cyfrin/moccasin",
+    "dependency_name": "moccasin",
+    "count": 1
+  },
+  {
+    "website": "https://github.com/pcaversaccio/xdeployer",
+    "dependency_name": "xdeployer",
+    "count": 172
+  },
+  {
+    "website": "https://www.npmjs.com/package/hardhat-gas-reporter",
+    "dependency_name": "hardhat-gas-reporter",
+    "count": 32885
+  },
+  {
+    "website": "https://github.com/vyperlang/vyper",
+    "dependency_name": "vyper",
+    "count": 924
+  },
+  {
+    "website": "https://pypi.org/project/snekmate/",
+    "dependency_name": "snekmate",
+    "count": 10
+  },
+  {
+    "website": "https://www.npmjs.com/package/@bonadocs/zimulatoor",
+    "dependency_name": "@bonadocs/zimulatoor",
+    "count": 0
+  },
+  {
+    "website": "https://www.npmjs.com/package/@bonadocs/widget",
+    "dependency_name": "@bonadocs/widget",
+    "count": 19
+  },
+  {
+    "website": "https://www.npmjs.com/package/@bonadocs/docgen",
+    "dependency_name": "@bonadocs/docgen",
+    "count": 33
+  },
+  {
+    "website": "https://www.npmjs.com/package/@bonadocs/core",
+    "dependency_name": "@bonadocs/core",
+    "count": 3
+  },
+  {
+    "website": "https://www.npmjs.com/package/@bonadocs/cli",
+    "dependency_name": "@bonadocs/cli",
+    "count": 0
+  },
+  {
+    "website": "https://github.com/stargate-protocol/stargate/blob/main/package.json",
+    "dependency_name": "@layerzerolabs/sg-sdk",
+    "count": 23
+  },
+  {
+    "website": "https://www.npmjs.com/package/@zk-email/contracts",
+    "dependency_name": "@zk-email/contracts",
+    "count": 127
+  },
+  {
+    "website": "https://www.npmjs.com/package/@decent.xyz/box-common",
+    "dependency_name": "@decent.xyz/box-common",
+    "count": 127
+  },
+  {
+    "website": "https://www.npmjs.com/package/@decent.xyz/box-hooks",
+    "dependency_name": "@decent.xyz/box-hooks",
+    "count": 122
+  },
+  {
+    "website": "https://www.npmjs.com/package/@decent.xyz/box-ui",
+    "dependency_name": "@decent.xyz/box-ui",
+    "count": 119
+  },
+  {
+    "website": "https://www.npmjs.com/package/@decent.xyz/the-box",
+    "dependency_name": "@decent.xyz/the-box",
+    "count": 19
+  },
+  {
+    "website": "https://github.com/passportxyz/passport",
+    "dependency_name": "@human.tech/passport-embed",
+    "count": 5
+  },
+  {
+    "website": "https://www.npmjs.com/package/@ethereum-attestation-service/eas-contracts",
+    "dependency_name": "@ethereum-attestation-service/eas-contracts",
+    "count": 468
+  },
+  {
+    "website": "https://github.com/cgewecke/hardhat-gas-reporter",
+    "dependency_name": "hardhat-gas-reporter",
+    "count": 32885
+  },
+  {
+    "website": "https://www.npmjs.com/package/@hatsprotocol/sdk-v1-subgraph",
+    "dependency_name": "@hatsprotocol/sdk-v1-subgraph",
+    "count": 131
+  },
+  {
+    "website": "https://www.npmjs.com/package/@hatsprotocol/sdk-v1-core",
+    "dependency_name": "@hatsprotocol/sdk-v1-core",
+    "count": 101
+  },
+  {
+    "website": "https://www.npmjs.com/package/@hatsprotocol/modules-sdk",
+    "dependency_name": "@hatsprotocol/modules-sdk",
+    "count": 65
+  },
+  {
+    "website": "https://www.npmjs.com/package/@hatsprotocol/hsg-sdk",
+    "dependency_name": "@hatsprotocol/hsg-sdk",
+    "count": 1
+  },
+  {
+    "website": "https://www.npmjs.com/package/@openocean.finance/wallet",
+    "dependency_name": "@openocean.finance/wallet",
+    "count": 2
+  },
+  {
+    "website": "https://www.npmjs.com/package/@openocean.finance/openocean-sdk",
+    "dependency_name": "@openocean.finance/openocean-sdk",
+    "count": 14
+  },
+  {
+    "website": "https://www.npmjs.com/package/@lifi/sdk",
+    "dependency_name": "@lifi/sdk",
+    "count": 2401
+  },
+  {
+    "website": "https://hardhat.org/",
+    "dependency_name": "hardhat",
+    "count": 63376
+  },
+  {
+    "website": "https://github.com/vaariance/variance-dart",
+    "dependency_name": "variance_dart",
+    "count": 0
+  },
+  {
+    "website": "https://github.com/merkletreejs/merkletreejs",
+    "dependency_name": "merkletreejs",
+    "count": 9569
+  },
+  {
+    "website": "https://github.com/Cyfrin/foundry-devops",
+    "dependency_name": "Cyfrin/foundry-devops",
+    "count": 0
+  },
+  {
+    "website": "https://github.com/PaulRBerg/prb-math",
+    "dependency_name": "@prb/math",
+    "count": 1001
+  },
+  {
+    "website": "https://github.com/tryethernal/ethernal",
+    "dependency_name": "https://github.com/tryethernal/ethernal.git",
+    "count": 0
+  },
+  {
+    "website": "https://github.com/psychemist/deo-ai",
+    "dependency_name": "https://github.com/psychemist/deo-ai",
+    "count": 0
+  },
+  {
+    "website": "https://github.com/meldsun0/samba",
+    "dependency_name": "https://github.com/meldsun0/samba",
+    "count": 0
+  },
+  {
+    "website": "https://github.com/scaffold-eth/create-eth-extensions",
+    "dependency_name": "create-eth",
+    "count": 52
+  },
+  {
+    "website": "https://rainbowkit-theme.com/",
+    "dependency_name": "@rainbow-me/rainbowkit",
+    "count": 19067
+  },
+  {
+    "website": "https://wagmi.sh",
+    "dependency_name": "wagmi",
+    "count": 32781
+  },
+  {
+    "website": "https://github.com/protofire/solhint",
+    "dependency_name": "solhint",
+    "count": 23693
+  },
+  {
+    "website": "https://github.com/vyperlang/titanoboa",
+    "dependency_name": "titanoboa",
+    "count": 42
+  },
+  {
+    "website": "https://github.com/LFDT-web3j/web3j",
+    "dependency_name": "org.web3j:core",
+    "count": 2124
+  },
+  {
+    "website": "https://github.com/juanfranblanco/vscode-solidity",
+    "dependency_name": "vscode-solidity-server",
+    "count": 1
+  },
+  {
+    "website": "https://github.com/ethers-io/ethers.js",
+    "dependency_name": "ethers",
+    "count": 100537
+  },
+  {
+    "website": "https://github.com/sc-forks/solidity-coverage",
+    "dependency_name": "solidity-coverage",
+    "count": 32634
+  },
+  {
+    "website": "https://github.com/adraffy/blocksmith.js",
+    "dependency_name": "@adraffy/blocksmith",
+    "count": 25
+  },
+  {
+    "website": "https://www.npmjs.com/package/openzeppelin-solidity",
+    "dependency_name": "@openzeppelin/contracts",
+    "count": 53750
+  },
+  {
+    "website": "https://synpress.io/",
+    "dependency_name": "@synthetixio/synpress",
+    "count": 2095
+  },
+  {
+    "website": "https://docs.candide.dev/wallet/guides/signing/",
+    "dependency_name": "abstractionkit",
+    "count": 28
+  },
+  {
+    "website": "https://usecannon.com/",
+    "dependency_name": "hardhat-cannon",
+    "count": 304
+  },
+  {
+    "website": "https://superfuse.ninja/",
+    "dependency_name": "superfuse-forge",
+    "count": 0
+  },
+  {
+    "website": "https://github.com/Ratimon/solid-grinder",
+    "dependency_name": "solid-grinder",
+    "count": 0
+  },
+  {
+    "website": "https://github.com/joshstevens19/ethereum-multicall",
+    "dependency_name": "ethereum-multicall",
+    "count": 1187
+  },
+  {
+    "website": "https://github.com/joshstevens19/ethereum-bloom-filters?tab=readme-ov-file",
+    "dependency_name": "ethereum-bloom-filters",
+    "count": 801
+  },
+  {
+    "website": "https://github.com/collinsadi/diamonds",
+    "dependency_name": "diamondscaffold",
+    "count": 0
+  },
+  {
+    "website": "https://github.com/shazow/whatsabi",
+    "dependency_name": "@shazow/whatsabi",
+    "count": 467
+  },
+  {
+    "website": "https://github.com/alchemyplatform/rundler",
+    "dependency_name": "rundler",
+    "count": 0
+  },
+  {
+    "website": "https://github.com/alexfertel/bulloak",
+    "dependency_name": "bulloak",
+    "count": 10
+  },
+  {
+    "website": "https://github.com/Raiden1411/zabi",
+    "dependency_name": "zabi",
+    "count": 9
+  },
+  {
+    "website": "https://www.npmjs.com/package/@markeljan/circuitbreaker",
+    "dependency_name": "@markeljan/circuitbreaker",
+    "count": 0
+  },
+  {
+    "website": "https://www.npmjs.com/package/@lifi/widget",
+    "dependency_name": "@lifi/widget",
+    "count": 1102
+  },
+  {
+    "website": "https://www.npmjs.com/package/@routerprotocol/asset-bridge",
+    "dependency_name": "@routerprotocol/asset-bridge",
+    "count": 0
+  },
+  {
+    "website": "https://www.npmjs.com/package/@routerprotocol/asset-forwarder",
+    "dependency_name": "@routerprotocol/asset-forwarder",
+    "count": 1
+  },
+  {
+    "website": "https://www.npmjs.com/package/@routerprotocol/evm-gateway-contracts",
+    "dependency_name": "@routerprotocol/evm-gateway-contracts",
+    "count": 50
+  },
+  {
+    "website": "https://www.npmjs.com/package/multicaller",
+    "dependency_name": "multicaller",
+    "count": 2
+  },
+  {
+    "website": "https://www.npmjs.com/package/@debridge-finance/debridge-protocol-evm-interfaces",
+    "dependency_name": "@debridge-finance/debridge-protocol-evm-interfaces",
+    "count": 5
+  },
+  {
+    "website": "https://www.npmjs.com/package/@debridge-finance/legacy-dln-profitability",
+    "dependency_name": "@debridge-finance/legacy-dln-profitability",
+    "count": 7
+  },
+  {
+    "website": "https://www.npmjs.com/package/@debridge-finance/desdk",
+    "dependency_name": "@debridge-finance/desdk",
+    "count": 10
+  },
+  {
+    "website": "https://www.npmjs.com/package/@debridge-finance/dln-client",
+    "dependency_name": "@debridge-finance/dln-client",
+    "count": 13
+  },
+  {
+    "website": "https://www.npmjs.com/package/@debridge-finance/dln-taker",
+    "dependency_name": "@debridge-finance/dln-taker",
+    "count": 0
+  },
+  {
+    "website": "https://www.npmjs.com/package/@optidomains/passport-discord",
+    "dependency_name": "@optidomains/passport-discord",
+    "count": 5
+  },
+  {
+    "website": "https://www.npmjs.com/package/@optidomains/wagmi-core",
+    "dependency_name": "@optidomains/wagmi-core",
+    "count": 0
+  },
+  {
+    "website": "https://www.npmjs.com/package/@optidomains/wagmi-core",
+    "dependency_name": "@optidomains/wagmi",
+    "count": 0
+  },
+  {
+    "website": "https://www.npmjs.com/package/@optidomains/rainbowkit",
+    "dependency_name": "@optidomains/rainbowkit",
+    "count": 0
+  },
+  {
+    "website": "https://www.npmjs.com/package/@openfort/openfort-js",
+    "dependency_name": "@openfort/openfort-js",
+    "count": 60
+  },
+  {
+    "website": "https://www.npmjs.com/package/@aragon/ods",
+    "dependency_name": "@aragon/ods",
+    "count": 61
+  },
+  {
+    "website": "https://www.npmjs.com/package/skandha",
+    "dependency_name": "skhanda",
+    "count": 0
+  },
+  {
+    "website": "https://www.npmjs.com/package/@etherspot/prime-sdk",
+    "dependency_name": "@etherspot/prime-sd",
+    "count": 0
+  },
+  {
+    "website": "https://github.com/framesjs/frames.js",
+    "dependency_name": "frames.js",
+    "count": 780
+  },
+  {
+    "website": "https://github.com/Aave",
+    "dependency_name": "@aave/protocol-v2",
+    "count": 851
+  }
+]
