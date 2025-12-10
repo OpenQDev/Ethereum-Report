@@ -58,7 +58,7 @@ export function DependenciesBarChart({
   top,
 }: {
   dependencies: { dependency_name: string; count: number }[];
-  isEcosystemTools: boolean;
+  isEcosystemTools?: boolean;
   title: string;
   description: string;
   top: number;
