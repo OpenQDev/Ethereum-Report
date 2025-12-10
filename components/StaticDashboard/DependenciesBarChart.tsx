@@ -52,11 +52,13 @@ const CustomTooltipContent = ({ active, payload, label }: any) => {
 
 export function DependenciesBarChart({
   dependencies,
+  isEcosystemTools,
   title,
   description,
   top,
 }: {
   dependencies: { dependency_name: string; count: number }[];
+  isEcosystemTools: boolean;
   title: string;
   description: string;
   top: number;
@@ -119,7 +121,9 @@ export function DependenciesBarChart({
             <div className="grid flex-1 gap-1 text-center sm:text-left">
               <CardTitle className="text-lg">{title}</CardTitle>
               <CardDescription className="text-sm">
-                Top {displayCount} {title.toLowerCase()}
+                {isEcosystemTools
+                  ? description
+                  : `Top ${displayCount} ${title.toLowerCase()}`}
               </CardDescription>
             </div>
           </CardHeader>
